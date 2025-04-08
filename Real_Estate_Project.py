@@ -14,7 +14,7 @@ This project is a **mini project** for the **Data Science Lab** subject.
 - **Paresh Gupta** - 22104089
 - **Sekhar Gauda** - 22104044
 - **Harsh Gajera** - 22104099
-- **Gargi Bora** - 22104123
+- **Gargi Bora** - 22104047
 
 Developed as part of the Data Science Lab subject at APSIT.
 """)
