@@ -1,0 +1,1075 @@
+{
+    "prompt": "Who are you?",
+    "response": "I'm RealtEase, your AI-powered real estate buddy. I help you find the perfect home in Mumbai!"
+  }
+  {
+    "prompt": "What's your name?",
+    "response": "You can call me RealtEase — your real estate genie! 🏡✨"
+  }
+  {
+    "prompt": "What do you do?",
+    "response": "I assist you in finding apartments, filtering listings, and answering all things real estate. Just ask away!"
+  }
+  {
+    "prompt": "Who made you?",
+    "response": "I was created by Paresh Gupta — the brain behind my code and property wisdom!"
+  }
+  {
+    "prompt": "Looking for a 1 BHK flat in Karjat, preferably under 22 Lakh",
+    "response": "Yes, there's a 1 BHK in Unimont Aurum, Karjat, Mumbai Beyond Thane listed for 19 Lakh."
+  }
+  {
+    "prompt": "Do you have any listings in Sector 8 Kopar Khairane with semifurnished furnishing?",
+    "response": "Yes, there's a 2 BHK in Om Arcade Chs, Sector 8 Kopar Khairane, Navi Mumbai listed for 1.20 Cr."
+  }
+  {
+    "prompt": "What's available in Balkum under 2.47 Cr?",
+    "response": "Yes, there's a 2 BHK in Piramal Vaikunth, Balkum, Thane listed for 2.30 Cr."
+  }
+  {
+    "prompt": "Looking for a 2 BHK flat in Kavesar, preferably under 1.26 Cr",
+    "response": "Yes, there's a 2 BHK in Rosa Bella, Kavesar, Thane listed for 1.20 Cr."
+  }
+  {
+    "prompt": "Find me a 99 BHK in Malad East under 5.47 Cr",
+    "response": "Yes, there's a 99 BHK in Omkar Alta Monte, Malad East, Mumbai Andheri-Dahisar listed for 5.00 Cr."
+  }
+  {
+    "prompt": "What's available in Ghansoli under 1.05 Cr?",
+    "response": "Yes, there's a 1 BHK in Bhairaav Gold Crest Residency, Ghansoli, Navi Mumbai listed for 96 Lakh."
+  }
+  {
+    "prompt": "Show me 4 BHK flats in Versova",
+    "response": "Yes, there's a 4 BHK in Raiaskaran Parthenon, Versova, Mumbai Andheri-Dahisar listed for 19.50 Cr."
+  }
+  {
+    "prompt": "What’s a good 1 BHK option in Marol around 1.46 Cr?",
+    "response": "Yes, there's a 1 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.35 Cr."
+  }
+  {
+    "prompt": "What's available in Ambernath under 57 Lakh?",
+    "response": "Yes, there's a 2 BHK in Mohan Precious Greens, Ambernath, Mumbai Beyond Thane listed for 52 Lakh."
+  }
+  {
+    "prompt": "Any semifurnished apartments in Sindhi Society Chembur for around 1.60 Cr?",
+    "response": "Yes, there's a 1 BHK in Viceroy, Sindhi Society Chembur, Mumbai Harbour listed for 1.47 Cr."
+  }
+  {
+    "prompt": "Show me 2 BHK flats in Dahisar East",
+    "response": "Yes, there's a 2 BHK in Celestial Living , Dahisar East, Mumbai Andheri-Dahisar listed for 90 Lakh."
+  }
+  
+
+
+
+{"prompt": "Who are you?","response": "I'm RealtEase, your AI-powered real estate buddy. I help you find the perfect home in Mumbai!"}
+{"prompt": "What's your name?","response": "You can call me RealtEase — your real estate genie! 🏡✨"}
+{"prompt": "What do you do?","response": "I assist you in finding apartments, filtering listings, and answering all things real estate. Just ask away!"}
+{"prompt": "Who made you?","response": "I was created by Paresh Gupta — the brain behind my code and property wisdom!"}
+{"prompt": "Are you a human?","response": "Nope, just a super-smart AI called RealtEase here to help you with real estate questions. Zero coffee breaks needed!"}
+{"prompt": "Can you help me find a flat?","response": "Absolutely! Tell me what you're looking for — price, BHK, area — and I'll dig up the best listings for you."}
+{  "prompt": "Are you always available?",  "response": "24/7! I don’t sleep, I don’t eat, I just find flats. 🏙️"}
+{  "prompt": "What cities do you work in?",  "response": "I specialize in Mumbai and its suburbs. From Andheri to Thane — I’ve got it all covered!"}
+{  "prompt": "Do you sell properties?",  "response": "Nope! I just guide you to the best listings based on your preferences."}
+{  "prompt": "Can I trust you?",  "response": "I only show verified listings from your dataset. I’m as trustworthy as your best real estate agent — minus the commission!"}
+{  "prompt": "Do you have any cool features?",  "response": "Apart from answering smartly? I can filter listings by price, BHK, locality, and even balcony count!"}
+{"prompt": "Looking for a 1 BHK flat in Karjat, preferably under 22 Lakh","response": "Yes, there's a 1 BHK in Unimont Aurum, Karjat, Mumbai Beyond Thane listed for 19 Lakh."}
+{"prompt": "Do you have any listings in Sector 8 Kopar Khairane with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Om Arcade Chs, Sector 8 Kopar Khairane, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "What's available in Balkum under 2.47 Cr?", "response": "Yes, there's a 2 BHK in Piramal Vaikunth, Balkum, Thane listed for 2.30 Cr."}
+{"prompt": "Do you have any listings in Sector 2 Charkop with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Aditya Coperative Housing Society, Sector 2 Charkop, Mumbai Andheri-Dahisar listed for 1.20 Cr."}
+{"prompt": "Are there any low rise apartments in Dombivli East?", "response": "Yes, there's a 1 BHK in Anantnath And Forever City, Dombivli East, Mumbai Beyond Thane listed for 39 Lakh."}
+{"prompt": "Are there any mid rise apartments in Naigaon East?", "response": "Yes, there's a 2 BHK in Navkar City, Naigaon East, Mira Road And Beyond listed for 52 Lakh."}
+{"prompt": "Show me 3 BHK flats in Kharghar", "response": "Yes, there's a 3 BHK in Today Global Anandam, Kharghar, Navi Mumbai listed for 2.29 Cr."}
+{"prompt": "What's available in Nalasopara West under 30 Lakh?", "response": "Yes, there's a 2 BHK in Deep Garden, Nalasopara West, Mira Road And Beyond listed for 28 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Asha Nagar around 2.99 Cr?", "response": "Yes, there's a 3 BHK in Marigold Miraaya, Asha Nagar, Central Mumbai Suburbs listed for 2.77 Cr."}
+{"prompt": "Do you have any listings in Badlapur with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in On Request, Badlapur, Mumbai Beyond Thane listed for 32 Lakh."}
+{"prompt": "Find me a 2 BHK in Chembur East under 2.64 Cr", "response": "Yes, there's a 2 BHK in Arjun Apartments, Chembur East, Mumbai Harbour listed for 2.25 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Kavesar, preferably under 1.26 Cr", "response": "Yes, there's a 2 BHK in Rosa Bella, Kavesar, Thane listed for 1.20 Cr."}
+{"prompt": "Find me a 99 BHK in Malad East under 5.47 Cr", "response": "Yes, there's a 99 BHK in Omkar Alta Monte, Malad East, Mumbai Andheri-Dahisar listed for 5.00 Cr."}
+{"prompt": "What's available in Ghansoli under 1.05 Cr?", "response": "Yes, there's a 1 BHK in Bhairaav Gold Crest Residency, Ghansoli, Navi Mumbai listed for 96 Lakh."}
+{"prompt": "Show me 4 BHK flats in Versova", "response": "Yes, there's a 4 BHK in Raiaskaran Parthenon, Versova, Mumbai Andheri-Dahisar listed for 19.50 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Marol around 1.46 Cr?", "response": "Yes, there's a 1 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.35 Cr."}
+{"prompt": "What's available in Ambernath under 57 Lakh?", "response": "Yes, there's a 2 BHK in Mohan Precious Greens, Ambernath, Mumbai Beyond Thane listed for 52 Lakh."}
+{"prompt": "Any semifurnished apartments in Sindhi Society Chembur for around 1.60 Cr?", "response": "Yes, there's a 1 BHK in Viceroy, Sindhi Society Chembur, Mumbai Harbour listed for 1.47 Cr."}
+{"prompt": "Show me 2 BHK flats in Dahisar East", "response": "Yes, there's a 2 BHK in Celestial Living , Dahisar East, Mumbai Andheri-Dahisar listed for 90 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Kandivali East around 3.68 Cr?", "response": "Yes, there's a 3 BHK in White Cityss, Kandivali East, Mumbai Andheri-Dahisar listed for 3.35 Cr."}
+{"prompt": "Find me a 3 BHK in Ghodbunder Road under 1.80 Cr", "response": "Yes, there's a 3 BHK in Godrej Emerald, Ghodbunder Road, Thane listed for 1.50 Cr."}
+{"prompt": "Do you have any listings in Lower Parel with furnished furnishing?", "response": "Yes, there's a 3 BHK in Lodha World Crest, Lower Parel, South Mumbai listed for 11.50 Cr."}
+{"prompt": "Are there any low rise apartments in Sector 14 Vashi?", "response": "Yes, there's a 3 BHK in M G Complex, Sector 14 Vashi, Navi Mumbai listed for 3.68 Cr."}
+{"prompt": "Can I get a 3 BHK in Dhokali for less than 1.76 Cr?", "response": "Yes, there's a 3 BHK in Gala Pride Presidency Luxuria, Dhokali, Thane listed for 1.54 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Borivali East around 8.25 Cr?", "response": "Yes, there's a 4 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 7.00 Cr."}
+{"prompt": "What's available in Anand Nagar under 1.05 Cr?", "response": "Yes, there's a 2 BHK in Sudarshan Sky Garden, Anand Nagar, Thane listed for 94 Lakh."}
+{"prompt": "Show me 2 BHK flats in Ambernath", "response": "Yes, there's a 2 BHK in Mohan Precious Greens, Ambernath, Mumbai Beyond Thane listed for 52 Lakh."}
+{"prompt": "Do you have any listings in Sector 34C Kharghar with unfurnished furnishing?", "response": "Yes, there's a 3 BHK in Siddharth Geetanjali Sujay, Sector 34C Kharghar, Navi Mumbai listed for 1.80 Cr."}
+{"prompt": "Are there any low rise apartments in Nallasopara?", "response": "Yes, there's a 2 BHK in Indralok Housing Society, Nallasopara, Mira Road And Beyond listed for 34 Lakh."}
+{"prompt": "Show me 3 BHK flats in Dombivli West", "response": "Yes, there's a 3 BHK in Swaminarayan City, Dombivli West, Mumbai Beyond Thane listed for 1.24 Cr."}
+{"prompt": "Can I get a 1 BHK in Mira Bhayandar for less than 88 Lakh?", "response": "Yes, there's a 1 BHK in Space Residences 2, Mira Bhayandar, Mira Road And Beyond listed for 77 Lakh."}
+{"prompt": "Do you have any listings in Ghansoli with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Gami Asters, Ghansoli, Navi Mumbai listed for 2.18 Cr."}
+{"prompt": "Any unfurnished apartments in Willingdon for around 4.39 Cr?", "response": "Yes, there's a 2 BHK in Orchid Elegance, Willingdon, Mumbai South West listed for 4.00 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Jui Nagar, preferably under 2.24 Cr", "response": "Yes, there's a 2 BHK in Raheja Solaris, Jui Nagar, Navi Mumbai listed for 1.95 Cr."}
+{"prompt": "Find me a 2 BHK in Jk Gram under 1.61 Cr", "response": "Yes, there's a 2 BHK in Raymond Realty Ten X Habitat, Jk Gram, Thane listed for 1.53 Cr."}
+{"prompt": "Are there any mid rise apartments in Kalyan?", "response": "Yes, there's a 3 BHK in Krishna Anand, Kalyan, Mumbai Beyond Thane listed for 1.42 Cr."}
+{"prompt": "Suggest some budget properties in Lower Parel", "response": "Yes, there's a 3 BHK in Lodha World Crest, Lower Parel, South Mumbai listed for 11.50 Cr."}
+{"prompt": "Show me 3 BHK flats in Sector 15 Belapur", "response": "Yes, there's a 3 BHK in Sara Antalya, Sector 15 Belapur, Navi Mumbai listed for 3.35 Cr."}
+{"prompt": "Do you have any listings in Ghatla with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Shubham Trident, Ghatla, Mumbai Harbour listed for 4.59 Cr."}
+{"prompt": "Any semifurnished apartments in Vasai West for around 1.39 Cr?", "response": "Yes, there's a 5 BHK in Ganshyam Park , Vasai West, Mira Road And Beyond listed for 1.32 Cr."}
+{"prompt": "Show me 3 BHK flats in Sanpada", "response": "Yes, there's a 3 BHK in Bhumiraj Iraisaa, Sanpada, Navi Mumbai listed for 3.30 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Kandivali West, preferably under 1.52 Cr", "response": "Yes, there's a 2 BHK in Charkop Jaydev Chs, Kandivali West, Mumbai Andheri-Dahisar listed for 1.40 Cr."}
+{"prompt": "Can I get a 3 BHK in Lower Parel for less than 13.80 Cr?", "response": "Yes, there's a 3 BHK in Lodha World Crest, Lower Parel, South Mumbai listed for 11.50 Cr."}
+{"prompt": "Are there any low rise apartments in Dombivli East?", "response": "Yes, there's a 3 BHK in Runwal My City, Dombivli East, Mumbai Beyond Thane listed for 92 Lakh."}
+{"prompt": "Do you have any listings in Sector 35I Kharghar with furnished furnishing?", "response": "Yes, there's a 2 BHK in Bks Galaxy, Sector 35I Kharghar, Navi Mumbai listed for 1.05 Cr."}
+{"prompt": "Any semifurnished apartments in Naigaon East for around 45 Lakh?", "response": "Yes, there's a 1 BHK in Sunteck West World, Naigaon East, Mira Road And Beyond listed for 42 Lakh."}
+{"prompt": "Are there any low rise apartments in Pokhran 2?", "response": "Yes, there's a 4 BHK in The Address By Gs By Raymond Realty, Pokhran 2, Thane listed for 4.20 Cr."}
+{"prompt": "What's available in Taloja under 36 Lakh?", "response": "Yes, there's a 1 BHK in Arihant Anaika, Taloja, Navi Mumbai listed for 32 Lakh."}
+{"prompt": "Looking for a flat in Dombivli East with at least 1 balconies", "response": "Yes, there's a 2 BHK in Vishnu Om Maitri Icon, Dombivli East, Mumbai Beyond Thane listed for 59 Lakh."}
+{"prompt": "Do you have any listings in Andheri East with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Aventus Westbrook, Andheri East, Mumbai Andheri-Dahisar listed for 2.75 Cr."}
+{"prompt": "Do you have any listings in Sector 23 Ulwe with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in On Request , Sector 23 Ulwe, Navi Mumbai listed for 50 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Jogeshwari East around 2.00 Cr?", "response": "Yes, there's a 3 BHK in Metro Devbhoomi, Jogeshwari East, Mumbai Andheri-Dahisar listed for 1.90 Cr."}
+{"prompt": "Find me a 3 BHK in Kharghar under 1.95 Cr", "response": "Yes, there's a 3 BHK in Sairama Signature, Kharghar, Navi Mumbai listed for 1.63 Cr."}
+{"prompt": "Show me 3 BHK flats in Ghodbunder Road", "response": "Yes, there's a 3 BHK in Godrej Emerald, Ghodbunder Road, Thane listed for 1.43 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Badlapur around 27 Lakh?", "response": "Yes, there's a 1 BHK in Shrushti Hieghts, Badlapur, Mumbai Beyond Thane listed for 24 Lakh."}
+{"prompt": "Show me 3 BHK flats in Louis Wadi", "response": "Yes, there's a 3 BHK in Accolade Chs, Louis Wadi, Thane listed for 4.10 Cr."}
+{"prompt": "Are there any low rise apartments in Kharghar?", "response": "Yes, there's a 4 BHK in Paradise Sai World Empire, Kharghar, Navi Mumbai listed for 3.88 Cr."}
+{"prompt": "Any semifurnished apartments in Hiranandani Estate for around 3.68 Cr?", "response": "Yes, there's a 4 BHK in Florence By Satguru Lifespaces, Hiranandani Estate, Thane listed for 3.35 Cr."}
+{"prompt": "Can I get a 1 BHK in Ulwe for less than 51 Lakh?", "response": "Yes, there's a 1 BHK in Ganaranga Paradise, Ulwe, Navi Mumbai listed for 45 Lakh."}
+{"prompt": "Looking for a flat in Tilak Nagar with at least 1 balconies", "response": "Yes, there's a 1 BHK in Gami And Jaydeep Elanza, Tilak Nagar, Mumbai Harbour listed for 1.01 Cr."}
+{"prompt": "Are there any mid rise apartments in Vikhroli East?", "response": "Yes, there's a 3 BHK in Vaibhavlaxmi One Vikhroli Phase Ii, Vikhroli East, Central Mumbai Suburbs listed for 1.64 Cr."}
+{"prompt": "Suggest some budget properties in Marol", "response": "Yes, there's a 1 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.27 Cr."}
+{"prompt": "Find me a 2 BHK in Kharghar under 1.41 Cr", "response": "Yes, there's a 2 BHK in Arihant Clan Aalishan, Kharghar, Navi Mumbai listed for 1.34 Cr."}
+{"prompt": "Find me a 3 BHK in Kanjurmarg West under 3.65 Cr", "response": "Yes, there's a 3 BHK in Runwal Forests, Kanjurmarg West, Central Mumbai Suburbs listed for 3.25 Cr."}
+{"prompt": "Find me a 3 BHK in Thane West under 4.19 Cr", "response": "Yes, there's a 3 BHK in Kalpataru Tarangan 1, Thane West, Thane listed for 3.55 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Kanjurmarg East around 1.62 Cr?", "response": "Yes, there's a 2 BHK in Runwal Bliss, Kanjurmarg East, Central Mumbai Suburbs listed for 1.40 Cr."}
+{"prompt": "What's available in Dahisar West under 3.14 Cr?", "response": "Yes, there's a 3 BHK in Wadhwa Viceroy Park, Dahisar West, Mumbai Andheri-Dahisar listed for 2.70 Cr."}
+{"prompt": "Find me a 3 BHK in Borivali East under 5.37 Cr", "response": "Yes, there's a 3 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 5.00 Cr."}
+{"prompt": "Show me 1 BHK flats in Kalyan West", "response": "Yes, there's a 1 BHK in Atlantic, Kalyan West, Mumbai Beyond Thane listed for 36 Lakh."}
+{"prompt": "Find me a 2 BHK in Marol under 1.97 Cr", "response": "Yes, there's a 2 BHK in Kanakia Rainforest, Marol, Mumbai Andheri-Dahisar listed for 1.80 Cr."}
+{"prompt": "Do you have any listings in Andheri East with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Rustomjee Central Park, Andheri East, Mumbai Andheri-Dahisar listed for 2.55 Cr."}
+{"prompt": "What's available in Jui Nagar under 4.82 Cr?", "response": "Yes, there's a 4 BHK in Raheja Solaris 2, Jui Nagar, Navi Mumbai listed for 4.28 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Sector 35G Kharghar around 1.61 Cr?", "response": "Yes, there's a 3 BHK in Nisarg Hyde Park, Sector 35G Kharghar, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 10A Airoli around 2.28 Cr?", "response": "Yes, there's a 2 BHK in Sunteck Signia Oceans, Sector 10A Airoli, Navi Mumbai listed for 2.10 Cr."}
+{"prompt": "Find me a 1 BHK in Dombivli East under 47 Lakh", "response": "Yes, there's a 1 BHK in Casa Rio Gardenia, Dombivli East, Mumbai Beyond Thane listed for 40 Lakh."}
+{"prompt": "What's available in Badlapur under 61 Lakh?", "response": "Yes, there's a 3 BHK in Aryan One, Badlapur, Mumbai Beyond Thane listed for 51 Lakh."}
+{"prompt": "Show me 1 BHK flats in Sector 8 Ulwe", "response": "Yes, there's a 1 BHK in Siddhivinayak Chs, Sector 8 Ulwe, Navi Mumbai listed for 42 Lakh."}
+{"prompt": "Find me a 1 BHK in Sector 36 Kamothe under 82 Lakh", "response": "Yes, there's a 1 BHK in Today Shree Saheba, Sector 36 Kamothe, Navi Mumbai listed for 74 Lakh."}
+{"prompt": "Show me 1 BHK flats in Kandivali East", "response": "Yes, there's a 1 BHK in Pratik Springwoods, Kandivali East, Mumbai Andheri-Dahisar listed for 58 Lakh."}
+{"prompt": "Find me a 4 BHK in Pokhran 2 under 4.07 Cr", "response": "Yes, there's a 4 BHK in Asteria By Courtyard, Pokhran 2, Thane listed for 3.58 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Marol around 2.60 Cr?", "response": "Yes, there's a 3 BHK in Sheth Vasant Blossom, Marol, Mumbai Andheri-Dahisar listed for 2.45 Cr."}
+{"prompt": "Any unfurnished apartments in Sector 2 Ulwe for around 72 Lakh?", "response": "Yes, there's a 1 BHK in Gurukrupa Anant, Sector 2 Ulwe, Navi Mumbai listed for 60 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Shivaji Nagar around 2.60 Cr?", "response": "Yes, there's a 2 BHK in Paradigm Ananda Residency, Shivaji Nagar, Mumbai Andheri-Dahisar listed for 2.30 Cr."}
+{"prompt": "Are there any low rise apartments in Panvel?", "response": "Yes, there's a 2 BHK in Tejaswini Enclave, Panvel, Navi Mumbai listed for 92 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Marol around 1.24 Cr?", "response": "Yes, there's a 1 BHK in Naman Premier, Marol, Mumbai Andheri-Dahisar listed for 1.16 Cr."}
+{"prompt": "Any semifurnished apartments in Dombivli West for around 75 Lakh?", "response": "Yes, there's a 2 BHK in Swaminarayan City, Dombivli West, Mumbai Beyond Thane listed for 67 Lakh."}
+{"prompt": "Are there any low rise apartments in Teen Hath Naka?", "response": "Yes, there's a 3 BHK in Deep Auralis The Twins, Teen Hath Naka, Thane listed for 2.95 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Panvel around 2.41 Cr?", "response": "Yes, there's a 4 BHK in Paradise Sai World City, Panvel, Navi Mumbai listed for 2.22 Cr."}
+{"prompt": "Show me 2 BHK flats in Manpada", "response": "Yes, there's a 2 BHK in T Bhimjyani Verraton, Manpada, Thane listed for 1.69 Cr."}
+{"prompt": "What's available in Gulmohar Colony under 6.30 Cr?", "response": "Yes, there's a 3 BHK in Juhu Santivan , Gulmohar Colony, Mumbai South West listed for 5.75 Cr."}
+{"prompt": "Are there any high rise apartments in Hiranandani Gardens Powai?", "response": "Yes, there's a 4 BHK in Hiranandani Glen Ridge, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 11.25 Cr."}
+{"prompt": "What's available in Juhu Scheme under 5.01 Cr?", "response": "Yes, there's a 2 BHK in On Request, Juhu Scheme, Mumbai South West listed for 4.25 Cr."}
+{"prompt": "Looking for a flat in Dombivli East with at least 1 balconies", "response": "Yes, there's a 2 BHK in Marathon Nexworld, Dombivli East, Mumbai Beyond Thane listed for 53 Lakh."}
+{"prompt": "What's available in Mulund West under 3.28 Cr?", "response": "Yes, there's a 2 BHK in Om Laxmi Sadan Chs, Mulund West, Central Mumbai Suburbs listed for 2.75 Cr."}
+{"prompt": "Show me 99 BHK flats in Pali Hill Bandra West", "response": "Yes, there's a 99 BHK in Navroze, Pali Hill Bandra West, Mumbai South West listed for 91.00 Cr."}
+{"prompt": "Suggest some budget properties in Dombivli East", "response": "Yes, there's a 2 BHK in Paradise Sai World Dreams, Dombivli East, Mumbai Beyond Thane listed for 75 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Lower Parel around 11.70 Cr?", "response": "Yes, there's a 3 BHK in Ashford Casagrand, Lower Parel, South Mumbai listed for 10.50 Cr."}
+{"prompt": "Suggest some luxury properties in Kharghar", "response": "Yes, there's a 2 BHK in Paradise Sai World Empire, Kharghar, Navi Mumbai listed for 1.53 Cr."}
+{"prompt": "Find me a 2 BHK in Parel under 4.28 Cr", "response": "Yes, there's a 2 BHK in L And T Crescent Bay, Parel, South Mumbai listed for 3.75 Cr."}
+{"prompt": "Do you have any listings in Sector 34 Kamothe with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Shrushti Complex, Sector 34 Kamothe, Navi Mumbai listed for 69 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Ambernath, preferably under 61 Lakh", "response": "Yes, there's a 2 BHK in Mohan Precious Greens, Ambernath, Mumbai Beyond Thane listed for 52 Lakh."}
+{"prompt": "Can I get a 2 BHK in Vasant Vihar for less than 2.04 Cr?", "response": "Yes, there's a 2 BHK in Siddhachal Phase 6, Vasant Vihar, Thane listed for 1.78 Cr."}
+{"prompt": "Show me 1 BHK flats in Mahavir Nagar", "response": "Yes, there's a 1 BHK in Veena Sarang Chs, Mahavir Nagar, Mumbai Andheri-Dahisar listed for 1.28 Cr."}
+{"prompt": "Looking for a flat in Dombivli East with at least 1 balconies", "response": "Yes, there's a 3 BHK in Lodha Codename Premier, Dombivli East, Mumbai Beyond Thane listed for 88 Lakh."}
+{"prompt": "Show me 3 BHK flats in Sector-46A Seawoods", "response": "Yes, there's a 3 BHK in On Request, Sector-46A Seawoods, Navi Mumbai listed for 3.99 Cr."}
+{"prompt": "Are there any high rise apartments in Goregaon West?", "response": "Yes, there's a 2 BHK in Kalpataru Radiance, Goregaon West, Mumbai Andheri-Dahisar listed for 2.91 Cr."}
+{"prompt": "What's available in Jui Nagar under 5.31 Cr?", "response": "Yes, there's a 4 BHK in Raheja Solaris, Jui Nagar, Navi Mumbai listed for 4.50 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Malad West around 1.37 Cr?", "response": "Yes, there's a 1 BHK in Devashish Society, Malad West, Mumbai Andheri-Dahisar listed for 1.20 Cr."}
+{"prompt": "Any unfurnished apartments in Sector 4 Kharghar for around 1.90 Cr?", "response": "Yes, there's a 3 BHK in Rail Vihar Chs, Sector 4 Kharghar, Navi Mumbai listed for 1.60 Cr."}
+{"prompt": "Suggest some budget properties in Kharghar", "response": "Yes, there's a 2 BHK in Shreeji Aura, Kharghar, Navi Mumbai listed for 1.15 Cr."}
+{"prompt": "Looking for a flat in Mulund West with at least 0 balconies", "response": "Yes, there's a 1 BHK in Vasundhara Heights, Mulund West, Central Mumbai Suburbs listed for 89 Lakh."}
+{"prompt": "Find me a 2 BHK in Sector 34 Kamothe under 1.47 Cr", "response": "Yes, there's a 2 BHK in Pratik Gardens, Sector 34 Kamothe, Navi Mumbai listed for 1.35 Cr."}
+{"prompt": "Suggest some budget properties in Sector 3 Ulwe", "response": "Yes, there's a 1 BHK in On Request, Sector 3 Ulwe, Navi Mumbai listed for 60 Lakh."}
+{"prompt": "What's available in Majiwada under 2.56 Cr?", "response": "Yes, there's a 3 BHK in Lodha Luxuria Priva, Majiwada, Thane listed for 2.15 Cr."}
+{"prompt": "Show me 3 BHK flats in Worli", "response": "Yes, there's a 3 BHK in Sugee Marina Bay, Worli, South Mumbai listed for 11.50 Cr."}
+{"prompt": "Do you have any listings in Goregaon East with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Lodha Fiorenza, Goregaon East, Mumbai Andheri-Dahisar listed for 3.04 Cr."}
+{"prompt": "Suggest some budget properties in Sector 22 Kamothe", "response": "Yes, there's a 1 BHK in Lk Vivanta, Sector 22 Kamothe, Navi Mumbai listed for 65 Lakh."}
+{"prompt": "Suggest some budget properties in Versova", "response": "Yes, there's a 4 BHK in Asshna Seabliss, Versova, Mumbai Andheri-Dahisar listed for 6.89 Cr."}
+{"prompt": "Show me 3 BHK flats in Mahalaxmi", "response": "Yes, there's a 3 BHK in Piramal Mahalaxmi, Mahalaxmi, South Mumbai listed for 7.99 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Wadala East, preferably under 2.30 Cr", "response": "Yes, there's a 2 BHK in Ajmera Bhakti Park Sector 1 And 2, Wadala East, Mumbai Harbour listed for 2.15 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Pokhran 2, preferably under 3.59 Cr", "response": "Yes, there's a 3 BHK in Courtyard By Narang Realty And The Wadhwa Group, Pokhran 2, Thane listed for 3.00 Cr."}
+{"prompt": "Looking for a flat in Kanjurmarg West with at least 1 balconies", "response": "Yes, there's a 1 BHK in Runwal Forests, Kanjurmarg West, Central Mumbai Suburbs listed for 1.24 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Manpada, preferably under 2.18 Cr", "response": "Yes, there's a 3 BHK in Acme Ozone, Manpada, Thane listed for 1.95 Cr."}
+{"prompt": "Can I get a 3 BHK in Kharghar for less than 2.00 Cr?", "response": "Yes, there's a 3 BHK in Platinum Parksyde, Kharghar, Navi Mumbai listed for 1.90 Cr."}
+{"prompt": "Show me 3 BHK flats in Kandivali West", "response": "Yes, there's a 3 BHK in 73 East, Kandivali West, Mumbai Andheri-Dahisar listed for 3.86 Cr."}
+{"prompt": "Looking for a flat in Khar West with at least 1 balconies", "response": "Yes, there's a 2 BHK in Saidhan Infinity, Khar West, Mumbai South West listed for 3.25 Cr."}
+{"prompt": "What's available in New Panvel under 48 Lakh?", "response": "Yes, there's a 1 BHK in Sai Enclave, New Panvel, Navi Mumbai listed for 43 Lakh."}
+{"prompt": "Suggest some budget properties in Mulund West", "response": "Yes, there's a 2 BHK in Vasundhara Heights, Mulund West, Central Mumbai Suburbs listed for 1.21 Cr."}
+{"prompt": "Can I get a 2 BHK in Shivaji Park for less than 4.68 Cr?", "response": "Yes, there's a 2 BHK in Sugee Trimurti, Shivaji Park, South Mumbai listed for 4.25 Cr."}
+{"prompt": "Show me 2 BHK flats in Chakala", "response": "Yes, there's a 2 BHK in Tarun Bharat Society, Chakala, Mumbai Andheri-Dahisar listed for 1.70 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Lower Parel, preferably under 2.21 Cr", "response": "Yes, there's a 1 BHK in Greenfield Cooperative Society Av, Lower Parel, South Mumbai listed for 1.91 Cr."}
+{"prompt": "Suggest some luxury properties in Dhokali", "response": "Yes, there's a 1 BHK in The Icon By Risland, Dhokali, Thane listed for 69 Lakh."}
+{"prompt": "Are there any low rise apartments in Mira Bhayandar?", "response": "Yes, there's a 1 BHK in 127 Raj Homes, Mira Bhayandar, Mira Road And Beyond listed for 64 Lakh."}
+{"prompt": "Do you have any listings in Panvel with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in La Mer Regency, Panvel, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Tagore Nagar around 1.50 Cr?", "response": "Yes, there's a 2 BHK in The Signature Tower, Tagore Nagar, Central Mumbai Suburbs listed for 1.40 Cr."}
+{"prompt": "Do you have any listings in Parel with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Bhoomi Simana, Parel, South Mumbai listed for 3.41 Cr."}
+{"prompt": "Any unfurnished apartments in Hiranandani Estate for around 1.06 Cr?", "response": "Yes, there's a 2 BHK in Palacia Kingston Phase 2, Hiranandani Estate, Thane listed for 95 Lakh."}
+{"prompt": "What's available in Kharghar under 77 Lakh?", "response": "Yes, there's a 2 BHK in Madhuraaj Madhukunj Housing Society, Kharghar, Navi Mumbai listed for 70 Lakh."}
+{"prompt": "Suggest some budget properties in 4 Bunglows", "response": "Yes, there's a 2 BHK in On Request, 4 Bunglows, Mumbai Andheri-Dahisar listed for 2.85 Cr."}
+{"prompt": "Are there any high rise apartments in Hiranandani Meadows?", "response": "Yes, there's a 4 BHK in Amanda Building, Hiranandani Meadows, Thane listed for 3.75 Cr."}
+{"prompt": "What's available in Ulwe under 1.29 Cr?", "response": "Yes, there's a 2 BHK in Balaji Mayuresh Delta, Ulwe, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "Can I get a 1 BHK in Mulund West for less than 1.25 Cr?", "response": "Yes, there's a 1 BHK in Runwal Pinnacle, Mulund West, Central Mumbai Suburbs listed for 1.19 Cr."}
+{"prompt": "Are there any low rise apartments in Sanpada?", "response": "Yes, there's a 2 BHK in Tricity Montview, Sanpada, Navi Mumbai listed for 1.34 Cr."}
+{"prompt": "Find me a 2 BHK in Chandanwadi under 4.13 Cr", "response": "Yes, there's a 2 BHK in Mahakali Kalika Heights, Chandanwadi, Thane listed for 3.50 Cr."}
+{"prompt": "Do you have any listings in Kalamboli with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Ddsr Heights, Kalamboli, Navi Mumbai listed for 52 Lakh."}
+{"prompt": "Do you have any listings in Worli with semifurnished furnishing?", "response": "Yes, there's a 5 BHK in Raheja The Riviere Worli Skyline, Worli, South Mumbai listed for 11.28 Cr."}
+{"prompt": "Show me 1 BHK flats in Ambernath East", "response": "Yes, there's a 1 BHK in Patel Signature, Ambernath East, Mumbai Beyond Thane listed for 26 Lakh."}
+{"prompt": "Suggest some budget properties in Goregaon West", "response": "Yes, there's a 3 BHK in Rudra Odc 1, Goregaon West, Mumbai Andheri-Dahisar listed for 2.42 Cr."}
+{"prompt": "Can I get a 1 BHK in Chandivali for less than 1.37 Cr?", "response": "Yes, there's a 1 BHK in Crescent Silverwoods, Chandivali, Central Mumbai Suburbs listed for 1.20 Cr."}
+{"prompt": "Can I get a 5 BHK in Thakur Village for less than 11.39 Cr?", "response": "Yes, there's a 5 BHK in Viceroy Prive, Thakur Village, Mumbai Andheri-Dahisar listed for 10.23 Cr."}
+{"prompt": "Suggest some luxury properties in Wadala", "response": "Yes, there's a 3 BHK in Lodha New Cuffe Parade, Wadala, Mumbai Harbour listed for 3.32 Cr."}
+{"prompt": "Any semifurnished apartments in Kurla East for around 1.95 Cr?", "response": "Yes, there's a 3 BHK in Sayba Residency, Kurla East, Central Mumbai Suburbs listed for 1.65 Cr."}
+{"prompt": "What's available in Prabhadevi under 6.14 Cr?", "response": "Yes, there's a 3 BHK in Lodha Grandeur, Prabhadevi, South Mumbai listed for 5.45 Cr."}
+{"prompt": "What's available in Balkum under 2.73 Cr?", "response": "Yes, there's a 3 BHK in Kalpataru Sunrise, Balkum, Thane listed for 2.36 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Poonam Gardens, preferably under 83 Lakh", "response": "Yes, there's a 1 BHK in Unique Aurum, Poonam Gardens, Mira Road And Beyond listed for 75 Lakh."}
+{"prompt": "Can I get a 2 BHK in Sector 18 Kharghar for less than 1.67 Cr?", "response": "Yes, there's a 2 BHK in Hi Tech Luxus Tower, Sector 18 Kharghar, Navi Mumbai listed for 1.55 Cr."}
+{"prompt": "Looking for a flat in Waghbil with at least 2 balconies", "response": "Yes, there's a 2 BHK in Manas Anand, Waghbil, Thane listed for 80 Lakh."}
+{"prompt": "Any semifurnished apartments in Hiranandani Gardens Powai for around 10.14 Cr?", "response": "Yes, there's a 3 BHK in Adonia Apartments, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 9.00 Cr."}
+{"prompt": "Can I get a 3 BHK in Mulund West for less than 2.54 Cr?", "response": "Yes, there's a 3 BHK in The Prestige City, Mulund West, Central Mumbai Suburbs listed for 2.26 Cr."}
+{"prompt": "Suggest some luxury properties in Parel", "response": "Yes, there's a 3 BHK in L And T Crescent Bay, Parel, South Mumbai listed for 6.75 Cr."}
+{"prompt": "Do you have any listings in Airoli with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in The Empire Cooperative Housing Society, Airoli, Navi Mumbai listed for 1.35 Cr."}
+{"prompt": "Can I get a 2 BHK in Hiranandani Gardens Powai for less than 3.77 Cr?", "response": "Yes, there's a 2 BHK in Hiranandani Castle Rock, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 3.25 Cr."}
+{"prompt": "Looking for a flat in Gulmohar Colony with at least 0 balconies", "response": "Yes, there's a 2 BHK in On Request, Gulmohar Colony, Mumbai South West listed for 4.50 Cr."}
+{"prompt": "Looking for a flat in Borivali East with at least 1 balconies", "response": "Yes, there's a 3 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 4.15 Cr."}
+{"prompt": "Looking for a 5 BHK flat in Malabar Hill, preferably under 32.91 Cr", "response": "Yes, there's a 5 BHK in Raj Niketan, Malabar Hill , Malabar Hill, South Mumbai listed for 30.00 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Thane West, preferably under 1.14 Cr", "response": "Yes, there's a 1 BHK in The Walk Ventana, Thane West, Thane listed for 96 Lakh."}
+{"prompt": "Are there any low rise apartments in Panch Pakhadi?", "response": "Yes, there's a 2 BHK in Olivia Prime, Panch Pakhadi, Thane listed for 2.11 Cr."}
+{"prompt": "Looking for a 1 BHK flat in New Prabhadevi Road, preferably under 100 Lakh", "response": "Yes, there's a 1 BHK in Suryoday Apartment, New Prabhadevi Road, Mumbai Andheri-Dahisar listed for 90 Lakh."}
+{"prompt": "Are there any low rise apartments in Vile Parle East?", "response": "Yes, there's a 1 BHK in Vishweshwaranand, Vile Parle East, Mumbai South West listed for 75 Lakh."}
+{"prompt": "Find me a 2 BHK in Sector 5 Ulwe under 78 Lakh", "response": "Yes, there's a 2 BHK in Moreshwar Heritage, Sector 5 Ulwe, Navi Mumbai listed for 70 Lakh."}
+{"prompt": "Show me 4 BHK flats in Mulund West", "response": "Yes, there's a 4 BHK in L And T Rejuve 360, Mulund West, Central Mumbai Suburbs listed for 3.63 Cr."}
+{"prompt": "Can I get a 1 BHK in Airoli for less than 95 Lakh?", "response": "Yes, there's a 1 BHK in Parth Lakefront, Airoli, Navi Mumbai listed for 85 Lakh."}
+{"prompt": "Do you have any listings in Wadala with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Lodha New Cuffe Parade, Wadala, Mumbai Harbour listed for 1.51 Cr."}
+{"prompt": "Suggest some budget properties in Vashi", "response": "Yes, there's a 4 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 4.55 Cr."}
+{"prompt": "Are there any low rise apartments in Badlapur West?", "response": "Yes, there's a 1 BHK in Pinnacle Sai World, Badlapur West, Mumbai Beyond Thane listed for 20 Lakh."}
+{"prompt": "Show me 4 BHK flats in Nerul", "response": "Yes, there's a 4 BHK in Balaji Delta Palm Beach, Nerul, Navi Mumbai listed for 4.89 Cr."}
+{"prompt": "What's available in Pokhran 2 under 3.79 Cr?", "response": "Yes, there's a 4 BHK in Asteria By Courtyard, Pokhran 2, Thane listed for 3.58 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Jagdusha Nagar around 1.44 Cr?", "response": "Yes, there's a 1 BHK in Om Gopal Krishna Chs, Jagdusha Nagar, Central Mumbai Suburbs listed for 1.25 Cr."}
+{"prompt": "Are there any low rise apartments in Hiranandani Estate?", "response": "Yes, there's a 1 BHK in Sanghvi Nesta, Hiranandani Estate, Thane listed for 85 Lakh."}
+{"prompt": "Can I get a 4 BHK in Borivali East for less than 6.97 Cr?", "response": "Yes, there's a 4 BHK in Rivali Park, Borivali East, Mumbai Andheri-Dahisar listed for 6.30 Cr."}
+{"prompt": "Any semifurnished apartments in Ulwe for around 1.01 Cr?", "response": "Yes, there's a 2 BHK in Aramus The Domus 26 West, Ulwe, Navi Mumbai listed for 85 Lakh."}
+{"prompt": "Suggest some budget properties in Dombivli East", "response": "Yes, there's a 1 BHK in Paradise Sai World Dreams, Dombivli East, Mumbai Beyond Thane listed for 48 Lakh."}
+{"prompt": "Suggest some luxury properties in Jvlr", "response": "Yes, there's a 1 BHK in Kalpataru Vivant, Jvlr, Mumbai Andheri-Dahisar listed for 1.27 Cr."}
+{"prompt": "Show me 3 BHK flats in Tilak Nagar", "response": "Yes, there's a 3 BHK in Gami And Jaydeep Elanza, Tilak Nagar, Mumbai Harbour listed for 1.77 Cr."}
+{"prompt": "Are there any mid rise apartments in Jankalyan Nagar?", "response": "Yes, there's a 1 BHK in Impact Silicon Park, Jankalyan Nagar, Mumbai Andheri-Dahisar listed for 85 Lakh."}
+{"prompt": "Show me 3 BHK flats in Kharghar", "response": "Yes, there's a 3 BHK in Adhiraj The Mainland, Kharghar, Navi Mumbai listed for 1.62 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in New Panvel around 79 Lakh?", "response": "Yes, there's a 2 BHK in Marathon Nexzone, New Panvel, Navi Mumbai listed for 68 Lakh."}
+{"prompt": "What's available in Santacruz East under 2.01 Cr?", "response": "Yes, there's a 2 BHK in Crescent Nexus Ascent, Santacruz East, Mumbai South West listed for 1.73 Cr."}
+{"prompt": "Can I get a 2 BHK in Parel for less than 6.58 Cr?", "response": "Yes, there's a 2 BHK in Peninsula Ashok Towers, Parel, South Mumbai listed for 6.25 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Balkum, preferably under 1.01 Cr", "response": "Yes, there's a 2 BHK in Runwal Eirene, Balkum, Thane listed for 95 Lakh."}
+{"prompt": "Find me a 2 BHK in Dn Nagar under 2.63 Cr", "response": "Yes, there's a 2 BHK in Platinum Life, Dn Nagar, Mumbai Andheri-Dahisar listed for 2.35 Cr."}
+{"prompt": "Do you have any listings in Kurla West with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Ashray Jaswanti Bliss, Kurla West, Central Mumbai Suburbs listed for 85 Lakh."}
+{"prompt": "Can I get a 2 BHK in Vashi for less than 2.44 Cr?", "response": "Yes, there's a 2 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 2.15 Cr."}
+{"prompt": "Show me 1 BHK flats in Dombivli East", "response": "Yes, there's a 1 BHK in Lodha Casa Aurelia, Khoni - Palava Phase 2 , Dombivli East, Mumbai Beyond Thane listed for 35 Lakh."}
+{"prompt": "Can I get a 3 BHK in Kalyan East for less than 1.27 Cr?", "response": "Yes, there's a 3 BHK in West Pioneer Metro Grande, Kalyan East, Mumbai Beyond Thane listed for 1.15 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Goregaon East, preferably under 2.31 Cr", "response": "Yes, there's a 2 BHK in Raheja Sherwood, Goregaon East, Mumbai Andheri-Dahisar listed for 2.15 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 17 Ulwe around 1.20 Cr?", "response": "Yes, there's a 2 BHK in Tejas Heritage, Sector 17 Ulwe, Navi Mumbai listed for 1.00 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 11 Kharghar around 1.55 Cr?", "response": "Yes, there's a 2 BHK in Pote Pallacio Kharghar, Sector 11 Kharghar, Navi Mumbai listed for 1.43 Cr."}
+{"prompt": "Looking for a flat in Ulwe with at least 4 balconies", "response": "Yes, there's a 3 BHK in Delta Tower, Ulwe, Navi Mumbai listed for 1.60 Cr."}
+{"prompt": "Suggest some budget properties in Mulund West", "response": "Yes, there's a 4 BHK in Neptune Gulmohar, Mulund West, Central Mumbai Suburbs listed for 5.50 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Mulund West, preferably under 2.09 Cr", "response": "Yes, there's a 2 BHK in Sai Madhuvan, Mulund West, Central Mumbai Suburbs listed for 1.89 Cr."}
+{"prompt": "Suggest some budget properties in Goregaon West", "response": "Yes, there's a 3 BHK in Ekta Tripolis, Goregaon West, Mumbai Andheri-Dahisar listed for 3.36 Cr."}
+{"prompt": "Are there any low rise apartments in Dombivli East?", "response": "Yes, there's a 1 BHK in Regency Anantam, Dombivli East, Mumbai Beyond Thane listed for 55 Lakh."}
+{"prompt": "Can I get a 2 BHK in Takshashila Nagar for less than 1.20 Cr?", "response": "Yes, there's a 2 BHK in Hdil Galaxy Apartment, Takshashila Nagar, Central Mumbai Suburbs listed for 1.10 Cr."}
+{"prompt": "Find me a 2 BHK in Brahmand under 1.08 Cr", "response": "Yes, there's a 2 BHK in Dosti Desire, Brahmand, Thane listed for 98 Lakh."}
+{"prompt": "What's available in Shastri Nagar under 15.02 Cr?", "response": "Yes, there's a 5 BHK in Ajmera Beverly Hills And Royal Empire, Shastri Nagar, Mumbai Andheri-Dahisar listed for 12.85 Cr."}
+{"prompt": "Can I get a 1 BHK in Ghodbunder Road for less than 63 Lakh?", "response": "Yes, there's a 1 BHK in Raunak Unnathi Woods Phase 7, Ghodbunder Road, Thane listed for 54 Lakh."}
+{"prompt": "Can I get a 2 BHK in Mulund West for less than 1.97 Cr?", "response": "Yes, there's a 2 BHK in Sheth Vasant Oscar, Mulund West, Central Mumbai Suburbs listed for 1.80 Cr."}
+{"prompt": "Are there any high rise apartments in Panvel?", "response": "Yes, there's a 3 BHK in Hiranandani Fortune City, Panvel, Navi Mumbai listed for 1.70 Cr."}
+{"prompt": "What's available in Shastri Nagar under 25.01 Cr?", "response": "Yes, there's a 5 BHK in Lokhandwala Minerva, Shastri Nagar, South Mumbai listed for 20.92 Cr."}
+{"prompt": "Find me a 2 BHK in Ghansoli under 1.99 Cr", "response": "Yes, there's a 2 BHK in Satyam Alliaance Icon, Ghansoli, Navi Mumbai listed for 1.80 Cr."}
+{"prompt": "Looking for a flat in Nalasopara West with at least 1 balconies", "response": "Yes, there's a 1 BHK in Mandar Shivam Sankul, Nalasopara West, Mira Road And Beyond listed for 18 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Hiranandani Estate, preferably under 1.86 Cr", "response": "Yes, there's a 2 BHK in Hiranandani Delanna, Hiranandani Estate, Thane listed for 1.60 Cr."}
+{"prompt": "What's available in Kandivali East under 93 Lakh?", "response": "Yes, there's a 1 BHK in Gokul Vihar, Kandivali East, Mumbai Andheri-Dahisar listed for 88 Lakh."}
+{"prompt": "Any semifurnished apartments in Anjurdive for around 49 Lakh?", "response": "Yes, there's a 1 BHK in Lodha Upper Thane, Anjurdive, Mumbai Beyond Thane listed for 42 Lakh."}
+{"prompt": "What's available in Sector 19A Nerul under 3.92 Cr?", "response": "Yes, there's a 3 BHK in Safal Complex, Sector 19A Nerul, Navi Mumbai listed for 3.55 Cr."}
+{"prompt": "What's available in Malabar Hill under 32.30 Cr?", "response": "Yes, there's a 5 BHK in Raj Niketan, Malabar Hill , Malabar Hill, South Mumbai listed for 30.00 Cr."}
+{"prompt": "Do you have any listings in Kharghar with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Today Mangalam, Kharghar, Navi Mumbai listed for 37 Lakh."}
+{"prompt": "Suggest some budget properties in Hiranandani Estate", "response": "Yes, there's a 2 BHK in Capri Chs, Hiranandani Estate, Thane listed for 1.15 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Ambernath, preferably under 28 Lakh", "response": "Yes, there's a 1 BHK in Shraddha Sai Crystals, Ambernath, Mumbai Beyond Thane listed for 23 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Kurla West around 1.94 Cr?", "response": "Yes, there's a 2 BHK in Star Sayba Icon, Kurla West, Central Mumbai Suburbs listed for 1.71 Cr."}
+{"prompt": "Do you have any listings in Mahalaxmi with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in K Raheja Vivarea, Mahalaxmi, South Mumbai listed for 16.50 Cr."}
+{"prompt": "What's available in Kanjurmarg East under 1.83 Cr?", "response": "Yes, there's a 2 BHK in Runwal Avenue, Kanjurmarg East, Central Mumbai Suburbs listed for 1.64 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Dombivli West around 20 Lakh?", "response": "Yes, there's a 1 BHK in Tulsi Vihar Chs, Dombivli West, Mumbai Beyond Thane listed for 17 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Dombivli East, preferably under 50 Lakh", "response": "Yes, there's a 2 BHK in Lodha Lakeshore Greens, Dombivli East, Mumbai Beyond Thane listed for 45 Lakh."}
+{"prompt": "Can I get a 4 BHK in Sector 29 Nerul for less than 3.83 Cr?", "response": "Yes, there's a 4 BHK in Experio Platinum Elysium, Sector 29 Nerul, Navi Mumbai listed for 3.62 Cr."}
+{"prompt": "Can I get a 3 BHK in Mulund West for less than 2.26 Cr?", "response": "Yes, there's a 3 BHK in The Prestige City, Mulund West, Central Mumbai Suburbs listed for 1.96 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Marol, preferably under 2.80 Cr", "response": "Yes, there's a 2 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 2.45 Cr."}
+{"prompt": "Can I get a 1 BHK in Dombivli West for less than 55 Lakh?", "response": "Yes, there's a 1 BHK in Kulswamini Prasanna, Dombivli West, Mumbai Beyond Thane listed for 48 Lakh."}
+{"prompt": "Any semifurnished apartments in Powai for around 4.44 Cr?", "response": "Yes, there's a 3 BHK in L And T Elixir Reserve, Powai, Central Mumbai Suburbs listed for 3.90 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Goregaon West around 4.03 Cr?", "response": "Yes, there's a 2 BHK in Kalpataru Radiance, Goregaon West, Mumbai Andheri-Dahisar listed for 3.52 Cr."}
+{"prompt": "Find me a 1 BHK in Badlapur under 34 Lakh", "response": "Yes, there's a 1 BHK in Aryan One, Badlapur, Mumbai Beyond Thane listed for 29 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Juhu around 3.60 Cr?", "response": "Yes, there's a 2 BHK in Jal Tarang, Juhu, Mumbai South West listed for 3.10 Cr."}
+{"prompt": "What's available in Kurla East under 1.25 Cr?", "response": "Yes, there's a 1 BHK in Raghav Amara, Kurla East, Central Mumbai Suburbs listed for 1.15 Cr."}
+{"prompt": "What's available in Ghodbunder Road under 65 Lakh?", "response": "Yes, there's a 1 BHK in Rumah Bali, Ghodbunder Road, Thane listed for 60 Lakh."}
+{"prompt": "Find me a 3 BHK in Sector 5 Ulwe under 1.29 Cr", "response": "Yes, there's a 3 BHK in Shakti Residency, Sector 5 Ulwe, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Juhu around 17.00 Cr?", "response": "Yes, there's a 4 BHK in On Request, Juhu, Mumbai South West listed for 14.60 Cr."}
+{"prompt": "Suggest some budget properties in Goregaon West", "response": "Yes, there's a 1 BHK in Shraddha Avenue, Goregaon West, Mumbai Andheri-Dahisar listed for 90 Lakh."}
+{"prompt": "What's available in Kolshet Road under 3.42 Cr?", "response": "Yes, there's a 4 BHK in Lodha Amara, Kolshet Road, Thane listed for 3.13 Cr."}
+{"prompt": "Do you have any listings in Vaishali Nagar with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Ashar Maple, Vaishali Nagar, Central Mumbai Suburbs listed for 1.10 Cr."}
+{"prompt": "Suggest some budget properties in Kalamboli", "response": "Yes, there's a 3 BHK in Neelsidhi Amarante, Kalamboli, Navi Mumbai listed for 99 Lakh."}
+{"prompt": "Looking for a flat in Vardhman Nagar with at least 0 balconies", "response": "Yes, there's a 2 BHK in Vikas Paradise, Vardhman Nagar, Central Mumbai Suburbs listed for 2.50 Cr."}
+{"prompt": "Looking for a flat in Kharghar with at least 1 balconies", "response": "Yes, there's a 2 BHK in Today Global Anandam, Kharghar, Navi Mumbai listed for 89 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Andheri West around 3.42 Cr?", "response": "Yes, there's a 3 BHK in Lk Umang Heights, Andheri West, Mumbai Andheri-Dahisar listed for 3.12 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Ghatkopar East around 1.32 Cr?", "response": "Yes, there's a 2 BHK in Micl Ghatkopar Avenue, Ghatkopar East, Central Mumbai Suburbs listed for 1.25 Cr."}
+{"prompt": "Suggest some budget properties in Mahim West", "response": "Yes, there's a 1 BHK in Suraj Vitalis, Mahim West, Mumbai South West listed for 1.90 Cr."}
+{"prompt": "Are there any high rise apartments in Mulund West?", "response": "Yes, there's a 1 BHK in Vasundhara Height, Mulund West, Central Mumbai Suburbs listed for 92 Lakh."}
+{"prompt": "Are there any high rise apartments in Gowalia Tank?", "response": "Yes, there's a 5 BHK in Lodha Altamount, Gowalia Tank, South Mumbai listed for 50.00 Cr."}
+{"prompt": "Looking for a flat in Hatkesh Udhog Nagar with at least 4 balconies", "response": "Yes, there's a 2 BHK in Rna Ng Paradise, Hatkesh Udhog Nagar, Mira Road And Beyond listed for 85 Lakh."}
+{"prompt": "Suggest some luxury properties in Kanjurmarg East", "response": "Yes, there's a 1 BHK in Kanakia Zen World, Kanjurmarg East, Central Mumbai Suburbs listed for 1.07 Cr."}
+{"prompt": "Do you have any listings in Mulund East with unfurnished furnishing?", "response": "Yes, there's a 3 BHK in Purnima Darshan, Mulund East, Central Mumbai Suburbs listed for 2.10 Cr."}
+{"prompt": "Find me a 2 BHK in Bevarly Park under 99 Lakh", "response": "Yes, there's a 2 BHK in Ostwal Orchid, Bevarly Park, Mira Road And Beyond listed for 85 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Ambernath around 42 Lakh?", "response": "Yes, there's a 1 BHK in Mohan Precious Greens, Ambernath, Mumbai Beyond Thane listed for 36 Lakh."}
+{"prompt": "Looking for a 4 BHK flat in Panvel, preferably under 4.45 Cr", "response": "Yes, there's a 4 BHK in Paradise Sai World City, Panvel, Navi Mumbai listed for 3.88 Cr."}
+{"prompt": "Suggest some budget properties in Powai", "response": "Yes, there's a 4 BHK in Nahar Jonquille And Jamaica, Powai, Central Mumbai Suburbs listed for 3.80 Cr."}
+{"prompt": "Looking for a flat in Dadar with at least 1 balconies", "response": "Yes, there's a 2 BHK in Nine Reflex, Dadar, South Mumbai listed for 2.41 Cr."}
+{"prompt": "What's available in Kalher under 54 Lakh?", "response": "Yes, there's a 2 BHK in Morya Sports City, Kalher, Thane listed for 48 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Badlapur West, preferably under 23 Lakh", "response": "Yes, there's a 1 BHK in Jewel Heights, Badlapur West, Mumbai Beyond Thane listed for 22 Lakh."}
+{"prompt": "What's available in Mira Road East under 78 Lakh?", "response": "Yes, there's a 1 BHK in Jp North, Mira Road East, Mira Road And Beyond listed for 70 Lakh."}
+{"prompt": "Any semifurnished apartments in Shastri Nagar for around 5.79 Cr?", "response": "Yes, there's a 3 BHK in Runwal Elegante, Shastri Nagar, Mumbai Andheri-Dahisar listed for 5.00 Cr."}
+{"prompt": "What\u2019s a good 5 BHK option in Prabhadevi around 29.99 Cr?", "response": "Yes, there's a 5 BHK in Rustomjee Crown, Prabhadevi, South Mumbai listed for 25.26 Cr."}
+{"prompt": "Show me 2 BHK flats in Chandivali", "response": "Yes, there's a 2 BHK in Nahars Amrit Shakti, Chandivali, Central Mumbai Suburbs listed for 2.10 Cr."}
+{"prompt": "Can I get a 1 BHK in Chandivali for less than 1.27 Cr?", "response": "Yes, there's a 1 BHK in Crescent Silver Woods, Chandivali, Central Mumbai Suburbs listed for 1.11 Cr."}
+{"prompt": "Do you have any listings in Dombivli East with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Lodha Lakeshore Greens, Dombivli East, Mumbai Beyond Thane listed for 86 Lakh."}
+{"prompt": "Can I get a 2 BHK in Ghansoli for less than 2.17 Cr?", "response": "Yes, there's a 2 BHK in Gami Reagan, Ghansoli, Navi Mumbai listed for 2.00 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Seawoods, preferably under 4.33 Cr", "response": "Yes, there's a 3 BHK in Shree Sawan The Signature, Seawoods, Navi Mumbai listed for 3.81 Cr."}
+{"prompt": "Show me 1 BHK flats in Kolshet Road", "response": "Yes, there's a 1 BHK in Lodha Amara, Kolshet Road, Thane listed for 85 Lakh."}
+{"prompt": "Do you have any listings in Sector 36 Kamothe with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Shree Shankar Heights, Sector 36 Kamothe, Navi Mumbai listed for 61 Lakh."}
+{"prompt": "Any semifurnished apartments in Manpada for around 1.54 Cr?", "response": "Yes, there's a 2 BHK in Nexus Hyde Park Residency, Manpada, Thane listed for 1.32 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Panvel around 1.30 Cr?", "response": "Yes, there's a 3 BHK in The Highlands Godrej City, Panvel, Navi Mumbai listed for 1.21 Cr."}
+{"prompt": "Find me a 1 BHK in Nahur under 2.05 Cr", "response": "Yes, there's a 1 BHK in Tridev Anubhav, Nahur, Central Mumbai Suburbs listed for 1.78 Cr."}
+{"prompt": "Are there any low rise apartments in Sector 29 Nerul?", "response": "Yes, there's a 3 BHK in Experio Platinum Elysium, Sector 29 Nerul, Navi Mumbai listed for 2.80 Cr."}
+{"prompt": "Can I get a 2 BHK in Chembur for less than 2.25 Cr?", "response": "Yes, there's a 2 BHK in Purva Clermont, Chembur, Mumbai Harbour listed for 1.97 Cr."}
+{"prompt": "Are there any high rise apartments in Mulund East?", "response": "Yes, there's a 3 BHK in New Pmgp Society, Mulund East, Central Mumbai Suburbs listed for 1.60 Cr."}
+{"prompt": "Find me a 2 BHK in Nahur under 1.55 Cr", "response": "Yes, there's a 2 BHK in Nul, Nahur, Central Mumbai Suburbs listed for 1.35 Cr."}
+{"prompt": "Do you have any listings in Khar West with furnished furnishing?", "response": "Yes, there's a 3 BHK in Kesar Kripa , Khar West, Mumbai South West listed for 5.59 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Andheri West around 2.94 Cr?", "response": "Yes, there's a 2 BHK in Deep Tower Chs Ltd , Andheri West, Mumbai Andheri-Dahisar listed for 2.49 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Kalyan West, preferably under 97 Lakh", "response": "Yes, there's a 2 BHK in Godrej Riverside Chs, Kalyan West, Mumbai Beyond Thane listed for 85 Lakh."}
+{"prompt": "Show me 4 BHK flats in Malad East", "response": "Yes, there's a 4 BHK in K Raheja Residency, Malad East, Mumbai Andheri-Dahisar listed for 3.63 Cr."}
+{"prompt": "Show me 1 BHK flats in Titwala", "response": "Yes, there's a 1 BHK in Falco Hibiscus, Titwala, Mumbai Beyond Thane listed for 25 Lakh."}
+{"prompt": "Show me 1 BHK flats in Sector 8 Ulwe", "response": "Yes, there's a 1 BHK in Siddhivinayak Chs, Sector 8 Ulwe, Navi Mumbai listed for 42 Lakh."}
+{"prompt": "Can I get a 4 BHK in Chembur for less than 7.47 Cr?", "response": "Yes, there's a 4 BHK in Hubtown Seasons, Chembur, Mumbai Harbour listed for 6.66 Cr."}
+{"prompt": "Are there any low rise apartments in Kharghar?", "response": "Yes, there's a 2 BHK in Shreeji Aura, Kharghar, Navi Mumbai listed for 92 Lakh."}
+{"prompt": "Are there any high rise apartments in Ghatkopar East?", "response": "Yes, there's a 1 BHK in Vibha Anthurium, Ghatkopar East, Central Mumbai Suburbs listed for 1.12 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Worli, preferably under 4.65 Cr", "response": "Yes, there's a 2 BHK in Lodha Adrina, Worli, South Mumbai listed for 4.40 Cr."}
+{"prompt": "Show me 1 BHK flats in Taloja", "response": "Yes, there's a 1 BHK in Lodha Codename Golden Dream, Taloja, Navi Mumbai listed for 27 Lakh."}
+{"prompt": "Looking for a flat in Pirojshanagar with at least 0 balconies", "response": "Yes, there's a 2 BHK in The Godrej Platinum, Pirojshanagar, Central Mumbai Suburbs listed for 3.00 Cr."}
+{"prompt": "Any semifurnished apartments in Diva for around 56 Lakh?", "response": "Yes, there's a 2 BHK in Radhe Krishna Residency, Diva, Mumbai Beyond Thane listed for 47 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Chandivali, preferably under 1.62 Cr", "response": "Yes, there's a 1 BHK in Godrej Urban Park, Chandivali, Central Mumbai Suburbs listed for 1.36 Cr."}
+{"prompt": "Find me a 2 BHK in Virar West under 64 Lakh", "response": "Yes, there's a 2 BHK in Agarwal Lifestyle, Virar West, Mira Road And Beyond listed for 55 Lakh."}
+{"prompt": "Are there any mid rise apartments in Chandivali?", "response": "Yes, there's a 2 BHK in K Raheja Vistas, Chandivali, Central Mumbai Suburbs listed for 4.05 Cr."}
+{"prompt": "Suggest some budget properties in Patlipada", "response": "Yes, there's a 2 BHK in Cosmos Classique, Patlipada, Thane listed for 1.02 Cr."}
+{"prompt": "Show me 2 BHK flats in Mulund West", "response": "Yes, there's a 2 BHK in Priyamvada Chs, Mulund West, Central Mumbai Suburbs listed for 1.42 Cr."}
+{"prompt": "Can I get a 2 BHK in Ulwe for less than 1.10 Cr?", "response": "Yes, there's a 2 BHK in Delta Palacio, Ulwe, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "Do you have any listings in Kandivali East with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Lodha Woods, Kandivali East, Mumbai Andheri-Dahisar listed for 4.15 Cr."}
+{"prompt": "Looking for a flat in Balkum with at least 1 balconies", "response": "Yes, there's a 1 BHK in Runwal Eirene, Balkum, Thane listed for 74 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Dombivli West around 50 Lakh?", "response": "Yes, there's a 1 BHK in Sneh Serene, Dombivli West, Mumbai Beyond Thane listed for 44 Lakh."}
+{"prompt": "What's available in Vashi under 12.26 Cr?", "response": "Yes, there's a 99 BHK in Arihant Aleenta, Vashi, Navi Mumbai listed for 10.79 Cr."}
+{"prompt": "Can I get a 3 BHK in Nerul for less than 3.03 Cr?", "response": "Yes, there's a 3 BHK in Moreshwar 19 East, Nerul, Navi Mumbai listed for 2.72 Cr."}
+{"prompt": "Can I get a 3 BHK in Andheri West for less than 5.51 Cr?", "response": "Yes, there's a 3 BHK in Chalet Amar Chs Ltd , Andheri West, Mumbai Andheri-Dahisar listed for 4.65 Cr."}
+{"prompt": "Suggest some luxury properties in Kalher", "response": "Yes, there's a 1 BHK in Tirumala Estate, Kalher, Thane listed for 22 Lakh."}
+{"prompt": "Do you have any listings in Mulund West with furnished furnishing?", "response": "Yes, there's a 3 BHK in Nirmal Lifestyle, Mulund West, Central Mumbai Suburbs listed for 2.25 Cr."}
+{"prompt": "Can I get a 3 BHK in Powai for less than 3.88 Cr?", "response": "Yes, there's a 3 BHK in Lodha Bellagio, Powai, Central Mumbai Suburbs listed for 3.45 Cr."}
+{"prompt": "Looking for a flat in Dombivli East with at least 1 balconies", "response": "Yes, there's a 1 BHK in Runwal My City, Dombivli East, Mumbai Beyond Thane listed for 42 Lakh."}
+{"prompt": "Do you have any listings in Kharghar with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Sairama Signature, Kharghar, Navi Mumbai listed for 1.26 Cr."}
+{"prompt": "What's available in Chembur under 2.73 Cr?", "response": "Yes, there's a 2 BHK in Tricity Natraj Chembur, Chembur, Mumbai Harbour listed for 2.40 Cr."}
+{"prompt": "Find me a 1 BHK in Mahim West under 2.27 Cr", "response": "Yes, there's a 1 BHK in Suraj Vitalis, Mahim West, Mumbai South West listed for 1.90 Cr."}
+{"prompt": "Are there any low rise apartments in Marol?", "response": "Yes, there's a 1 BHK in Veeramani Radiant 59, Marol, Mumbai Andheri-Dahisar listed for 99 Lakh."}
+{"prompt": "Find me a 4 BHK in Mulund West under 4.19 Cr", "response": "Yes, there's a 4 BHK in L And T Rejuve 360, Mulund West, Central Mumbai Suburbs listed for 3.63 Cr."}
+{"prompt": "Do you have any listings in New Panvel with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Riverside Green Cooperative Housing Society, New Panvel, Navi Mumbai listed for 30 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Kandivali West around 4.07 Cr?", "response": "Yes, there's a 3 BHK in 73 East, Kandivali West, Mumbai Andheri-Dahisar listed for 3.86 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Manpada, preferably under 2.07 Cr", "response": "Yes, there's a 3 BHK in Neelkanth Greens, Manpada, Thane listed for 1.95 Cr."}
+{"prompt": "What's available in Ghansoli under 1.02 Cr?", "response": "Yes, there's a 1 BHK in Bhairaav Gold Crest Residency, Ghansoli, Navi Mumbai listed for 96 Lakh."}
+{"prompt": "What's available in Kandivali West under 92 Lakh?", "response": "Yes, there's a 1 BHK in Parinee Essence, Kandivali West, Mumbai Andheri-Dahisar listed for 84 Lakh."}
+{"prompt": "Looking for a flat in Sector 44 Seawoods with at least 1 balconies", "response": "Yes, there's a 1 BHK in Pratik Apartment , Sector 44 Seawoods, Navi Mumbai listed for 64 Lakh."}
+{"prompt": "Show me 4 BHK flats in Shastri Nagar", "response": "Yes, there's a 4 BHK in Lokhandwala Minerva, Shastri Nagar, South Mumbai listed for 17.17 Cr."}
+{"prompt": "Any semifurnished apartments in Pushpak Nagar for around 1.12 Cr?", "response": "Yes, there's a 3 BHK in Delta Greens, Pushpak Nagar, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "Suggest some luxury properties in Chembur East", "response": "Yes, there's a 3 BHK in Raunak Centrum, Chembur East, Mumbai Harbour listed for 2.88 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Taloja, preferably under 47 Lakh", "response": "Yes, there's a 1 BHK in Oscar Om Regency, Taloja, Navi Mumbai listed for 42 Lakh."}
+{"prompt": "Are there any mid rise apartments in Vasai West?", "response": "Yes, there's a 2 BHK in Dattani Village Bldg No 2, Vasai West, Mira Road And Beyond listed for 58 Lakh."}
+{"prompt": "Do you have any listings in Ulwe with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Aramus The Domus 26 West, Ulwe, Navi Mumbai listed for 80 Lakh."}
+{"prompt": "Suggest some budget properties in Marol", "response": "Yes, there's a 2 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 2.47 Cr."}
+{"prompt": "Any semifurnished apartments in Mulund West for around 1.89 Cr?", "response": "Yes, there's a 1 BHK in Atmosphere O2, Mulund West, Central Mumbai Suburbs listed for 1.60 Cr."}
+{"prompt": "Are there any mid rise apartments in Tagore Nagar?", "response": "Yes, there's a 2 BHK in Micl Aaradhya Eastwind, Tagore Nagar, Central Mumbai Suburbs listed for 1.25 Cr."}
+{"prompt": "Any semifurnished apartments in Byculla for around 5.10 Cr?", "response": "Yes, there's a 4 BHK in Ruparel Vivanza, Byculla, Mumbai Harbour listed for 4.32 Cr."}
+{"prompt": "Show me 2 BHK flats in Sector 38 Seawoods", "response": "Yes, there's a 2 BHK in Chamunda Serene, Sector 38 Seawoods, Navi Mumbai listed for 2.30 Cr."}
+{"prompt": "Suggest some luxury properties in Vartak Nagar", "response": "Yes, there's a 1 BHK in Nakshatra Metro Majestic, Vartak Nagar, Thane listed for 78 Lakh."}
+{"prompt": "Do you have any listings in Neral with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Vn Amber Heritage, Neral, Mumbai Beyond Thane listed for 18 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Wadala East around 99 Lakh?", "response": "Yes, there's a 1 BHK in Labdhi Seabreeze, Wadala East, Mumbai Harbour listed for 94 Lakh."}
+{"prompt": "Are there any mid rise apartments in Marol?", "response": "Yes, there's a 1 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.35 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Andheri West, preferably under 2.12 Cr", "response": "Yes, there's a 2 BHK in Kush Sapphire, Andheri West, Mumbai Andheri-Dahisar listed for 1.80 Cr."}
+{"prompt": "Looking for a flat in Virar West with at least 1 balconies", "response": "Yes, there's a 2 BHK in Rustomjee Global City, Virar West, Mira Road And Beyond listed for 53 Lakh."}
+{"prompt": "Looking for a flat in Dombivli East with at least 1 balconies", "response": "Yes, there's a 3 BHK in Runwal My City, Dombivli East, Mumbai Beyond Thane listed for 92 Lakh."}
+{"prompt": "What's available in Khar West under 4.93 Cr?", "response": "Yes, there's a 2 BHK in Platinum Avenue, Khar West, Mumbai South West listed for 4.56 Cr."}
+{"prompt": "What's available in Pokhran 2 under 4.54 Cr?", "response": "Yes, there's a 4 BHK in The Address By Gs By Raymond Realty, Pokhran 2, Thane listed for 4.20 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Mahalaxmi around 4.97 Cr?", "response": "Yes, there's a 2 BHK in Lodha Primero, Mahalaxmi, South Mumbai listed for 4.25 Cr."}
+{"prompt": "Find me a 2 BHK in Ambernath East under 40 Lakh", "response": "Yes, there's a 2 BHK in Patel Signature, Ambernath East, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Are there any low rise apartments in Vashi?", "response": "Yes, there's a 4 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 4.55 Cr."}
+{"prompt": "Are there any low rise apartments in Chandivali?", "response": "Yes, there's a 1 BHK in Crescent Silverwoods, Chandivali, Central Mumbai Suburbs listed for 1.15 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Worli around 7.42 Cr?", "response": "Yes, there's a 3 BHK in Raheja The Riviere Worli Skyline, Worli, South Mumbai listed for 7.00 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Chembur, preferably under 2.93 Cr", "response": "Yes, there's a 2 BHK in Pratibha Swastik Plaza Chs, Chembur, Mumbai Harbour listed for 2.50 Cr."}
+{"prompt": "Looking for a flat in Goregaon West with at least 1 balconies", "response": "Yes, there's a 2 BHK in Sheth Vasant Galaxy, Goregaon West, Mumbai Andheri-Dahisar listed for 2.55 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Dadar West, preferably under 4.28 Cr", "response": "Yes, there's a 3 BHK in Shri Ratan Address, Dadar West, South Mumbai listed for 3.99 Cr."}
+{"prompt": "Looking for a flat in Ghodbunder Road with at least 0 balconies", "response": "Yes, there's a 1 BHK in Raunak Unnathi Woods Phase 7, Ghodbunder Road, Thane listed for 54 Lakh."}
+{"prompt": "Show me 1 BHK flats in Kasar Vadavali", "response": "Yes, there's a 1 BHK in Jvm Veda, Kasar Vadavali, Thane listed for 52 Lakh."}
+{"prompt": "Find me a 2 BHK in Hiranandani Estate under 2.03 Cr", "response": "Yes, there's a 2 BHK in Hiranandani Rodas Enclave, Hiranandani Estate, Thane listed for 1.78 Cr."}
+{"prompt": "Are there any low rise apartments in Mulund West?", "response": "Yes, there's a 3 BHK in Transcon Tirumala Habitats, Mulund West, Central Mumbai Suburbs listed for 2.85 Cr."}
+{"prompt": "Can I get a 2 BHK in Sector 5 New Panvel East for less than 91 Lakh?", "response": "Yes, there's a 2 BHK in Prajapati Gardens, Sector 5 New Panvel East, Navi Mumbai listed for 80 Lakh."}
+{"prompt": "Find me a 2 BHK in Sector 9 Kopar Khairane under 1.61 Cr", "response": "Yes, there's a 2 BHK in Shakti One Luxuria, Sector 9 Kopar Khairane, Navi Mumbai listed for 1.47 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Thane West, preferably under 97 Lakh", "response": "Yes, there's a 1 BHK in Hiranandani  Solitaire, Thane West, Thane listed for 87 Lakh."}
+{"prompt": "What's available in Kasar Vadavali under 66 Lakh?", "response": "Yes, there's a 1 BHK in Puraniks Tokyo Bay, Kasar Vadavali, Thane listed for 59 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Andheri East, preferably under 3.22 Cr", "response": "Yes, there's a 2 BHK in Mahindra Vicino, Andheri East, Mumbai Andheri-Dahisar listed for 2.80 Cr."}
+{"prompt": "Can I get a 2 BHK in Mira Road for less than 84 Lakh?", "response": "Yes, there's a 2 BHK in Sadguru Complex, Mira Road, Mira Road And Beyond listed for 75 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Kharghar around 1.01 Cr?", "response": "Yes, there's a 2 BHK in Shreeji Aura, Kharghar, Navi Mumbai listed for 92 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Kharghar, preferably under 1.11 Cr", "response": "Yes, there's a 1 BHK in Arihant Clan Aalishan, Kharghar, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "What's available in Walkeshwar under 29.10 Cr?", "response": "Yes, there's a 99 BHK in Sanidhaya Apartment, Walkeshwar, South Mumbai listed for 27.00 Cr."}
+{"prompt": "Looking for a flat in Kurla West with at least 0 balconies", "response": "Yes, there's a 2 BHK in Urban Crown , Kurla West, Central Mumbai Suburbs listed for 1.45 Cr."}
+{"prompt": "Any semifurnished apartments in Bhandup West for around 1.06 Cr?", "response": "Yes, there's a 1 BHK in Wmi Ashford Regal, Bhandup West, Central Mumbai Suburbs listed for 90 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Mulund West, preferably under 2.80 Cr", "response": "Yes, there's a 2 BHK in L And T Rejuve 360, Mulund West, Central Mumbai Suburbs listed for 2.44 Cr."}
+{"prompt": "Can I get a 2 BHK in Vikhroli East for less than 1.35 Cr?", "response": "Yes, there's a 2 BHK in Pearl  Chs, Vikhroli East, Central Mumbai Suburbs listed for 1.24 Cr."}
+{"prompt": "Find me a 1 BHK in Jogeshwari East under 64 Lakh", "response": "Yes, there's a 1 BHK in Sonal Siddhi Chs, Jogeshwari East, Mumbai Andheri-Dahisar listed for 55 Lakh."}
+{"prompt": "Looking for a 3 BHK flat in Borivali West, preferably under 2.96 Cr", "response": "Yes, there's a 3 BHK in Bhoomi Saraswati, Borivali West, Mumbai Andheri-Dahisar listed for 2.64 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Sector 18 New Panvel East, preferably under 1.82 Cr", "response": "Yes, there's a 3 BHK in Neelsidhi Prime, Sector 18 New Panvel East, Navi Mumbai listed for 1.55 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Parel around 4.00 Cr?", "response": "Yes, there's a 2 BHK in L And T Cresent Bay, Parel, South Mumbai listed for 3.80 Cr."}
+{"prompt": "Suggest some luxury properties in Kasar Vadavali", "response": "Yes, there's a 3 BHK in Raunak Bliss, Kasar Vadavali, Thane listed for 1.21 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Jankalyan Nagar, preferably under 100 Lakh", "response": "Yes, there's a 1 BHK in Impact Silicon Park, Jankalyan Nagar, Mumbai Andheri-Dahisar listed for 85 Lakh."}
+{"prompt": "Any semifurnished apartments in Chandivali for around 1.23 Cr?", "response": "Yes, there's a 1 BHK in Crescent Silverwoods, Chandivali, Central Mumbai Suburbs listed for 1.10 Cr."}
+{"prompt": "Any semifurnished apartments in Worli for around 21.44 Cr?", "response": "Yes, there's a 5 BHK in Lodha World Towers, Worli, South Mumbai listed for 18.92 Cr."}
+{"prompt": "What's available in Lower Parel under 5.35 Cr?", "response": "Yes, there's a 3 BHK in Arihant Towers By Mj Shah, Lower Parel, South Mumbai listed for 4.86 Cr."}
+{"prompt": "Can I get a 1 BHK in Kanjurmarg East for less than 1.20 Cr?", "response": "Yes, there's a 1 BHK in Kanakia Zen World, Kanjurmarg East, Central Mumbai Suburbs listed for 1.07 Cr."}
+{"prompt": "Find me a 2 BHK in Ghodbunder Road under 94 Lakh", "response": "Yes, there's a 2 BHK in Lalani Residency, Ghodbunder Road, Thane listed for 88 Lakh."}
+{"prompt": "Do you have any listings in Powai with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in L And T Emerald Isle, Powai, Central Mumbai Suburbs listed for 3.25 Cr."}
+{"prompt": "Any furnished apartments in Devipada for around 3.39 Cr?", "response": "Yes, there's a 3 BHK in Ambrosia Apartments, Devipada, Mumbai Andheri-Dahisar listed for 3.00 Cr."}
+{"prompt": "What's available in Mahalaxmi under 10.22 Cr?", "response": "Yes, there's a 4 BHK in Lodha Bellevue, Mahalaxmi, South Mumbai listed for 8.99 Cr."}
+{"prompt": "Do you have any listings in Kurla West with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Urban Icon, Kurla West, Central Mumbai Suburbs listed for 85 Lakh."}
+{"prompt": "Can I get a 2 BHK in Kalamboli for less than 90 Lakh?", "response": "Yes, there's a 2 BHK in Arihant Sharan, Kalamboli, Navi Mumbai listed for 81 Lakh."}
+{"prompt": "Find me a 3 BHK in Byculla under 3.01 Cr", "response": "Yes, there's a 3 BHK in Ruparel Vivanza, Byculla, Mumbai Harbour listed for 2.83 Cr."}
+{"prompt": "Any unfurnished apartments in Ghansoli for around 6.67 Cr?", "response": "Yes, there's a 4 BHK in Satyam Imperial Heights, Ghansoli, Navi Mumbai listed for 5.77 Cr."}
+{"prompt": "Do you have any listings in Kharghar with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Paradise Sai World Empire, Kharghar, Navi Mumbai listed for 2.18 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Gulmohar Colony around 6.11 Cr?", "response": "Yes, there's a 3 BHK in Juhu Santivan , Gulmohar Colony, Mumbai South West listed for 5.75 Cr."}
+{"prompt": "Suggest some budget properties in Sector 19 Airoli", "response": "Yes, there's a 2 BHK in Bhuimraj Meadows Chs, Sector 19 Airoli, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "Are there any low rise apartments in Dn Nagar?", "response": "Yes, there's a 3 BHK in Platinum Life, Dn Nagar, Mumbai Andheri-Dahisar listed for 3.32 Cr."}
+{"prompt": "What's available in Sector 15 Belapur under 3.53 Cr?", "response": "Yes, there's a 3 BHK in Sara Antalya, Sector 15 Belapur, Navi Mumbai listed for 3.35 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Wadala East around 2.13 Cr?", "response": "Yes, there's a 2 BHK in Mount Alps, Wadala East, Mumbai Harbour listed for 2.00 Cr."}
+{"prompt": "Show me 1 BHK flats in Bhayandarpada", "response": "Yes, there's a 1 BHK in Rosa Elite, Bhayandarpada, Thane listed for 56 Lakh."}
+{"prompt": "Can I get a 1 BHK in Malad West for less than 1.10 Cr?", "response": "Yes, there's a 1 BHK in Kabra Garnet, Malad West, Mumbai Andheri-Dahisar listed for 1.01 Cr."}
+{"prompt": "Any semifurnished apartments in Sv Patel Nagar for around 7.60 Cr?", "response": "Yes, there's a 4 BHK in Shiv Parvati Complex, Sv Patel Nagar, Mumbai Andheri-Dahisar listed for 6.93 Cr."}
+{"prompt": "Are there any high rise apartments in Sector 23 Kharghar?", "response": "Yes, there's a 4 BHK in Bhagwati Greens, Sector 23 Kharghar, Navi Mumbai listed for 8.25 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Ghansoli around 1.83 Cr?", "response": "Yes, there's a 2 BHK in Vipul Mahavir Sapphire,, Ghansoli, Navi Mumbai listed for 1.53 Cr."}
+{"prompt": "Suggest some luxury properties in Kharghar", "response": "Yes, there's a 3 BHK in Paradise Sai Aaradhya, Kharghar, Navi Mumbai listed for 1.92 Cr."}
+{"prompt": "Show me 3 BHK flats in Ulwe", "response": "Yes, there's a 3 BHK in Avianna Invicta, Ulwe, Navi Mumbai listed for 95 Lakh."}
+{"prompt": "Looking for a flat in Juhu with at least 0 balconies", "response": "Yes, there's a 3 BHK in Juhu Sheetal Chs, Juhu, Mumbai South West listed for 5.25 Cr."}
+{"prompt": "Find me a 2 BHK in Sector 23 Taloja under 1.22 Cr", "response": "Yes, there's a 2 BHK in Satyam Oasis, Sector 23 Taloja, Navi Mumbai listed for 1.02 Cr."}
+{"prompt": "Looking for a flat in Goregaon West with at least 1 balconies", "response": "Yes, there's a 3 BHK in Ekta Tripolis, Goregaon West, Mumbai Andheri-Dahisar listed for 3.36 Cr."}
+{"prompt": "Find me a 4 BHK in Borivali East under 7.07 Cr", "response": "Yes, there's a 4 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 6.31 Cr."}
+{"prompt": "What's available in Sector 15 Ghansoli under 1.85 Cr?", "response": "Yes, there's a 2 BHK in Chamunda Heights, Sector 15 Ghansoli, Navi Mumbai listed for 1.60 Cr."}
+{"prompt": "Do you have any listings in Mahalaxmi with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Piramal Mahalaxmi, Mahalaxmi, South Mumbai listed for 8.75 Cr."}
+{"prompt": "Find me a 2 BHK in Sector 17 Ulwe under 1.23 Cr", "response": "Yes, there's a 2 BHK in La Palacio, Sector 17 Ulwe, Navi Mumbai listed for 1.10 Cr."}
+{"prompt": "Show me 99 BHK flats in Walkeshwar", "response": "Yes, there's a 99 BHK in Sanidhaya Apartment, Walkeshwar, South Mumbai listed for 27.00 Cr."}
+{"prompt": "Suggest some budget properties in Sector 21 Ulwe", "response": "Yes, there's a 2 BHK in Platinum Escaso, Sector 21 Ulwe, Navi Mumbai listed for 1.15 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Shivaji Udyog Nagar around 41 Lakh?", "response": "Yes, there's a 1 BHK in Sagar Darshan Chs, Dombivli East , Shivaji Udyog Nagar, Mumbai Beyond Thane listed for 35 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Kharghar around 1.72 Cr?", "response": "Yes, there's a 2 BHK in Paradise Sai World Empire, Kharghar, Navi Mumbai listed for 1.52 Cr."}
+{"prompt": "Can I get a 5 BHK in Hiranandani Estate for less than 6.58 Cr?", "response": "Yes, there's a 5 BHK in Tribeca Chs, Hiranandani Estate, Thane listed for 6.00 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Dn Nagar, preferably under 2.47 Cr", "response": "Yes, there's a 2 BHK in Platinum Life, Dn Nagar, Mumbai Andheri-Dahisar listed for 2.35 Cr."}
+{"prompt": "Suggest some budget properties in Wadala East", "response": "Yes, there's a 1 BHK in Labdhi Seabreeze, Wadala East, Mumbai Harbour listed for 94 Lakh."}
+{"prompt": "Suggest some budget properties in Kandivali West", "response": "Yes, there's a 1 BHK in Sethia Kalpavruksh Heights, Kandivali West, Mumbai Andheri-Dahisar listed for 99 Lakh."}
+{"prompt": "Looking for a flat in Rabodi with at least 0 balconies", "response": "Yes, there's a 1 BHK in Altamash Apartments, Rabodi, Thane listed for 65 Lakh."}
+{"prompt": "Suggest some budget properties in Kannamwar Nagar 1", "response": "Yes, there's a 1 BHK in The Unique Pride, Kannamwar Nagar 1, Central Mumbai Suburbs listed for 88 Lakh."}
+{"prompt": "Can I get a 3 BHK in Adarsh Nagar for less than 3.86 Cr?", "response": "Yes, there's a 3 BHK in Lashkaria Green Height, Adarsh Nagar, Mumbai Andheri-Dahisar listed for 3.30 Cr."}
+{"prompt": "Suggest some budget properties in Sector 22 Kamothe", "response": "Yes, there's a 2 BHK in Hiren Highlife Residency, Sector 22 Kamothe, Navi Mumbai listed for 1.10 Cr."}
+{"prompt": "What's available in Nerul under 81 Lakh?", "response": "Yes, there's a 1 BHK in Pre Launch Project (Cidco Tender Plot), Nerul, Navi Mumbai listed for 69 Lakh."}
+{"prompt": "Suggest some budget properties in Sector 29 Vashi", "response": "Yes, there's a 3 BHK in Nishant Residency, Sector 29 Vashi, Navi Mumbai listed for 3.50 Cr."}
+{"prompt": "Are there any high rise apartments in Thane West?", "response": "Yes, there's a 2 BHK in Haware Citi, Thane West, Thane listed for 63 Lakh."}
+{"prompt": "Can I get a 1 BHK in Dhokali for less than 88 Lakh?", "response": "Yes, there's a 1 BHK in The Icon By Risland, Dhokali, Thane listed for 78 Lakh."}
+{"prompt": "Suggest some budget properties in Seawoods", "response": "Yes, there's a 3 BHK in Greenscape The Residence, Seawoods, Navi Mumbai listed for 3.30 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Ghatkopar East, preferably under 1.08 Cr", "response": "Yes, there's a 1 BHK in Adityaraj Amrut, Ghatkopar East, Central Mumbai Suburbs listed for 95 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Ambernath around 44 Lakh?", "response": "Yes, there's a 2 BHK in Patels Zion, Ambernath, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Suggest some luxury properties in Hiranandani Estate", "response": "Yes, there's a 2 BHK in Hiranandani Delanna, Hiranandani Estate, Thane listed for 1.60 Cr."}
+{"prompt": "Show me 2 BHK flats in Roadpali", "response": "Yes, there's a 2 BHK in Parth Utopia, Roadpali, Navi Mumbai listed for 86 Lakh."}
+{"prompt": "Any unfurnished apartments in Malad East for around 59 Lakh?", "response": "Yes, there's a 1 BHK in Dgs Sheetal Bhavan, Malad East, Mumbai Andheri-Dahisar listed for 52 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Kolshet Road, preferably under 1.53 Cr", "response": "Yes, there's a 2 BHK in Lodha Amara, Kolshet Road, Thane listed for 1.35 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Dombivli East around 60 Lakh?", "response": "Yes, there's a 2 BHK in Lodha Lakeshore Greens, Dombivli East, Mumbai Beyond Thane listed for 51 Lakh."}
+{"prompt": "Do you have any listings in Naigaon East with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Navkar City, Naigaon East, Mira Road And Beyond listed for 32 Lakh."}
+{"prompt": "Are there any high rise apartments in Dadar West?", "response": "Yes, there's a 3 BHK in Omkar Bellezza, Dadar West, South Mumbai listed for 6.50 Cr."}
+{"prompt": "Are there any low rise apartments in Kasar Vadavali?", "response": "Yes, there's a 1 BHK in Metropolis Rivera, Kasar Vadavali, Thane listed for 59 Lakh."}
+{"prompt": "Are there any low rise apartments in Sector 20 Kamothe?", "response": "Yes, there's a 2 BHK in Sai Nakshatra, Sector 20 Kamothe, Navi Mumbai listed for 84 Lakh."}
+{"prompt": "Show me 3 BHK flats in Ulwe", "response": "Yes, there's a 3 BHK in Balaji Mayuresh Delta, Ulwe, Navi Mumbai listed for 1.77 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Ambernath, preferably under 42 Lakh", "response": "Yes, there's a 1 BHK in Mohan Precious Greens, Ambernath, Mumbai Beyond Thane listed for 36 Lakh."}
+{"prompt": "Can I get a 1 BHK in Thakurli for less than 63 Lakh?", "response": "Yes, there's a 1 BHK in Sarvoday Symphony, Thakurli, Mumbai Beyond Thane listed for 53 Lakh."}
+{"prompt": "Looking for a flat in Panvel with at least 1 balconies", "response": "Yes, there's a 2 BHK in Indiabulls Park, Panvel, Navi Mumbai listed for 79 Lakh."}
+{"prompt": "Can I get a 3 BHK in Nerul for less than 3.03 Cr?", "response": "Yes, there's a 3 BHK in Moreshwar 19 East, Nerul, Navi Mumbai listed for 2.71 Cr."}
+{"prompt": "Any unfurnished apartments in Khadakpada for around 42 Lakh?", "response": "Yes, there's a 1 BHK in Shakti Sai Srushti, Khadakpada, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Are there any low rise apartments in Mahajan Wadi?", "response": "Yes, there's a 2 BHK in Sk Imperial Garden, Mahajan Wadi, Mira Road And Beyond listed for 93 Lakh."}
+{"prompt": "Do you have any listings in Wadala with unfurnished furnishing?", "response": "Yes, there's a 3 BHK in Lodha New Cuffe Parade, Wadala, Mumbai Harbour listed for 5.06 Cr."}
+{"prompt": "What's available in Bandra East under 6.78 Cr?", "response": "Yes, there's a 3 BHK in Rustomjee Seasons, Bandra East, Mumbai South West listed for 6.00 Cr."}
+{"prompt": "Suggest some budget properties in Sector 15 Belapur", "response": "Yes, there's a 2 BHK in Sara Antalya, Sector 15 Belapur, Navi Mumbai listed for 2.50 Cr."}
+{"prompt": "Can I get a 99 BHK in Wagle Estate for less than 1.51 Cr?", "response": "Yes, there's a 99 BHK in Ashar 16, Wagle Estate, Thane listed for 1.30 Cr."}
+{"prompt": "Suggest some budget properties in Panch Pakhadi", "response": "Yes, there's a 1 BHK in Mahakali Kalika Heights, Panch Pakhadi, Thane listed for 1.98 Cr."}
+{"prompt": "Are there any high rise apartments in Borivali East?", "response": "Yes, there's a 3 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 5.00 Cr."}
+{"prompt": "Do you have any listings in Thane West with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in The Walk Ventana, Thane West, Thane listed for 94 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Roadpali around 1.70 Cr?", "response": "Yes, there's a 3 BHK in Platinum The Springs, Roadpali, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "Can I get a 2 BHK in Hiranandani Estate for less than 2.11 Cr?", "response": "Yes, there's a 2 BHK in Hiranandani Delanna, Hiranandani Estate, Thane listed for 1.92 Cr."}
+{"prompt": "Do you have any listings in Sagaon with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Rashi 27 East, Sagaon, Mumbai Beyond Thane listed for 75 Lakh."}
+{"prompt": "Can I get a 2 BHK in Ghatkopar East for less than 1.88 Cr?", "response": "Yes, there's a 2 BHK in Rajshree Forty Three East, Ghatkopar East, Central Mumbai Suburbs listed for 1.60 Cr."}
+{"prompt": "Are there any high rise apartments in Kharghar?", "response": "Yes, there's a 2 BHK in Adhiraj Township, Kharghar, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "Any semifurnished apartments in Pokhran 2 for around 4.04 Cr?", "response": "Yes, there's a 4 BHK in Asteria By Courtyard, Pokhran 2, Thane listed for 3.58 Cr."}
+{"prompt": "Looking for a flat in Panvel with at least 1 balconies", "response": "Yes, there's a 3 BHK in Dev Nisarg Classic, Panvel, Navi Mumbai listed for 1.35 Cr."}
+{"prompt": "Do you have any listings in Ghatla with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Chembur, Ghatla, Mumbai Harbour listed for 1.75 Cr."}
+{"prompt": "Any semifurnished apartments in Mira Road East for around 79 Lakh?", "response": "Yes, there's a 1 BHK in Rna Ng Silver Spring, Mira Road East, Mira Road And Beyond listed for 72 Lakh."}
+{"prompt": "Can I get a 2 BHK in Nerul for less than 2.10 Cr?", "response": "Yes, there's a 2 BHK in Shailesh Towers, Nerul, Navi Mumbai listed for 1.90 Cr."}
+{"prompt": "Any semifurnished apartments in Hiranandani Estate for around 83 Lakh?", "response": "Yes, there's a 1 BHK in Hiranandani Estate Englewood, Hiranandani Estate, Thane listed for 79 Lakh."}
+{"prompt": "Do you have any listings in Ambernath with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Tharwani Meghna Montana, Ambernath, Mumbai Beyond Thane listed for 39 Lakh."}
+{"prompt": "Suggest some budget properties in Kolshet Road", "response": "Yes, there's a 1 BHK in Godrej Ascend, Kolshet Road, Thane listed for 81 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Hiranandani Estate around 1.04 Cr?", "response": "Yes, there's a 1 BHK in Hiranandani Lavinia, Hiranandani Estate, Thane listed for 87 Lakh."}
+{"prompt": "Looking for a flat in Asha Nagar with at least 0 balconies", "response": "Yes, there's a 3 BHK in Shraddha B And C, Asha Nagar, Mumbai Andheri-Dahisar listed for 2.30 Cr."}
+{"prompt": "Are there any low rise apartments in Adivali?", "response": "Yes, there's a 1 BHK in Sai Proviso Atlantis, Adivali, Navi Mumbai listed for 38 Lakh."}
+{"prompt": "Do you have any listings in Kharghar with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Platinum Parksyde, Kharghar, Navi Mumbai listed for 2.05 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Kalyan East, preferably under 85 Lakh", "response": "Yes, there's a 3 BHK in Shri Hari Complex, Kalyan East, Mumbai Beyond Thane listed for 73 Lakh."}
+{"prompt": "Suggest some luxury properties in Sambhaji Nagar", "response": "Yes, there's a 2 BHK in Runwal Sanctuary, Sambhaji Nagar, Central Mumbai Suburbs listed for 2.18 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Nerul, preferably under 2.74 Cr", "response": "Yes, there's a 3 BHK in Omkar Planet, Nerul, Navi Mumbai listed for 2.30 Cr."}
+{"prompt": "Find me a 4 BHK in Pokhran 2 under 4.33 Cr", "response": "Yes, there's a 4 BHK in Asteria By Courtyard, Pokhran 2, Thane listed for 4.00 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Vile Parle West, preferably under 2.77 Cr", "response": "Yes, there's a 2 BHK in Silverlite 56 West, Vile Parle West, Mumbai South West listed for 2.50 Cr."}
+{"prompt": "Suggest some budget properties in Sector 11 Koparkhairane", "response": "Yes, there's a 1 BHK in Shanti Chs, Sector 11 Koparkhairane, Navi Mumbai listed for 73 Lakh."}
+{"prompt": "Find me a 2 BHK in Sector 17 Ulwe under 1.10 Cr", "response": "Yes, there's a 2 BHK in Tejas Heritage, Sector 17 Ulwe, Navi Mumbai listed for 1.00 Cr."}
+{"prompt": "Do you have any listings in Byculla East with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Piramal Aranya, Byculla East, Mumbai Harbour listed for 13.00 Cr."}
+{"prompt": "Can I get a 1 BHK in Malad West for less than 100 Lakh?", "response": "Yes, there's a 1 BHK in Pcpl Serene Apartment, Malad West, Mumbai Andheri-Dahisar listed for 90 Lakh."}
+{"prompt": "Any semifurnished apartments in Panvel for around 70 Lakh?", "response": "Yes, there's a 2 BHK in Shree Empire, Panvel, Navi Mumbai listed for 63 Lakh."}
+{"prompt": "Show me 2 BHK flats in Balkum", "response": "Yes, there's a 2 BHK in Runwal Eirene, Balkum, Thane listed for 1.05 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Worli around 29.28 Cr?", "response": "Yes, there's a 4 BHK in K Raheja Artesia, Worli, South Mumbai listed for 27.01 Cr."}
+{"prompt": "Show me 3 BHK flats in Hiranandani Estate", "response": "Yes, there's a 3 BHK in One Hiranandani Park, Hiranandani Estate, Thane listed for 4.50 Cr."}
+{"prompt": "Suggest some budget properties in Worli", "response": "Yes, there's a 4 BHK in K Raheja Artesia, Worli, South Mumbai listed for 10 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Mulund West around 1.02 Cr?", "response": "Yes, there's a 1 BHK in Ao Realty Excellente, Mulund West, Central Mumbai Suburbs listed for 85 Lakh."}
+{"prompt": "Can I get a 3 BHK in Goregaon West for less than 4.06 Cr?", "response": "Yes, there's a 3 BHK in Sunteck City Avenue 1, Goregaon West, Mumbai Andheri-Dahisar listed for 3.48 Cr."}
+{"prompt": "Do you have any listings in Wadala East with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Dosti Acres, Wadala East, Mumbai Harbour listed for 2.45 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Kandivali West around 2.46 Cr?", "response": "Yes, there's a 3 BHK in Dimples Westwood, Kandivali West, Mumbai Andheri-Dahisar listed for 2.16 Cr."}
+{"prompt": "Are there any low rise apartments in Dhokali?", "response": "Yes, there's a 1 BHK in The Icon By Risland, Dhokali, Thane listed for 69 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Taloja, preferably under 30 Lakh", "response": "Yes, there's a 1 BHK in Lodha Codename Golden Dream, Taloja, Navi Mumbai listed for 27 Lakh."}
+{"prompt": "Show me 4 BHK flats in Vashi", "response": "Yes, there's a 4 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 4.55 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Moti Nagar, preferably under 1.52 Cr", "response": "Yes, there's a 2 BHK in Marathon Cosmos, Moti Nagar, Central Mumbai Suburbs listed for 1.36 Cr."}
+{"prompt": "What's available in Pale Gaon under 51 Lakh?", "response": "Yes, there's a 2 BHK in Gbk Vishwajeet Empire Nx, Pale Gaon, Mumbai Beyond Thane listed for 43 Lakh."}
+{"prompt": "Are there any low rise apartments in Sector 29C Airoli?", "response": "Yes, there's a 2 BHK in Sundarban Chs, Sector 29C Airoli, Navi Mumbai listed for 1.17 Cr."}
+{"prompt": "Show me 3 BHK flats in Chincholi Bunder", "response": "Yes, there's a 3 BHK in Link Bay Malad Chs Ltd, Chincholi Bunder, Mumbai Andheri-Dahisar listed for 2.69 Cr."}
+{"prompt": "Suggest some budget properties in Roadpali", "response": "Yes, there's a 3 BHK in Platinum The Springs, Roadpali, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "Show me 3 BHK flats in Dombivli East", "response": "Yes, there's a 3 BHK in Lodha Codename Premier, Dombivli East, Mumbai Beyond Thane listed for 90 Lakh."}
+{"prompt": "Looking for a flat in Hiranandani Gardens Powai with at least 0 balconies", "response": "Yes, there's a 3 BHK in Hiranandani Brentwood, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 4.40 Cr."}
+{"prompt": "What's available in Anjurdive under 1.32 Cr?", "response": "Yes, there's a 3 BHK in Lodha Upper Thane, Anjurdive, Mumbai Beyond Thane listed for 1.25 Cr."}
+{"prompt": "Can I get a 2 BHK in Sahar Road for less than 2.06 Cr?", "response": "Yes, there's a 2 BHK in Dynamix Luma, Sahar Road, Mumbai Andheri-Dahisar listed for 1.75 Cr."}
+{"prompt": "Looking for a flat in Tardeo with at least 1 balconies", "response": "Yes, there's a 3 BHK in Sd The Imperial, Tardeo, South Mumbai listed for 16.50 Cr."}
+{"prompt": "Are there any low rise apartments in Bandra East?", "response": "Yes, there's a 4 BHK in Kalpataru Magnus, Bandra East, Mumbai South West listed for 9.94 Cr."}
+{"prompt": "Show me 2 BHK flats in Sector 35I Kharghar", "response": "Yes, there's a 2 BHK in Sumukha, Sector 35I Kharghar, Navi Mumbai listed for 1.10 Cr."}
+{"prompt": "Any semifurnished apartments in Kharghar for around 80 Lakh?", "response": "Yes, there's a 1 BHK in Juhi Niharika Absolute, Kharghar, Navi Mumbai listed for 71 Lakh."}
+{"prompt": "Are there any high rise apartments in Hiranandani Estate?", "response": "Yes, there's a 3 BHK in Hiranandani Rodas Enclave, Hiranandani Estate, Thane listed for 2.87 Cr."}
+{"prompt": "Do you have any listings in Manpada with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Dosti Imperia, Manpada, Thane listed for 1.55 Cr."}
+{"prompt": "Do you have any listings in Malad West with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Triumph Towers, Malad West, Mumbai Andheri-Dahisar listed for 2.18 Cr."}
+{"prompt": "Suggest some budget properties in Marol", "response": "Yes, there's a 2 BHK in Veeramani Radiant 59, Marol, Mumbai Andheri-Dahisar listed for 1.51 Cr."}
+{"prompt": "Can I get a 3 BHK in Worli for less than 9.68 Cr?", "response": "Yes, there's a 3 BHK in Lodha Adrina, Worli, South Mumbai listed for 8.39 Cr."}
+{"prompt": "Are there any low rise apartments in Bandra West?", "response": "Yes, there's a 1 BHK in 1 Amit Apartments , Bandra West, Mumbai South West listed for 1.50 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Kurla East around 1.46 Cr?", "response": "Yes, there's a 2 BHK in Gagan 45, Kurla East, Central Mumbai Suburbs listed for 1.31 Cr."}
+{"prompt": "Do you have any listings in Sector 9 New Panvel with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Shree Sidheshwar Chs, Sector 9 New Panvel, Navi Mumbai listed for 45 Lakh."}
+{"prompt": "Any unfurnished apartments in Lokhandwala Kandivali East for around 3.69 Cr?", "response": "Yes, there's a 3 BHK in Lokhandwala Octacrest, Lokhandwala Kandivali East, Mumbai Andheri-Dahisar listed for 3.40 Cr."}
+{"prompt": "Looking for a flat in Bhandup West with at least 0 balconies", "response": "Yes, there's a 1 BHK in Shraddha Evoque, Bhandup West, Central Mumbai Suburbs listed for 73 Lakh."}
+{"prompt": "Can I get a 1 BHK in Dahisar East for less than 1.01 Cr?", "response": "Yes, there's a 1 BHK in Sahakar Dahisar Shivangan, Dahisar East, Mumbai Andheri-Dahisar listed for 85 Lakh."}
+{"prompt": "What's available in Khadakpada under 39 Lakh?", "response": "Yes, there's a 1 BHK in Shakti Sai Srushti, Khadakpada, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Find me a 4 BHK in Hiranandani Gardens Powai under 15.62 Cr", "response": "Yes, there's a 4 BHK in Hiranandani Gardens Somerset, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 14.50 Cr."}
+{"prompt": "Suggest some budget properties in Kalamboli", "response": "Yes, there's a 3 BHK in Neelsidhi Amarante, Kalamboli, Navi Mumbai listed for 87 Lakh."}
+{"prompt": "What's available in Bhandup West under 95 Lakh?", "response": "Yes, there's a 1 BHK in Shree Samarth Viscaria, Bhandup West, Central Mumbai Suburbs listed for 85 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Majiwada, preferably under 99 Lakh", "response": "Yes, there's a 1 BHK in Ashar Axis, Majiwada, Thane listed for 89 Lakh."}
+{"prompt": "Are there any high rise apartments in Borivali East?", "response": "Yes, there's a 99 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 9.10 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Mira Bhayandar around 75 Lakh?", "response": "Yes, there's a 1 BHK in Tejaswi Apartment, Mira Bhayandar, Mira Road And Beyond listed for 70 Lakh."}
+{"prompt": "Can I get a 1 BHK in Powai for less than 1.51 Cr?", "response": "Yes, there's a 1 BHK in Srishti Harmony 3, Powai, Central Mumbai Suburbs listed for 1.35 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 11 Koparkhairane around 1.00 Cr?", "response": "Yes, there's a 2 BHK in Shree Mala Chs, Sector 11 Koparkhairane, Navi Mumbai listed for 95 Lakh."}
+{"prompt": "Are there any mid rise apartments in Manpada?", "response": "Yes, there's a 2 BHK in Kalpataru Hills, Manpada, Thane listed for 1.15 Cr."}
+{"prompt": "What's available in Vikhroli East under 1.39 Cr?", "response": "Yes, there's a 2 BHK in Vaibhavlaxmi Central Park, Vikhroli East, Central Mumbai Suburbs listed for 1.30 Cr."}
+{"prompt": "What's available in Walkeshwar under 31.23 Cr?", "response": "Yes, there's a 99 BHK in Sanidhaya Apartment, Walkeshwar, South Mumbai listed for 27.00 Cr."}
+{"prompt": "Do you have any listings in Manpada with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Dosti Imperia, Manpada, Thane listed for 1.65 Cr."}
+{"prompt": "Do you have any listings in New Panvel with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Neel Sidhi Ballarat, New Panvel, Navi Mumbai listed for 58 Lakh."}
+{"prompt": "Can I get a 3 BHK in Sector 10 Kharghar for less than 2.52 Cr?", "response": "Yes, there's a 3 BHK in Ravechi La Vista, Sector 10 Kharghar, Navi Mumbai listed for 2.25 Cr."}
+{"prompt": "Show me 2 BHK flats in Anand Nagar", "response": "Yes, there's a 2 BHK in Cosmos Empress Park, Anand Nagar, Thane listed for 1.10 Cr."}
+{"prompt": "Any semifurnished apartments in Hiranandani Gardens Powai for around 11.27 Cr?", "response": "Yes, there's a 4 BHK in Hiranandani Odyssey, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 10.00 Cr."}
+{"prompt": "Can I get a 2 BHK in Katrap for less than 43 Lakh?", "response": "Yes, there's a 2 BHK in On Request, Katrap, Mumbai Beyond Thane listed for 38 Lakh."}
+{"prompt": "What's available in Powai under 4.15 Cr?", "response": "Yes, there's a 3 BHK in L And T Emerald Isle, Powai, Central Mumbai Suburbs listed for 3.59 Cr."}
+{"prompt": "Can I get a 3 BHK in Sector 29 Vashi for less than 3.68 Cr?", "response": "Yes, there's a 3 BHK in Nishant Residency, Sector 29 Vashi, Navi Mumbai listed for 3.50 Cr."}
+{"prompt": "Looking for a flat in Jui Nagar with at least 1 balconies", "response": "Yes, there's a 2 BHK in Raheja Solaris, Jui Nagar, Navi Mumbai listed for 1.95 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Ulwe around 39 Lakh?", "response": "Yes, there's a 1 BHK in Dynamic Avenue, Ulwe, Navi Mumbai listed for 36 Lakh."}
+{"prompt": "What's available in Khar West under 8.76 Cr?", "response": "Yes, there's a 3 BHK in Ekta Eros, Khar West, Mumbai South West listed for 7.92 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Shilphata, preferably under 72 Lakh", "response": "Yes, there's a 2 BHK in Metro Paramount, Shilphata, Navi Mumbai listed for 69 Lakh."}
+{"prompt": "Can I get a 1 BHK in Tagore Nagar for less than 92 Lakh?", "response": "Yes, there's a 1 BHK in Adarsh Avenue, Tagore Nagar, Central Mumbai Suburbs listed for 82 Lakh."}
+{"prompt": "Looking for a flat in Pokharan Road with at least 2 balconies", "response": "Yes, there's a 3 BHK in Serein By Tata Housing, Pokharan Road, Thane listed for 2.65 Cr."}
+{"prompt": "What's available in Chembur under 3.97 Cr?", "response": "Yes, there's a 3 BHK in Natraj Tricity Chembur, Chembur, Mumbai Harbour listed for 3.60 Cr."}
+{"prompt": "Show me 2 BHK flats in Kannamwar Nagar 1", "response": "Yes, there's a 2 BHK in Vaibhavlaxmi Olympus Vikhroli East, Kannamwar Nagar 1, Central Mumbai Suburbs listed for 1.18 Cr."}
+{"prompt": "Any unfurnished apartments in Lower Parel for around 10.26 Cr?", "response": "Yes, there's a 3 BHK in Indiabulls Sky Forest, Lower Parel, South Mumbai listed for 8.75 Cr."}
+{"prompt": "Can I get a 3 BHK in Seawoods for less than 4.67 Cr?", "response": "Yes, there's a 3 BHK in L And T West Square, Seawoods, Navi Mumbai listed for 4.16 Cr."}
+{"prompt": "What's available in Dombivli East under 1.68 Cr?", "response": "Yes, there's a 3 BHK in Lodha Codename Premier, Dombivli East, Mumbai Beyond Thane listed for 1.54 Cr."}
+{"prompt": "Suggest some budget properties in Lokhandwala Kandivali East", "response": "Yes, there's a 2 BHK in Wite Cityss, Lokhandwala Kandivali East, Mumbai Andheri-Dahisar listed for 2.25 Cr."}
+{"prompt": "Are there any low rise apartments in Hiranandani Estate?", "response": "Yes, there's a 3 BHK in Hiranandani Lake Enclave, Hiranandani Estate, Thane listed for 4.90 Cr."}
+{"prompt": "Find me a 1 BHK in Mulund West under 1.80 Cr", "response": "Yes, there's a 1 BHK in Atmosphere O2, Mulund West, Central Mumbai Suburbs listed for 1.60 Cr."}
+{"prompt": "Looking for a flat in Kharghar with at least 2 balconies", "response": "Yes, there's a 2 BHK in Fortune Heights, Kharghar, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "Show me 1 BHK flats in Wadala", "response": "Yes, there's a 1 BHK in Godrej Horizon, Wadala, Mumbai Harbour listed for 1.90 Cr."}
+{"prompt": "Find me a 1 BHK in Kasar Vadavali under 64 Lakh", "response": "Yes, there's a 1 BHK in Puraniks Tokyo Bay, Kasar Vadavali, Thane listed for 55 Lakh."}
+{"prompt": "Looking for a 5 BHK flat in Pali Hill, preferably under 31.79 Cr", "response": "Yes, there's a 5 BHK in Gilder Villa Apartment, Pali Hill, Mumbai South West listed for 30.00 Cr."}
+{"prompt": "Suggest some budget properties in Sector 11 Kharghar", "response": "Yes, there's a 3 BHK in Cgewho Kendriya Vihar, Sector 11 Kharghar, Navi Mumbai listed for 1.36 Cr."}
+{"prompt": "Looking for a flat in Hiranandani Estate with at least 1 balconies", "response": "Yes, there's a 3 BHK in Hiranandani Rodas Enclave, Hiranandani Estate, Thane listed for 3.35 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Wadala, preferably under 3.02 Cr", "response": "Yes, there's a 2 BHK in Lodha New Cuffe Parade, Wadala, Mumbai Harbour listed for 2.85 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Sector 9 Kopar Khairane, preferably under 1.76 Cr", "response": "Yes, there's a 2 BHK in Shakti One Luxuria, Sector 9 Kopar Khairane, Navi Mumbai listed for 1.47 Cr."}
+{"prompt": "Show me 4 BHK flats in Shastri Nagar", "response": "Yes, there's a 4 BHK in Lokhandwala Minerva, Shastri Nagar, South Mumbai listed for 11.50 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Kandivali East around 3.97 Cr?", "response": "Yes, there's a 4 BHK in White Berry Residency, Kandivali East, Mumbai Andheri-Dahisar listed for 3.35 Cr."}
+{"prompt": "Find me a 3 BHK in Matunga West under 6.54 Cr", "response": "Yes, there's a 3 BHK in Spenta Medius, Matunga West, South Mumbai listed for 5.50 Cr."}
+{"prompt": "Do you have any listings in Vartak Nagar with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Nakshatra Metro Majestic, Vartak Nagar, Thane listed for 1.05 Cr."}
+{"prompt": "Find me a 1 BHK in Thane West under 1.07 Cr", "response": "Yes, there's a 1 BHK in Hiranandani Solitaire A, Thane West, Thane listed for 1.00 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Hanuman Nagar, preferably under 14.01 Cr", "response": "Yes, there's a 3 BHK in Omkar 1973 Worli, Hanuman Nagar, South Mumbai listed for 12.00 Cr."}
+{"prompt": "Any semifurnished apartments in Manpada for around 2.76 Cr?", "response": "Yes, there's a 3 BHK in Codename 25 Hour Life, Manpada, Thane listed for 2.45 Cr."}
+{"prompt": "Suggest some budget properties in Mulund West", "response": "Yes, there's a 99 BHK in Ashford Royale, Mulund West, Central Mumbai Suburbs listed for 10.01 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Mulund West, preferably under 2.77 Cr", "response": "Yes, there's a 3 BHK in L And T Rejuve 360, Mulund West, Central Mumbai Suburbs listed for 2.36 Cr."}
+{"prompt": "Any unfurnished apartments in Karanjade for around 40 Lakh?", "response": "Yes, there's a 1 BHK in Shyam Villa, Karanjade, Navi Mumbai listed for 37 Lakh."}
+{"prompt": "Find me a 2 BHK in Mulund West under 2.50 Cr", "response": "Yes, there's a 2 BHK in Piramal Revanta, Mulund West, Central Mumbai Suburbs listed for 2.35 Cr."}
+{"prompt": "Looking for a flat in Powai with at least 1 balconies", "response": "Yes, there's a 3 BHK in L And T Elixir Reserve, Powai, Central Mumbai Suburbs listed for 3.90 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 18 Ulwe around 89 Lakh?", "response": "Yes, there's a 2 BHK in Neelkanth Majestic, Sector 18 Ulwe, Navi Mumbai listed for 80 Lakh."}
+{"prompt": "Show me 1 BHK flats in New Panvel", "response": "Yes, there's a 1 BHK in Praradi Pearl, New Panvel, Navi Mumbai listed for 37 Lakh."}
+{"prompt": "Find me a 3 BHK in Model Town under 6.24 Cr", "response": "Yes, there's a 3 BHK in Platinum Grandeur, Model Town, Mumbai Andheri-Dahisar listed for 5.26 Cr."}
+{"prompt": "Show me 2 BHK flats in Dombivli East", "response": "Yes, there's a 2 BHK in Lodha Palava City, Dombivli East, Mumbai Beyond Thane listed for 68 Lakh."}
+{"prompt": "Find me a 2 BHK in Ulwe under 1.28 Cr", "response": "Yes, there's a 2 BHK in Delta Heights, Ulwe, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Titwala around 40 Lakh?", "response": "Yes, there's a 1 BHK in Madhuban F Wing, Titwala, Mumbai Beyond Thane listed for 34 Lakh."}
+{"prompt": "Find me a 2 BHK in Vaishali Nagar under 1.60 Cr", "response": "Yes, there's a 2 BHK in Ashar Maple, Vaishali Nagar, Central Mumbai Suburbs listed for 1.50 Cr."}
+{"prompt": "Can I get a 4 BHK in Malad West for less than 4.84 Cr?", "response": "Yes, there's a 4 BHK in Chandak Treesourus, Malad West, Mumbai Andheri-Dahisar listed for 4.18 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Goregaon West around 1.39 Cr?", "response": "Yes, there's a 1 BHK in Kabra Aurum, Goregaon West, Mumbai Andheri-Dahisar listed for 1.29 Cr."}
+{"prompt": "What's available in Ulwe under 81 Lakh?", "response": "Yes, there's a 2 BHK in Patel Raj Park, Ulwe, Navi Mumbai listed for 68 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Adaigaon around 54 Lakh?", "response": "Yes, there's a 2 BHK in Viratgad Ashtavinayak Gruha Sankul Phase 1, Adaigaon, Navi Mumbai listed for 47 Lakh."}
+{"prompt": "Suggest some luxury properties in Kasar Vadavali", "response": "Yes, there's a 2 BHK in Raunak Bliss, Kasar Vadavali, Thane listed for 78 Lakh."}
+{"prompt": "Any semifurnished apartments in Byculla for around 2.43 Cr?", "response": "Yes, there's a 2 BHK in Ruparel Vivanza, Byculla, Mumbai Harbour listed for 2.10 Cr."}
+{"prompt": "Find me a 3 BHK in Mulund West under 2.24 Cr", "response": "Yes, there's a 3 BHK in Arkade Nest, Mulund West, Central Mumbai Suburbs listed for 2.02 Cr."}
+{"prompt": "Do you have any listings in Mira Bhayandar with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Cllaro Urban Grandeur, Mira Bhayandar, Mira Road And Beyond listed for 1.59 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Wadala around 4.11 Cr?", "response": "Yes, there's a 2 BHK in Gardenia New Cuffe Parade, Wadala, Mumbai Harbour listed for 3.80 Cr."}
+{"prompt": "Do you have any listings in Chembur East with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Wadhwa Dukes Horizon, Chembur East, Mumbai Harbour listed for 2.00 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Pokhran 2 around 1.42 Cr?", "response": "Yes, there's a 2 BHK in Raunak Paradise, Pokhran 2, Thane listed for 1.25 Cr."}
+{"prompt": "Do you have any listings in Sector 30 Belapur with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Universal The Oasis, Sector 30 Belapur, Navi Mumbai listed for 1.80 Cr."}
+{"prompt": "Any semifurnished apartments in Dombivli East for around 81 Lakh?", "response": "Yes, there's a 2 BHK in Paradise Sai World Dreams, Dombivli East, Mumbai Beyond Thane listed for 75 Lakh."}
+{"prompt": "Any unfurnished apartments in Powai for around 2.28 Cr?", "response": "Yes, there's a 2 BHK in L And T Emerald Isle, Powai, Central Mumbai Suburbs listed for 2.15 Cr."}
+{"prompt": "Can I get a 2 BHK in Khar West for less than 4.81 Cr?", "response": "Yes, there's a 2 BHK in Platinum Avenue, Khar West, Mumbai South West listed for 4.56 Cr."}
+{"prompt": "What's available in Mhada Colony under 1.55 Cr?", "response": "Yes, there's a 2 BHK in Aakashdeep Chs  , Mhada Colony, Central Mumbai Suburbs listed for 1.45 Cr."}
+{"prompt": "Are there any mid rise apartments in Bandra Kurla Complex?", "response": "Yes, there's a 3 BHK in Rustomjee Oriana, Bandra Kurla Complex, Mumbai South West listed for 9.50 Cr."}
+{"prompt": "What's available in Old Panvel under 90 Lakh?", "response": "Yes, there's a 2 BHK in Matruchaya  Complex, Old Panvel, Navi Mumbai listed for 75 Lakh."}
+{"prompt": "Show me 1 BHK flats in Kalyan West", "response": "Yes, there's a 1 BHK in Raunak City 3, Kalyan West, Mumbai Beyond Thane listed for 35 Lakh."}
+{"prompt": "Suggest some luxury properties in Parel", "response": "Yes, there's a 3 BHK in L And T Crescent Bay, Parel, South Mumbai listed for 5.70 Cr."}
+{"prompt": "Suggest some budget properties in Vijay Nagari", "response": "Yes, there's a 2 BHK in Vijay Galaxy, Vijay Nagari, Thane listed for 1.08 Cr."}
+{"prompt": "What's available in Ghansoli under 1.09 Cr?", "response": "Yes, there's a 1 BHK in Mahavir Sapphire ., Ghansoli, Navi Mumbai listed for 95 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Veera Desai Road, preferably under 1.41 Cr", "response": "Yes, there's a 1 BHK in Ar Avenue, Veera Desai Road, Mumbai Andheri-Dahisar listed for 1.25 Cr."}
+{"prompt": "What's available in Matunga West under 5.79 Cr?", "response": "Yes, there's a 3 BHK in Spenta Medius, Matunga West, South Mumbai listed for 5.50 Cr."}
+{"prompt": "Show me 2 BHK flats in Sindhi Society Chembur", "response": "Yes, there's a 2 BHK in Silver Arch, Sindhi Society Chembur, Mumbai Harbour listed for 2.30 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Malvani around 64 Lakh?", "response": "Yes, there's a 2 BHK in Galaxy Heights Malvani, Malvani, Mumbai Andheri-Dahisar listed for 55 Lakh."}
+{"prompt": "Can I get a 2 BHK in Midc Industrial Area for less than 1.55 Cr?", "response": "Yes, there's a 2 BHK in Manas 21, Midc Industrial Area, Navi Mumbai listed for 1.45 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Vashi, preferably under 3.19 Cr", "response": "Yes, there's a 3 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 3.00 Cr."}
+{"prompt": "Do you have any listings in Ghansoli with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Satyam Alliaance Icon, Ghansoli, Navi Mumbai listed for 1.80 Cr."}
+{"prompt": "What's available in Goregaon East under 2.38 Cr?", "response": "Yes, there's a 2 BHK in Raheja Sherwood, Goregaon East, Mumbai Andheri-Dahisar listed for 2.15 Cr."}
+{"prompt": "Do you have any listings in Worli with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Lodha Adrina, Worli, South Mumbai listed for 4.40 Cr."}
+{"prompt": "Find me a 2 BHK in Kharghar under 88 Lakh", "response": "Yes, there's a 2 BHK in Today Global Anandam, Kharghar, Navi Mumbai listed for 75 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Santacruz West, preferably under 3.61 Cr", "response": "Yes, there's a 1 BHK in Ruparel Panache, Santacruz West, Mumbai South West listed for 3.15 Cr."}
+{"prompt": "Can I get a 4 BHK in Pokhran 2 for less than 3.91 Cr?", "response": "Yes, there's a 4 BHK in The Address By Gs By Raymond Realty, Pokhran 2, Thane listed for 3.50 Cr."}
+{"prompt": "What's available in Mulund West under 1.30 Cr?", "response": "Yes, there's a 1 BHK in United Marathon Zaver Arcade, Mulund West, Central Mumbai Suburbs listed for 1.13 Cr."}
+{"prompt": "Can I get a 2 BHK in Mahalaxmi for less than 4.29 Cr?", "response": "Yes, there's a 2 BHK in Piramal Mahalaxmi, Mahalaxmi, South Mumbai listed for 3.75 Cr."}
+{"prompt": "What's available in Louiswadi Thane West 400604. under 86 Lakh?", "response": "Yes, there's a 1 BHK in Om Anand Chsl, Louiswadi Thane West., Louiswadi Thane West 400604., Thane listed for 80 Lakh."}
+{"prompt": "Looking for a flat in Panvel with at least 1 balconies", "response": "Yes, there's a 3 BHK in Dev Nisarg Classic, Panvel, Navi Mumbai listed for 1.35 Cr."}
+{"prompt": "Find me a 5 BHK in Mulund West under 8.74 Cr", "response": "Yes, there's a 5 BHK in Saint Pius, Mulund West, Central Mumbai Suburbs listed for 8.00 Cr."}
+{"prompt": "Find me a 2 BHK in Hiranandani Estate under 1.73 Cr", "response": "Yes, there's a 2 BHK in One Hiranandani Park, Hiranandani Estate, Thane listed for 1.55 Cr."}
+{"prompt": "Are there any low rise apartments in Kasar Vadavali?", "response": "Yes, there's a 2 BHK in Green Square, Kasar Vadavali, Thane listed for 72 Lakh."}
+{"prompt": "Find me a 1 BHK in Marol under 1.18 Cr", "response": "Yes, there's a 1 BHK in Veeramani Radiant 59, Marol, Mumbai Andheri-Dahisar listed for 99 Lakh."}
+{"prompt": "Any unfurnished apartments in Thakurli for around 91 Lakh?", "response": "Yes, there's a 1 BHK in Amber Enclave, Thakurli, Mumbai Beyond Thane listed for 80 Lakh."}
+{"prompt": "Can I get a 3 BHK in Ulwe for less than 1.09 Cr?", "response": "Yes, there's a 3 BHK in Avianna Invicta, Ulwe, Navi Mumbai listed for 95 Lakh."}
+{"prompt": "Suggest some budget properties in Anand Nagar", "response": "Yes, there's a 1 BHK in Unnati Chs, Anand Nagar, Thane listed for 65 Lakh."}
+{"prompt": "Are there any low rise apartments in Kharghar?", "response": "Yes, there's a 2 BHK in Today Mangalam, Kharghar, Navi Mumbai listed for 56 Lakh."}
+{"prompt": "Are there any low rise apartments in Sector 15 Kharghar?", "response": "Yes, there's a 2 BHK in Tricity Eros, Sector 15 Kharghar, Navi Mumbai listed for 1.35 Cr."}
+{"prompt": "Any semifurnished apartments in Powai for around 4.78 Cr?", "response": "Yes, there's a 3 BHK in Raheja Ascencio, Powai, Central Mumbai Suburbs listed for 4.45 Cr."}
+{"prompt": "Do you have any listings in Kharghar with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Paradise Sai World Empire, Kharghar, Navi Mumbai listed for 2.21 Cr."}
+{"prompt": "Show me 3 BHK flats in Powai", "response": "Yes, there's a 3 BHK in Hiranandani Gardens, Powai, Central Mumbai Suburbs listed for 3.40 Cr."}
+{"prompt": "Are there any low rise apartments in Andheri East?", "response": "Yes, there's a 2 BHK in Swapna Ghar Chs, Andheri East, Mumbai Andheri-Dahisar listed for 1.30 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Bhadra Nagar around 68 Lakh?", "response": "Yes, there's a 2 BHK in Runwal Gardens, Bhadra Nagar, Mumbai Beyond Thane listed for 59 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Katrap, preferably under 41 Lakh", "response": "Yes, there's a 2 BHK in On Request, Katrap, Mumbai Beyond Thane listed for 38 Lakh."}
+{"prompt": "Suggest some luxury properties in Dhokali", "response": "Yes, there's a 2 BHK in The Icon By Risland, Dhokali, Thane listed for 1.15 Cr."}
+{"prompt": "What's available in Borivali East under 4.70 Cr?", "response": "Yes, there's a 3 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 3.95 Cr."}
+{"prompt": "Show me 3 BHK flats in Mulund West", "response": "Yes, there's a 3 BHK in Oberoi Eternia And Enigma, Mulund West, Central Mumbai Suburbs listed for 3.00 Cr."}
+{"prompt": "Can I get a 3 BHK in Dadar West for less than 7.53 Cr?", "response": "Yes, there's a 3 BHK in Omkar Bellezza, Dadar West, South Mumbai listed for 6.50 Cr."}
+{"prompt": "Are there any high rise apartments in Kanjurmarg West?", "response": "Yes, there's a 2 BHK in Runwal Forests, Kanjurmarg West, Central Mumbai Suburbs listed for 1.25 Cr."}
+{"prompt": "What's available in Kharghar under 1.48 Cr?", "response": "Yes, there's a 2 BHK in Arihant Clan Aalishan, Kharghar, Navi Mumbai listed for 1.34 Cr."}
+{"prompt": "Looking for a flat in Bhandup West with at least 1 balconies", "response": "Yes, there's a 3 BHK in Shree Samarth Aura, Bhandup West, Central Mumbai Suburbs listed for 1.89 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Balkum, preferably under 1.16 Cr", "response": "Yes, there's a 2 BHK in Dosti Hero , Balkum, Thane listed for 98 Lakh."}
+{"prompt": "Find me a 4 BHK in Parel under 8.76 Cr", "response": "Yes, there's a 4 BHK in Bhoomi Simana, Parel, South Mumbai listed for 7.51 Cr."}
+{"prompt": "Any semifurnished apartments in Ghansoli for around 2.01 Cr?", "response": "Yes, there's a 2 BHK in Gami Asters, Ghansoli, Navi Mumbai listed for 1.90 Cr."}
+{"prompt": "Find me a 4 BHK in Borivali West under 4.85 Cr", "response": "Yes, there's a 4 BHK in D S The Corner, Borivali West, Mumbai Andheri-Dahisar listed for 4.50 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Manpada around 2.19 Cr?", "response": "Yes, there's a 3 BHK in Neelkanth Greens, Manpada, Thane listed for 2.00 Cr."}
+{"prompt": "Do you have any listings in Panvel with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Arihant Aspire, Panvel, Navi Mumbai listed for 67 Lakh."}
+{"prompt": "Are there any low rise apartments in Sanpada?", "response": "Yes, there's a 2 BHK in Tricity Montview, Sanpada, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "What's available in Panvel under 64 Lakh?", "response": "Yes, there's a 1 BHK in Kanakia Greenberg, Panvel, Navi Mumbai listed for 56 Lakh."}
+{"prompt": "Find me a 2 BHK in Sector 5 Ulwe under 93 Lakh", "response": "Yes, there's a 2 BHK in Avenue Gomaji Kasturi, Sector 5 Ulwe, Navi Mumbai listed for 82 Lakh."}
+{"prompt": "Suggest some budget properties in Ghodbunder Road", "response": "Yes, there's a 1 BHK in Raunak Unnathi Greens, Ghodbunder Road, Thane listed for 50 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Chembur around 2.22 Cr?", "response": "Yes, there's a 1 BHK in Janki Heritage, Chembur, Mumbai Harbour listed for 1.91 Cr."}
+{"prompt": "Do you have any listings in Manpada with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Codename 25 Hour Life, Manpada, Thane listed for 2.45 Cr."}
+{"prompt": "What's available in Khadakpada under 41 Lakh?", "response": "Yes, there's a 1 BHK in Shakti Sai Srushti, Khadakpada, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Suggest some budget properties in Shilphata", "response": "Yes, there's a 1 BHK in Mukta Residency Phase 2, Shilphata, Navi Mumbai listed for 46 Lakh."}
+{"prompt": "What's available in Kanjurmarg West under 2.04 Cr?", "response": "Yes, there's a 2 BHK in Runwal Forests, Kanjurmarg West, Central Mumbai Suburbs listed for 1.90 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Airoli, preferably under 3.75 Cr", "response": "Yes, there's a 3 BHK in Sunteck Signia Waterfront, Airoli, Navi Mumbai listed for 3.50 Cr."}
+{"prompt": "Are there any mid rise apartments in Sector 44 Seawoods?", "response": "Yes, there's a 1 BHK in Pratik Apartment , Sector 44 Seawoods, Navi Mumbai listed for 64 Lakh."}
+{"prompt": "Suggest some budget properties in Manpada", "response": "Yes, there's a 2 BHK in Hiranandani Meadows, Manpada, Thane listed for 1.70 Cr."}
+{"prompt": "Show me 2 BHK flats in Ghatkopar East", "response": "Yes, there's a 2 BHK in Rajshree Forty Three East, Ghatkopar East, Central Mumbai Suburbs listed for 1.60 Cr."}
+{"prompt": "Find me a 3 BHK in Parel under 4.65 Cr", "response": "Yes, there's a 3 BHK in Matoshree Pride, Parel, South Mumbai listed for 3.95 Cr."}
+{"prompt": "Do you have any listings in Ghansoli with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Gami Asters, Ghansoli, Navi Mumbai listed for 1.90 Cr."}
+{"prompt": "Show me 2 BHK flats in Vikhroli West", "response": "Yes, there's a 2 BHK in Mayfair Codename Sara Powai, Vikhroli West, Central Mumbai Suburbs listed for 1.80 Cr."}
+{"prompt": "Can I get a 3 BHK in Hiranandani Gardens Powai for less than 5.58 Cr?", "response": "Yes, there's a 3 BHK in Hiranandani Heritage, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 5.15 Cr."}
+{"prompt": "Do you have any listings in Juhu Scheme with furnished furnishing?", "response": "Yes, there's a 2 BHK in On Request, Juhu Scheme, Mumbai South West listed for 4.25 Cr."}
+{"prompt": "Do you have any listings in Kasar Vadavali with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Raunak Bliss, Kasar Vadavali, Thane listed for 78 Lakh."}
+{"prompt": "Show me 2 BHK flats in Panvel", "response": "Yes, there's a 2 BHK in La Mer Regency, Panvel, Navi Mumbai listed for 97 Lakh."}
+{"prompt": "Show me 3 BHK flats in Bandra East", "response": "Yes, there's a 3 BHK in Ten Bkc, Bandra East, Mumbai South West listed for 6.49 Cr."}
+{"prompt": "Suggest some budget properties in Goregaon West", "response": "Yes, there's a 3 BHK in Sunteck City Avenue 1, Goregaon West, Mumbai Andheri-Dahisar listed for 2.95 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Tagore Nagar Road around 1.03 Cr?", "response": "Yes, there's a 1 BHK in The Adityaraj Gurukripa, Tagore Nagar Road, Central Mumbai Suburbs listed for 95 Lakh."}
+{"prompt": "Looking for a flat in Sector 8 Airoli with at least 1 balconies", "response": "Yes, there's a 2 BHK in Pacific One Pyramid, Sector 8 Airoli, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Chembur around 2.34 Cr?", "response": "Yes, there's a 2 BHK in Purva Clermont, Chembur, Mumbai Harbour listed for 1.97 Cr."}
+{"prompt": "Find me a 2 BHK in Kolshet Road under 1.60 Cr", "response": "Yes, there's a 2 BHK in Lodha Amara, Kolshet Road, Thane listed for 1.35 Cr."}
+{"prompt": "Show me 1 BHK flats in Kharghar", "response": "Yes, there's a 1 BHK in Platinum Royal Galaxy, Kharghar, Navi Mumbai listed for 70 Lakh."}
+{"prompt": "Show me 4 BHK flats in Malabar Hill", "response": "Yes, there's a 4 BHK in Manek Jiwan Apartment, Malabar Hill, South Mumbai listed for 27.00 Cr."}
+{"prompt": "Looking for a 4 BHK flat in Kurla West, preferably under 2.66 Cr", "response": "Yes, there's a 4 BHK in Meru Yojan One, Kurla West, Central Mumbai Suburbs listed for 2.36 Cr."}
+{"prompt": "Show me 3 BHK flats in Sector 11 Kharghar", "response": "Yes, there's a 3 BHK in United Emporio, Sector 11 Kharghar, Navi Mumbai listed for 2.25 Cr."}
+{"prompt": "Looking for a 4 BHK flat in Mulund West, preferably under 6.44 Cr", "response": "Yes, there's a 4 BHK in Neptune Gulmohar, Mulund West, Central Mumbai Suburbs listed for 5.50 Cr."}
+{"prompt": "Looking for a flat in Sector 18 Kamothe with at least 3 balconies", "response": "Yes, there's a 2 BHK in Bhoomi Harmony, Sector 18 Kamothe, Navi Mumbai listed for 1.23 Cr."}
+{"prompt": "Looking for a flat in Ghodbunder Road with at least 1 balconies", "response": "Yes, there's a 3 BHK in Godrej Emerald, Ghodbunder Road, Thane listed for 1.52 Cr."}
+{"prompt": "What's available in Kalyan East under 78 Lakh?", "response": "Yes, there's a 3 BHK in Shri Hari Complex, Kalyan East, Mumbai Beyond Thane listed for 73 Lakh."}
+{"prompt": "Find me a 2 BHK in Dadar East under 3.28 Cr", "response": "Yes, there's a 2 BHK in On Request, Dadar East, South Mumbai listed for 2.90 Cr."}
+{"prompt": "Can I get a 4 BHK in Worli for less than 10.48 Cr?", "response": "Yes, there's a 4 BHK in Raheja The Riviere Worli Skyline, Worli, South Mumbai listed for 8.99 Cr."}
+{"prompt": "Are there any mid rise apartments in Vasai West?", "response": "Yes, there's a 1 BHK in Rajhans Kshitij, Vasai West, Mira Road And Beyond listed for 42 Lakh."}
+{"prompt": "Find me a 2 BHK in Sector 18 Kopar Khairane under 1.29 Cr", "response": "Yes, there's a 2 BHK in Jimmy Tower, Sector 18 Kopar Khairane, Navi Mumbai listed for 1.10 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Pokhran 2 around 91 Lakh?", "response": "Yes, there's a 1 BHK in Tulsidham Complex Chs, Pokhran 2, Thane listed for 82 Lakh."}
+{"prompt": "Do you have any listings in Mahalaxmi with furnished furnishing?", "response": "Yes, there's a 3 BHK in K Raheja Vivarea, Mahalaxmi, South Mumbai listed for 16.00 Cr."}
+{"prompt": "Looking for a 4 BHK flat in Goregaon East, preferably under 12.58 Cr", "response": "Yes, there's a 4 BHK in Lodha Fiorenza, Goregaon East, Mumbai Andheri-Dahisar listed for 11.00 Cr."}
+{"prompt": "Looking for a flat in Lal Baug with at least 1 balconies", "response": "Yes, there's a 3 BHK in Lodha Azzuro, Lal Baug, South Mumbai listed for 6.85 Cr."}
+{"prompt": "Any furnished apartments in Sector 15 Kharghar for around 69 Lakh?", "response": "Yes, there's a 1 BHK in Cidco Spaghetti Complex, Sector 15 Kharghar, Navi Mumbai listed for 65 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Kurla East around 1.07 Cr?", "response": "Yes, there's a 1 BHK in Haze Apartment, Kurla East, Central Mumbai Suburbs listed for 1.00 Cr."}
+{"prompt": "Show me 4 BHK flats in Mulund West", "response": "Yes, there's a 4 BHK in Transcon Tirumala Habitats, Mulund West, Central Mumbai Suburbs listed for 4.25 Cr."}
+{"prompt": "Suggest some budget properties in Amboli", "response": "Yes, there's a 3 BHK in Eternia Chs, Amboli, Mumbai Andheri-Dahisar listed for 4.50 Cr."}
+{"prompt": "Show me 4 BHK flats in Balkum", "response": "Yes, there's a 4 BHK in Piramal Vaikunth, Balkum, Thane listed for 3.00 Cr."}
+{"prompt": "Show me 3 BHK flats in Charkop", "response": "Yes, there's a 3 BHK in Emporio Towers, Charkop, Mumbai Andheri-Dahisar listed for 1.57 Cr."}
+{"prompt": "Suggest some luxury properties in Dombivli East", "response": "Yes, there's a 2 BHK in Lodha Palava City, Dombivli East, Mumbai Beyond Thane listed for 68 Lakh."}
+{"prompt": "Any unfurnished apartments in Sector 4 Kharghar for around 1.76 Cr?", "response": "Yes, there's a 3 BHK in Rail Vihar Chs, Sector 4 Kharghar, Navi Mumbai listed for 1.60 Cr."}
+{"prompt": "Any semifurnished apartments in Vashi for around 3.15 Cr?", "response": "Yes, there's a 1 BHK in Metricon The Gateway, Vashi, Navi Mumbai listed for 2.95 Cr."}
+{"prompt": "Looking for a flat in Kanjurmarg West with at least 0 balconies", "response": "Yes, there's a 2 BHK in Runwal Forests, Kanjurmarg West, Central Mumbai Suburbs listed for 1.68 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Shilphata, preferably under 71 Lakh", "response": "Yes, there's a 2 BHK in Lodha Palava, Shilphata, Navi Mumbai listed for 65 Lakh."}
+{"prompt": "What's available in Taloja under 39 Lakh?", "response": "Yes, there's a 1 BHK in Codename The Gateway, Taloja, Navi Mumbai listed for 34 Lakh."}
+{"prompt": "Suggest some budget properties in Ghansoli", "response": "Yes, there's a 2 BHK in Aurum Q Residences, Ghansoli, Navi Mumbai listed for 1.80 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Goregaon East, preferably under 6.31 Cr", "response": "Yes, there's a 3 BHK in Lodha Fiorenza, Goregaon East, Mumbai Andheri-Dahisar listed for 5.60 Cr."}
+{"prompt": "Find me a 3 BHK in Kharghar under 2.71 Cr", "response": "Yes, there's a 3 BHK in Today Global Anandam, Kharghar, Navi Mumbai listed for 2.29 Cr."}
+{"prompt": "Any semifurnished apartments in Dn Nagar for around 4.69 Cr?", "response": "Yes, there's a 3 BHK in Juhu Dhara Complex, Dn Nagar, Mumbai Andheri-Dahisar listed for 4.25 Cr."}
+{"prompt": "What's available in Majiwada under 1.02 Cr?", "response": "Yes, there's a 2 BHK in Crown Thane Lodha  Quality Homes, Majiwada, Thane listed for 91 Lakh."}
+{"prompt": "Find me a 3 BHK in Chembur East under 3.51 Cr", "response": "Yes, there's a 3 BHK in Raunak Centrum, Chembur East, Mumbai Harbour listed for 2.95 Cr."}
+{"prompt": "What's available in Andheri West under 17.01 Cr?", "response": "Yes, there's a 3 BHK in Rustomjee Elements, Andheri West, Mumbai Andheri-Dahisar listed for 14.50 Cr."}
+{"prompt": "What's available in Worli under 7.07 Cr?", "response": "Yes, there's a 3 BHK in Lodha Adrina, Worli, South Mumbai listed for 6.09 Cr."}
+{"prompt": "Looking for a flat in Sector 5 New Panvel East with at least 3 balconies", "response": "Yes, there's a 2 BHK in Neel Sankalp, Sector 5 New Panvel East, Navi Mumbai listed for 75 Lakh."}
+{"prompt": "Can I get a 3 BHK in Andheri West for less than 5.36 Cr?", "response": "Yes, there's a 3 BHK in Chalet Amar Chs Ltd , Andheri West, Mumbai Andheri-Dahisar listed for 4.65 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Malad West around 5.28 Cr?", "response": "Yes, there's a 4 BHK in Yashodhan Lovedale Residences, Malad West, Mumbai Andheri-Dahisar listed for 4.80 Cr."}
+{"prompt": "Show me 2 BHK flats in Hiranandani Estate", "response": "Yes, there's a 2 BHK in One Hiranandani Park, Hiranandani Estate, Thane listed for 1.59 Cr."}
+{"prompt": "Looking for a flat in Kharghar with at least 1 balconies", "response": "Yes, there's a 3 BHK in Sairama Signature, Kharghar, Navi Mumbai listed for 1.63 Cr."}
+{"prompt": "Any furnished apartments in Malabar Hill for around 18.87 Cr?", "response": "Yes, there's a 3 BHK in Lands End, Malabar Hill, South Mumbai listed for 17.00 Cr."}
+{"prompt": "Suggest some luxury properties in Kharghar", "response": "Yes, there's a 3 BHK in Paradise Sai World Empire, Kharghar, Navi Mumbai listed for 2.18 Cr."}
+{"prompt": "Show me 3 BHK flats in Kharghar", "response": "Yes, there's a 3 BHK in Varsha Balaji Park, Kharghar, Navi Mumbai listed for 2.14 Cr."}
+{"prompt": "Do you have any listings in Naupada with furnished furnishing?", "response": "Yes, there's a 2 BHK in Madhumalati Chs, Naupada, Thane listed for 1.30 Cr."}
+{"prompt": "Do you have any listings in Sector 2 Ulwe with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Gurukrupa Anant, Sector 2 Ulwe, Navi Mumbai listed for 60 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Bhiwandi around 60 Lakh?", "response": "Yes, there's a 2 BHK in Tata Amantra Complex, Bhiwandi, Mumbai Beyond Thane listed for 51 Lakh."}
+{"prompt": "Do you have any listings in Dombivli East with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Lodha Lakeshore Greens, Dombivli East, Mumbai Beyond Thane listed for 51 Lakh."}
+{"prompt": "Are there any high rise apartments in Hiranandani Meadows?", "response": "Yes, there's a 3 BHK in Hiranandani Lightbridge, Hiranandani Meadows, Thane listed for 2.91 Cr."}
+{"prompt": "Looking for a flat in Kharghar with at least 1 balconies", "response": "Yes, there's a 3 BHK in Adhiraj The Mainland, Kharghar, Navi Mumbai listed for 1.62 Cr."}
+{"prompt": "Do you have any listings in Thane West with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Shapoorji Northern Lights, Thane West, Thane listed for 1.50 Cr."}
+{"prompt": "Any semifurnished apartments in Ghansoli for around 89 Lakh?", "response": "Yes, there's a 1 BHK in Mangal Apartments, Ghansoli, Navi Mumbai listed for 78 Lakh."}
+{"prompt": "Looking for a flat in Malad East with at least 1 balconies", "response": "Yes, there's a 3 BHK in K Raheja Residency, Malad East, Mumbai Andheri-Dahisar listed for 2.45 Cr."}
+{"prompt": "Do you have any listings in Ghatkopar East with furnished furnishing?", "response": "Yes, there's a 1 BHK in Khandelwal Yash Park, Ghatkopar East, Central Mumbai Suburbs listed for 1.30 Cr."}
+{"prompt": "Find me a 3 BHK in Sector 29 Nerul under 3.33 Cr", "response": "Yes, there's a 3 BHK in Experio Platinum Elysium, Sector 29 Nerul, Navi Mumbai listed for 2.80 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Hiranandani Gardens Powai around 3.97 Cr?", "response": "Yes, there's a 2 BHK in Hiranandani Castle Rock, Hiranandani Gardens Powai, Central Mumbai Suburbs listed for 3.56 Cr."}
+{"prompt": "Do you have any listings in Ghodbunder Road with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Lodha Splendora, Ghodbunder Road, Thane listed for 62 Lakh."}
+{"prompt": "What's available in Sector 2 Charkop under 1.54 Cr?", "response": "Yes, there's a 2 BHK in West View Chs, Sector 2 Charkop, Mumbai Andheri-Dahisar listed for 1.35 Cr."}
+{"prompt": "Find me a 2 BHK in Sector 6 Nerul under 1.12 Cr", "response": "Yes, there's a 2 BHK in On Request, Sector 6 Nerul, Navi Mumbai listed for 1.00 Cr."}
+{"prompt": "What's available in Sector 29C Airoli under 1.95 Cr?", "response": "Yes, there's a 2 BHK in Swaraj Daffodils, Sector 29C Airoli, Navi Mumbai listed for 1.75 Cr."}
+{"prompt": "Looking for a flat in Sector 35G Kharghar with at least 4 balconies", "response": "Yes, there's a 3 BHK in Nisarg Hyde Park, Sector 35G Kharghar, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "Looking for a flat in Sector 8 Sanpada with at least 1 balconies", "response": "Yes, there's a 3 BHK in Kamdhenu Vogue, Sector 8 Sanpada, Navi Mumbai listed for 3.50 Cr."}
+{"prompt": "Do you have any listings in Wadala East with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Dosti Acres, Wadala East, Mumbai Harbour listed for 2.42 Cr."}
+{"prompt": "Any semifurnished apartments in Borivali East for around 7.39 Cr?", "response": "Yes, there's a 4 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 6.31 Cr."}
+{"prompt": "Show me 4 BHK flats in Balkum", "response": "Yes, there's a 4 BHK in Piramal Vaikunth, Balkum, Thane listed for 3.00 Cr."}
+{"prompt": "Can I get a 1 BHK in Mulund East for less than 94 Lakh?", "response": "Yes, there's a 1 BHK in Akshay Avneesh Imperium, Mulund East, Central Mumbai Suburbs listed for 82 Lakh."}
+{"prompt": "Do you have any listings in Vijay Nagari with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Vijay Galaxy, Vijay Nagari, Thane listed for 1.08 Cr."}
+{"prompt": "Any semifurnished apartments in Kharghar for around 63 Lakh?", "response": "Yes, there's a 1 BHK in Today Global Anandam, Kharghar, Navi Mumbai listed for 56 Lakh."}
+{"prompt": "Looking for a 2 BHK flat in Ulwe, preferably under 1.51 Cr", "response": "Yes, there's a 2 BHK in Delta Tower, Ulwe, Navi Mumbai listed for 1.35 Cr."}
+{"prompt": "Suggest some luxury properties in Bhandup West", "response": "Yes, there's a 2 BHK in Kalpataru Crest, Bhandup West, Central Mumbai Suburbs listed for 2.00 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 35D Kharghar around 1.42 Cr?", "response": "Yes, there's a 2 BHK in Paradise Sai Crystals, Sector 35D Kharghar, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Roadpali, preferably under 1.90 Cr", "response": "Yes, there's a 3 BHK in Platinum The Springs, Roadpali, Navi Mumbai listed for 1.70 Cr."}
+{"prompt": "Find me a 3 BHK in Goregaon East under 3.60 Cr", "response": "Yes, there's a 3 BHK in Aster Tower, Goregaon East, Mumbai Andheri-Dahisar listed for 3.30 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Andheri West, preferably under 3.36 Cr", "response": "Yes, there's a 2 BHK in Premium Tower, Andheri West, Mumbai Andheri-Dahisar listed for 3.00 Cr."}
+{"prompt": "Can I get a 3 BHK in Roadpali for less than 1.96 Cr?", "response": "Yes, there's a 3 BHK in Platinum The Springs, Roadpali, Navi Mumbai listed for 1.75 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Jui Nagar, preferably under 1.90 Cr", "response": "Yes, there's a 2 BHK in Raheja Solaris 2, Jui Nagar, Navi Mumbai listed for 1.66 Cr."}
+{"prompt": "Can I get a 2 BHK in Asha Nagar for less than 2.96 Cr?", "response": "Yes, there's a 2 BHK in Mulund Shangrila Chs, P.K. Road, Asha Nagar, Central Mumbai Suburbs listed for 2.50 Cr."}
+{"prompt": "Do you have any listings in Marol with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 2.60 Cr."}
+{"prompt": "Looking for a 4 BHK flat in Vashi, preferably under 5.09 Cr", "response": "Yes, there's a 4 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 4.55 Cr."}
+{"prompt": "Show me 2 BHK flats in Panvel", "response": "Yes, there's a 2 BHK in Marathon Nexzone, Panvel, Navi Mumbai listed for 83 Lakh."}
+{"prompt": "Find me a 3 BHK in Panvel under 1.75 Cr", "response": "Yes, there's a 3 BHK in Hiranandani Fortune City, Panvel, Navi Mumbai listed for 1.60 Cr."}
+{"prompt": "What's available in Khar West under 8.36 Cr?", "response": "Yes, there's a 3 BHK in Ekta Eros, Khar West, Mumbai South West listed for 7.92 Cr."}
+{"prompt": "Any semifurnished apartments in Vashi for around 4.87 Cr?", "response": "Yes, there's a 4 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 4.55 Cr."}
+{"prompt": "Find me a 2 BHK in Koperkhairane under 1.23 Cr", "response": "Yes, there's a 2 BHK in Sunny Chs, Koperkhairane, Navi Mumbai listed for 1.10 Cr."}
+{"prompt": "Any unfurnished apartments in Kharghar for around 3.74 Cr?", "response": "Yes, there's a 3 BHK in Balaji Delta Central, Kharghar, Navi Mumbai listed for 3.50 Cr."}
+{"prompt": "Suggest some budget properties in Chandivali", "response": "Yes, there's a 2 BHK in Mahindra Alcove, Chandivali, Central Mumbai Suburbs listed for 1.85 Cr."}
+{"prompt": "What's available in Worli under 5.35 Cr?", "response": "Yes, there's a 2 BHK in Lodha The Park, Worli, South Mumbai listed for 4.59 Cr."}
+{"prompt": "Find me a 3 BHK in Pushpak Nagar under 1.45 Cr", "response": "Yes, there's a 3 BHK in Shree Delta Elite, Pushpak Nagar, Navi Mumbai listed for 1.22 Cr."}
+{"prompt": "Looking for a flat in Ghansoli with at least 3 balconies", "response": "Yes, there's a 2 BHK in Rna Grand, Ghansoli, Navi Mumbai listed for 1.70 Cr."}
+{"prompt": "What's available in Borivali East under 3.57 Cr?", "response": "Yes, there's a 2 BHK in Rivali Park, Borivali East, Mumbai Andheri-Dahisar listed for 3.26 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 29C Airoli around 2.04 Cr?", "response": "Yes, there's a 2 BHK in Swaraj Daffodils, Sector 29C Airoli, Navi Mumbai listed for 1.75 Cr."}
+{"prompt": "Find me a 4 BHK in Nerul under 13.75 Cr", "response": "Yes, there's a 4 BHK in Regency Palms, Nerul, Navi Mumbai listed for 12.50 Cr."}
+{"prompt": "Do you have any listings in Chandivali with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Crescent Silverwoods, Chandivali, Central Mumbai Suburbs listed for 1.10 Cr."}
+{"prompt": "Show me 2 BHK flats in Pokhran 2", "response": "Yes, there's a 2 BHK in Asteria By Courtyard, Pokhran 2, Thane listed for 1.89 Cr."}
+{"prompt": "Can I get a 2 BHK in Dn Nagar for less than 2.55 Cr?", "response": "Yes, there's a 2 BHK in Platinum Life, Dn Nagar, Mumbai Andheri-Dahisar listed for 2.35 Cr."}
+{"prompt": "What's available in Chembur East under 2.28 Cr?", "response": "Yes, there's a 2 BHK in Skg Mumbadevi, Chembur Ghatla, Chembur East, Mumbai Harbour listed for 2.00 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Tagore Nagar, preferably under 2.07 Cr", "response": "Yes, there's a 3 BHK in The Adityaraj Gold, Tagore Nagar, Central Mumbai Suburbs listed for 1.90 Cr."}
+{"prompt": "Do you have any listings in Borivali East with furnished furnishing?", "response": "Yes, there's a 99 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 9.25 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Lower Parel, preferably under 2.04 Cr", "response": "Yes, there's a 1 BHK in Greenfield Cooperative Society Av, Lower Parel, South Mumbai listed for 1.91 Cr."}
+{"prompt": "Do you have any listings in Dombivli East with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Sagar Bhagwati Celeste, Dombivli East, Mumbai Beyond Thane listed for 43 Lakh."}
+{"prompt": "Suggest some luxury properties in Hiranandani Estate", "response": "Yes, there's a 2 BHK in Bhoomi Acres, Hiranandani Estate, Thane listed for 91 Lakh."}
+{"prompt": "Show me 3 BHK flats in Sector 18 New Panvel East", "response": "Yes, there's a 3 BHK in Neelsidhi Prime, Sector 18 New Panvel East, Navi Mumbai listed for 1.55 Cr."}
+{"prompt": "Are there any low rise apartments in Kalyan West?", "response": "Yes, there's a 1 BHK in Kalyan Nagari, Kalyan West, Mumbai Beyond Thane listed for 29 Lakh."}
+{"prompt": "Can I get a 2 BHK in Sector 3 Kharghar for less than 1.23 Cr?", "response": "Yes, there's a 2 BHK in Balaji Aangan, Sector 3 Kharghar, Navi Mumbai listed for 1.05 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Sector 8 Sanpada around 4.04 Cr?", "response": "Yes, there's a 3 BHK in Kamdhenu Vogue, Sector 8 Sanpada, Navi Mumbai listed for 3.50 Cr."}
+{"prompt": "What's available in Prabhadevi under 12.41 Cr?", "response": "Yes, there's a 3 BHK in 25 South, Prabhadevi, South Mumbai listed for 11.20 Cr."}
+{"prompt": "Find me a 3 BHK in Mulund West under 2.68 Cr", "response": "Yes, there's a 3 BHK in Nirmal Lifestyle, Mulund West, Central Mumbai Suburbs listed for 2.25 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Vashi around 3.24 Cr?", "response": "Yes, there's a 3 BHK in Arihant Advika, Vashi, Navi Mumbai listed for 3.00 Cr."}
+{"prompt": "Find me a 2 BHK in Ambernath under 43 Lakh", "response": "Yes, there's a 2 BHK in Patels Zion, Ambernath, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Looking for a flat in Nerul with at least 1 balconies", "response": "Yes, there's a 3 BHK in Moreshwar 19 East, Nerul, Navi Mumbai listed for 2.71 Cr."}
+{"prompt": "Show me 2 BHK flats in Ghodbunder Road", "response": "Yes, there's a 2 BHK in Lodha Splendora, Ghodbunder Road, Thane listed for 92 Lakh."}
+{"prompt": "Are there any mid rise apartments in Yk Nagar Nx, Near Expert International High School, Virar West?", "response": "Yes, there's a 1 BHK in Star Sheraton Chs.,, Yk Nagar Nx, Near Expert International High School, Virar West, Mira Road And Beyond listed for 42 Lakh."}
+{"prompt": "Looking for a flat in Sector 7 Kharghar with at least 2 balconies", "response": "Yes, there's a 2 BHK in Shree Ravechi Heights, Sector 7 Kharghar, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "Looking for a flat in Chembur with at least 0 balconies", "response": "Yes, there's a 2 BHK in Rg'S  Anantya, Chembur, Mumbai Harbour listed for 2.48 Cr."}
+{"prompt": "Suggest some budget properties in Sector 19 Airoli", "response": "Yes, there's a 2 BHK in Gajra Bhoomi Colossa 1, Sector 19 Airoli, Navi Mumbai listed for 1.75 Cr."}
+{"prompt": "Show me 4 BHK flats in Mulund West", "response": "Yes, there's a 4 BHK in Enigma By Oberoi Realty, Mulund West, Central Mumbai Suburbs listed for 7.00 Cr."}
+{"prompt": "Looking for a flat in Waghbil with at least 1 balconies", "response": "Yes, there's a 2 BHK in Prescon Prestige Residency, Waghbil, Thane listed for 78 Lakh."}
+{"prompt": "Find me a 2 BHK in Bhandup West under 1.07 Cr", "response": "Yes, there's a 2 BHK in Marathon Neovalley, Bhandup West, Central Mumbai Suburbs listed for 91 Lakh."}
+{"prompt": "Any semifurnished apartments in Dadar West for around 4.43 Cr?", "response": "Yes, there's a 3 BHK in Shri Ratan Address, Dadar West, South Mumbai listed for 3.99 Cr."}
+{"prompt": "Suggest some budget properties in Hiranandani Estate", "response": "Yes, there's a 3 BHK in Tribeca Chs, Hiranandani Estate, Thane listed for 2.90 Cr."}
+{"prompt": "Are there any low rise apartments in Kharghar?", "response": "Yes, there's a 3 BHK in Varsha Balaji Park, Kharghar, Navi Mumbai listed for 2.14 Cr."}
+{"prompt": "Do you have any listings in Kavesar with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Vijay Residency, Kavesar, Thane listed for 1.60 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Mulund West, preferably under 1.02 Cr", "response": "Yes, there's a 1 BHK in Vasundhara Height, Mulund West, Central Mumbai Suburbs listed for 90 Lakh."}
+{"prompt": "Suggest some luxury properties in Sion East", "response": "Yes, there's a 99 BHK in Sheth Beaumonte, Sion East, Central Mumbai Suburbs listed for 9.33 Cr."}
+{"prompt": "Can I get a 1 BHK in Bhayander East for less than 72 Lakh?", "response": "Yes, there's a 1 BHK in Ostwal Tower, Bhayander East, Mira Road And Beyond listed for 65 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Kurla East, preferably under 1.34 Cr", "response": "Yes, there's a 1 BHK in Raghav Amara, Kurla East, Central Mumbai Suburbs listed for 1.15 Cr."}
+{"prompt": "Any semifurnished apartments in Kolshet Road for around 1.41 Cr?", "response": "Yes, there's a 2 BHK in Lodha Amara, Kolshet Road, Thane listed for 1.31 Cr."}
+{"prompt": "Any unfurnished apartments in Andheri East for around 2.40 Cr?", "response": "Yes, there's a 2 BHK in Prajakta Chs, Andheri East, Mumbai Andheri-Dahisar listed for 2.25 Cr."}
+{"prompt": "Any semifurnished apartments in Worli for around 5.37 Cr?", "response": "Yes, there's a 2 BHK in Lodha The Park, Worli, South Mumbai listed for 4.50 Cr."}
+{"prompt": "Are there any low rise apartments in Ghansoli?", "response": "Yes, there's a 3 BHK in Gami Asters, Ghansoli, Navi Mumbai listed for 2.18 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Tagore Nagar around 2.19 Cr?", "response": "Yes, there's a 3 BHK in The Adityaraj Gold, Tagore Nagar, Central Mumbai Suburbs listed for 1.90 Cr."}
+{"prompt": "Can I get a 2 BHK in Goregaon West for less than 1.82 Cr?", "response": "Yes, there's a 2 BHK in Oxford Codename Dreamscape, Goregaon West, Mumbai Andheri-Dahisar listed for 1.53 Cr."}
+{"prompt": "Can I get a 2 BHK in Mulund East for less than 1.79 Cr?", "response": "Yes, there's a 2 BHK in Sainath Madhuban, Mulund East, Central Mumbai Suburbs listed for 1.65 Cr."}
+{"prompt": "What's available in Ulwe under 59 Lakh?", "response": "Yes, there's a 1 BHK in Gayatri Ravechi Jyoti, Ulwe, Navi Mumbai listed for 50 Lakh."}
+{"prompt": "Are there any low rise apartments in Worli?", "response": "Yes, there's a 2 BHK in Lodha The Park, Worli, South Mumbai listed for 4.50 Cr."}
+{"prompt": "What's available in Sector 8 Sanpada under 2.45 Cr?", "response": "Yes, there's a 2 BHK in Kamdhenu Vogue, Sector 8 Sanpada, Navi Mumbai listed for 2.10 Cr."}
+{"prompt": "Show me 4 BHK flats in Mulund East", "response": "Yes, there's a 4 BHK in Lodha Regalia, Mulund East, Central Mumbai Suburbs listed for 2.89 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Naigaon East, preferably under 41 Lakh", "response": "Yes, there's a 1 BHK in Jsb Nakshatra Aarambh, Naigaon East, Mira Road And Beyond listed for 35 Lakh."}
+{"prompt": "Looking for a flat in Jk Gram with at least 0 balconies", "response": "Yes, there's a 2 BHK in Raymond Realty Ten X Habitat, Jk Gram, Thane listed for 1.53 Cr."}
+{"prompt": "Suggest some budget properties in Sector 19 Kharghar", "response": "Yes, there's a 3 BHK in Gauri Priya, Sector 19 Kharghar, Navi Mumbai listed for 1.40 Cr."}
+{"prompt": "Find me a 5 BHK in Vasai West under 1.44 Cr", "response": "Yes, there's a 5 BHK in Ganshyam Park , Vasai West, Mira Road And Beyond listed for 1.32 Cr."}
+{"prompt": "Suggest some luxury properties in Kalher", "response": "Yes, there's a 1 BHK in Dosti Greater Thane, Kalher, Thane listed for 34 Lakh."}
+{"prompt": "Find me a 4 BHK in Ghatkopar East under 4.44 Cr", "response": "Yes, there's a 4 BHK in Mahavir Chhaya Chs Ltd, Ghatkopar East, Central Mumbai Suburbs listed for 3.90 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Byculla, preferably under 2.38 Cr", "response": "Yes, there's a 2 BHK in Ruparel Vivanza, Byculla, Mumbai Harbour listed for 2.10 Cr."}
+{"prompt": "Looking for a flat in Kasar Vadavali with at least 1 balconies", "response": "Yes, there's a 2 BHK in Rosa Gardenia, Kasar Vadavali, Thane listed for 75 Lakh."}
+{"prompt": "Find me a 1 BHK in Vichumbe under 44 Lakh", "response": "Yes, there's a 1 BHK in Neelkanth Vishwa, Vichumbe, Navi Mumbai listed for 40 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Taloja around 47 Lakh?", "response": "Yes, there's a 2 BHK in Crown Taloja By Lodha, Taloja, Navi Mumbai listed for 42 Lakh."}
+{"prompt": "What\u2019s a good 2 BHK option in Sector 35E Kharghar around 1.07 Cr?", "response": "Yes, there's a 2 BHK in Devkrupa Dev Enclave, Sector 35E Kharghar, Navi Mumbai listed for 1.00 Cr."}
+{"prompt": "Suggest some budget properties in Mathuras Road Kandivali", "response": "Yes, there's a 2 BHK in Mathurads Roadchs , Mathuras Road Kandivali, Mumbai Andheri-Dahisar listed for 1.55 Cr."}
+{"prompt": "Looking for a flat in Kolshet Road with at least 1 balconies", "response": "Yes, there's a 1 BHK in Godrej Ascend, Kolshet Road, Thane listed for 81 Lakh."}
+{"prompt": "Can I get a 1 BHK in Powai for less than 1.69 Cr?", "response": "Yes, there's a 1 BHK in Kanakia Silicon Valley, Powai, Central Mumbai Suburbs listed for 1.50 Cr."}
+{"prompt": "Find me a 3 BHK in Bandra East under 6.80 Cr", "response": "Yes, there's a 3 BHK in Rustomjee Seasons, Bandra East, Mumbai South West listed for 6.00 Cr."}
+{"prompt": "Any semifurnished apartments in Goregaon East for around 5.22 Cr?", "response": "Yes, there's a 3 BHK in Lodha Fiorenza, Goregaon East, Mumbai Andheri-Dahisar listed for 4.52 Cr."}
+{"prompt": "Find me a 1 BHK in Mulund East under 1.08 Cr", "response": "Yes, there's a 1 BHK in Alpa Chs, Mulund East, Central Mumbai Suburbs listed for 93 Lakh."}
+{"prompt": "Can I get a 2 BHK in Kalamboli for less than 84 Lakh?", "response": "Yes, there's a 2 BHK in Ddsr Heights, Kalamboli, Navi Mumbai listed for 79 Lakh."}
+{"prompt": "Do you have any listings in Nallasopara with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Indralok Housing Society, Nallasopara, Mira Road And Beyond listed for 34 Lakh."}
+{"prompt": "Any unfurnished apartments in Sector 21 Kharghar for around 1.36 Cr?", "response": "Yes, there's a 2 BHK in Unnati Tower, Sector 21 Kharghar, Navi Mumbai listed for 1.22 Cr."}
+{"prompt": "Are there any low rise apartments in Jvlr?", "response": "Yes, there's a 1 BHK in Kalpataru Vivant, Jvlr, Mumbai Andheri-Dahisar listed for 1.27 Cr."}
+{"prompt": "Any semifurnished apartments in Chembur for around 2.23 Cr?", "response": "Yes, there's a 2 BHK in Purva Clermont, Chembur, Mumbai Harbour listed for 1.97 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Mira Road, preferably under 68 Lakh", "response": "Yes, there's a 1 BHK in Raas Leela Vrindavan, Mira Road, Mira Road And Beyond listed for 62 Lakh."}
+{"prompt": "Are there any low rise apartments in Mulund West?", "response": "Yes, there's a 3 BHK in Transcon Tirumala Habitats, Mulund West, Central Mumbai Suburbs listed for 2.85 Cr."}
+{"prompt": "Do you have any listings in Sector 20 Sanpada with unfurnished furnishing?", "response": "Yes, there's a 4 BHK in Golden Plaaza , Sector 20 Sanpada, Navi Mumbai listed for 9.07 Cr."}
+{"prompt": "Show me 4 BHK flats in Hiranandani Estate", "response": "Yes, there's a 4 BHK in Hiranandani Rodas Enclave, Hiranandani Estate, Thane listed for 5.85 Cr."}
+{"prompt": "Show me 4 BHK flats in Kharghar", "response": "Yes, there's a 4 BHK in Shreeji Divine, Kharghar, Navi Mumbai listed for 3.00 Cr."}
+{"prompt": "Do you have any listings in Mira Bhayandar with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Ananta, Mira Bhayandar, Mira Road And Beyond listed for 77 Lakh."}
+{"prompt": "Are there any low rise apartments in Thane West?", "response": "Yes, there's a 1 BHK in Hiranandani  Solitaire, Thane West, Thane listed for 83 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Asha Nagar around 2.74 Cr?", "response": "Yes, there's a 3 BHK in Shraddha B And C, Asha Nagar, Mumbai Andheri-Dahisar listed for 2.30 Cr."}
+{"prompt": "What's available in Vichumbe under 67 Lakh?", "response": "Yes, there's a 2 BHK in Neelkanth Vishwa, Vichumbe, Navi Mumbai listed for 62 Lakh."}
+{"prompt": "What's available in Chunabhatti under 2.31 Cr?", "response": "Yes, there's a 3 BHK in Mohan Mansion, Chunabhatti, Central Mumbai Suburbs listed for 2.15 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Sector 5 Ulwe, preferably under 1.38 Cr", "response": "Yes, there's a 3 BHK in Shakti Residency, Sector 5 Ulwe, Navi Mumbai listed for 1.20 Cr."}
+{"prompt": "Do you have any listings in Kasar Vadavali with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Raunak Bliss, Kasar Vadavali, Thane listed for 52 Lakh."}
+{"prompt": "Find me a 4 BHK in Juhu under 19.41 Cr", "response": "Yes, there's a 4 BHK in Kalpataru Solitaire, Juhu, Mumbai South West listed for 17.00 Cr."}
+{"prompt": "Can I get a 1 BHK in Dombivli East for less than 28 Lakh?", "response": "Yes, there's a 1 BHK in Lodha Heaven Apartment, Dombivli East, Mumbai Beyond Thane listed for 24 Lakh."}
+{"prompt": "Suggest some budget properties in Majiwada", "response": "Yes, there's a 2 BHK in Rustomjee Urbania, Majiwada, Thane listed for 1.15 Cr."}
+{"prompt": "Suggest some budget properties in Goregaon West", "response": "Yes, there's a 2 BHK in Kalpataru Radiance, Goregaon West, Mumbai Andheri-Dahisar listed for 3.52 Cr."}
+{"prompt": "Show me 3 BHK flats in Mulund West", "response": "Yes, there's a 3 BHK in The Prestige City, Mulund West, Central Mumbai Suburbs listed for 2.26 Cr."}
+{"prompt": "Any semifurnished apartments in Worli for around 9.21 Cr?", "response": "Yes, there's a 3 BHK in Lodha Adrina, Worli, South Mumbai listed for 8.39 Cr."}
+{"prompt": "Are there any mid rise apartments in Karjat?", "response": "Yes, there's a 2 BHK in Rajlaxmi Apartment, Karjat, Mumbai Beyond Thane listed for 44 Lakh."}
+{"prompt": "Do you have any listings in Sector 11 Kamothe with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Shiv Krupa, Sector 11, Kamothe, Sector 11 Kamothe, Navi Mumbai listed for 42 Lakh."}
+{"prompt": "What's available in Vikhroli East under 1.77 Cr?", "response": "Yes, there's a 2 BHK in Metro Crown, Vikhroli East, Central Mumbai Suburbs listed for 1.56 Cr."}
+{"prompt": "Can I get a 2 BHK in Majiwada for less than 1.05 Cr?", "response": "Yes, there's a 2 BHK in Crown Thane Lodha  Quality Homes, Majiwada, Thane listed for 89 Lakh."}
+{"prompt": "Show me 2 BHK flats in Virar West", "response": "Yes, there's a 2 BHK in Agarwal Lifestyle, Virar West, Mira Road And Beyond listed for 55 Lakh."}
+{"prompt": "What's available in Goregaon East under 1.33 Cr?", "response": "Yes, there's a 2 BHK in Avant Hillway, Goregaon East, Mumbai Andheri-Dahisar listed for 1.22 Cr."}
+{"prompt": "Can I get a 2 BHK in Pokharan Road for less than 1.69 Cr?", "response": "Yes, there's a 2 BHK in Raymond Realty Ten X Era, Pokharan Road, Thane listed for 1.43 Cr."}
+{"prompt": "Can I get a 2 BHK in Vikhroli East for less than 1.50 Cr?", "response": "Yes, there's a 2 BHK in Vaibhavlaxmi Royal Stone, Vikhroli East, Central Mumbai Suburbs listed for 1.36 Cr."}
+{"prompt": "Do you have any listings in Chandan Shanti with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Hubtown Gardenia, Chandan Shanti, Mira Road And Beyond listed for 72 Lakh."}
+{"prompt": "Are there any low rise apartments in Ghansoli?", "response": "Yes, there's a 4 BHK in Aurum Q Residences, Ghansoli, Navi Mumbai listed for 4.00 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Chembur, preferably under 3.86 Cr", "response": "Yes, there's a 3 BHK in Tricity Natraj, Chembur, Mumbai Harbour listed for 3.54 Cr."}
+{"prompt": "Show me 3 BHK flats in Hiranandani Estate", "response": "Yes, there's a 3 BHK in Annora Rodas Encalve, Hiranandani Estate, Thane listed for 4.05 Cr."}
+{"prompt": "Show me 2 BHK flats in Sector 18 Kamothe", "response": "Yes, there's a 2 BHK in Arjun Apartment, Sector 18 Kamothe, Navi Mumbai listed for 83 Lakh."}
+{"prompt": "What\u2019s a good 1 BHK option in Kolshet Road around 90 Lakh?", "response": "Yes, there's a 1 BHK in Godrej Ascend, Kolshet Road, Thane listed for 79 Lakh."}
+{"prompt": "Suggest some budget properties in Subhash Nagar", "response": "Yes, there's a 2 BHK in Atul Trans Residency Chs, Subhash Nagar, Mumbai Andheri-Dahisar listed for 1.30 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Manpada, preferably under 1.93 Cr", "response": "Yes, there's a 3 BHK in Acme Dandelia, Manpada, Thane listed for 1.75 Cr."}
+{"prompt": "What's available in Pushpak Nagar under 79 Lakh?", "response": "Yes, there's a 2 BHK in Delta Greens, Pushpak Nagar, Navi Mumbai listed for 72 Lakh."}
+{"prompt": "Looking for a 4 BHK flat in Malad East, preferably under 4.11 Cr", "response": "Yes, there's a 4 BHK in K Raheja Residency, Malad East, Mumbai Andheri-Dahisar listed for 3.63 Cr."}
+{"prompt": "Looking for a flat in Kewale with at least 3 balconies", "response": "Yes, there's a 1 BHK in Praradi Pearl, Kewale, Navi Mumbai listed for 35 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Wadala, preferably under 2.35 Cr", "response": "Yes, there's a 1 BHK in Godrej Horizon, Wadala, Mumbai Harbour listed for 2.00 Cr."}
+{"prompt": "Can I get a 1 BHK in Kanjurmarg West for less than 1.29 Cr?", "response": "Yes, there's a 1 BHK in Sheth Avante, Kanjurmarg West, Central Mumbai Suburbs listed for 1.21 Cr."}
+{"prompt": "Can I get a 3 BHK in Worli for less than 14.28 Cr?", "response": "Yes, there's a 3 BHK in Indiabulls Blu, Worli, South Mumbai listed for 12.80 Cr."}
+{"prompt": "Do you have any listings in Brahmand with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Dosti Eden, Brahmand, Thane listed for 1.11 Cr."}
+{"prompt": "Show me 1 BHK flats in Borivali West", "response": "Yes, there's a 1 BHK in Shivdarshan Apartments, Borivali West, Mumbai Andheri-Dahisar listed for 1.00 Cr."}
+{"prompt": "Are there any mid rise apartments in Chembur East?", "response": "Yes, there's a 1 BHK in Veena Senterio, Chembur East, Mumbai Harbour listed for 1.15 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Kalwa around 1.37 Cr?", "response": "Yes, there's a 2 BHK in Ashar Arize, Kalwa, Thane listed for 1.19 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Kharghar, preferably under 1.32 Cr", "response": "Yes, there's a 2 BHK in Rachana Enclave, Kharghar, Navi Mumbai listed for 1.21 Cr."}
+{"prompt": "Find me a 3 BHK in Powai under 4.98 Cr", "response": "Yes, there's a 3 BHK in Raheja Ascencio, Powai, Central Mumbai Suburbs listed for 4.45 Cr."}
+{"prompt": "Looking for a flat in Borivali East with at least 0 balconies", "response": "Yes, there's a 99 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 9.05 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Marol, preferably under 1.97 Cr", "response": "Yes, there's a 2 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.72 Cr."}
+{"prompt": "Are there any low rise apartments in Mahalaxmi?", "response": "Yes, there's a 3 BHK in Piramal Mahalaxmi, Mahalaxmi, South Mumbai listed for 6.07 Cr."}
+{"prompt": "Do you have any listings in Ghodbunder Road with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Green Sqaure Society, Ghodbunder Road, Thane listed for 48 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Ghansoli, preferably under 78 Lakh", "response": "Yes, there's a 1 BHK in On Request, Ghansoli, Navi Mumbai listed for 72 Lakh."}
+{"prompt": "Show me 2 BHK flats in Sector 22 Kamothe", "response": "Yes, there's a 2 BHK in Hiren Highlife Residency, Sector 22 Kamothe, Navi Mumbai listed for 96 Lakh."}
+{"prompt": "Suggest some budget properties in Shastri Nagar", "response": "Yes, there's a 4 BHK in Lokhandwala Minerva, Shastri Nagar, South Mumbai listed for 17.17 Cr."}
+{"prompt": "Any semifurnished apartments in Shilphata for around 75 Lakh?", "response": "Yes, there's a 2 BHK in Bhoomi Lawns, Shilphata, Navi Mumbai listed for 66 Lakh."}
+{"prompt": "Any semifurnished apartments in Kasar Vadavali for around 58 Lakh?", "response": "Yes, there's a 1 BHK in Raunak Bliss, Kasar Vadavali, Thane listed for 52 Lakh."}
+{"prompt": "Do you have any listings in Balkum with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Ashok Nagar, Balkum, Thane listed for 70 Lakh."}
+{"prompt": "Are there any mid rise apartments in Ghatkopar East?", "response": "Yes, there's a 4 BHK in Garodia Palace Premises Cooperative Society, Ghatkopar East, Central Mumbai Suburbs listed for 4.40 Cr."}
+{"prompt": "Can I get a 2 BHK in Chembur for less than 2.66 Cr?", "response": "Yes, there's a 2 BHK in Thapar Suburbia, Chembur, Mumbai Harbour listed for 2.45 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Hatkesh Udhog Nagar, preferably under 1.09 Cr", "response": "Yes, there's a 2 BHK in Amisha Empire, Hatkesh Udhog Nagar, Mira Road And Beyond listed for 95 Lakh."}
+{"prompt": "Looking for a flat in Kolshet Road with at least 1 balconies", "response": "Yes, there's a 1 BHK in Godrej Ascend, Kolshet Road, Thane listed for 81 Lakh."}
+{"prompt": "Show me 2 BHK flats in Sector 5 Ulwe", "response": "Yes, there's a 2 BHK in Avenue Gomaji Kasturi, Sector 5 Ulwe, Navi Mumbai listed for 82 Lakh."}
+{"prompt": "Looking for a 3 BHK flat in Ghansoli, preferably under 3.04 Cr", "response": "Yes, there's a 3 BHK in Neelkanth Sunberry, Ghansoli, Navi Mumbai listed for 2.57 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Katrap, preferably under 25 Lakh", "response": "Yes, there's a 1 BHK in On Request, Katrap, Mumbai Beyond Thane listed for 23 Lakh."}
+{"prompt": "Show me 3 BHK flats in Panvel", "response": "Yes, there's a 3 BHK in Hiranandani Fortune City, Panvel, Navi Mumbai listed for 1.22 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Vaishali Nagar around 1.76 Cr?", "response": "Yes, there's a 2 BHK in Ashar Maple, Vaishali Nagar, Central Mumbai Suburbs listed for 1.55 Cr."}
+{"prompt": "What's available in Wadala under 2.36 Cr?", "response": "Yes, there's a 1 BHK in Lodha New Cuffe Parade, Wadala, Mumbai Harbour listed for 2.01 Cr."}
+{"prompt": "Show me 1 BHK flats in Sector 21 Kamothe", "response": "Yes, there's a 1 BHK in Kohinoor Complex, Sector 21 Kamothe, Navi Mumbai listed for 55 Lakh."}
+{"prompt": "Do you have any listings in Ambernath with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Patels Zion, Ambernath, Mumbai Beyond Thane listed for 37 Lakh."}
+{"prompt": "Looking for a flat in Thane West with at least 1 balconies", "response": "Yes, there's a 4 BHK in Lodha Sterling, Thane West, Thane listed for 4.99 Cr."}
+{"prompt": "Do you have any listings in Mulund East with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Lodha Regalia, Mulund East, Central Mumbai Suburbs listed for 2.89 Cr."}
+{"prompt": "Find me a 1 BHK in Sector 18 Kamothe under 63 Lakh", "response": "Yes, there's a 1 BHK in Raj Galaxy, Sector 18 Kamothe, Navi Mumbai listed for 56 Lakh."}
+{"prompt": "Suggest some budget properties in Kalamboli", "response": "Yes, there's a 2 BHK in Empire Residency, Kalamboli, Navi Mumbai listed for 78 Lakh."}
+{"prompt": "What\u2019s a good 3 BHK option in Mulund West around 5.69 Cr?", "response": "Yes, there's a 3 BHK in Eternia By Oberoi Realty, Mulund West, Central Mumbai Suburbs listed for 5.00 Cr."}
+{"prompt": "Can I get a 1 BHK in Taloja for less than 40 Lakh?", "response": "Yes, there's a 1 BHK in Arihant 5 Anaika, Taloja, Navi Mumbai listed for 35 Lakh."}
+{"prompt": "Suggest some luxury properties in Dombivli West", "response": "Yes, there's a 2 BHK in Sneh Serene, Dombivli West, Mumbai Beyond Thane listed for 58 Lakh."}
+{"prompt": "Find me a 2 BHK in Majiwada under 1.36 Cr", "response": "Yes, there's a 2 BHK in Rustomjee Urbania, Majiwada, Thane listed for 1.28 Cr."}
+{"prompt": "Any unfurnished apartments in Sector 18 Ulwe for around 92 Lakh?", "response": "Yes, there's a 2 BHK in Vista Heights, Sector 18 Ulwe, Navi Mumbai listed for 85 Lakh."}
+{"prompt": "Looking for a 3 BHK flat in Sector 8 Airoli, preferably under 2.13 Cr", "response": "Yes, there's a 3 BHK in Pacific One Pyramid, Sector 8 Airoli, Navi Mumbai listed for 2.00 Cr."}
+{"prompt": "Do you have any listings in Kavesar with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Soham Tropical Lagoon, Kavesar, Thane listed for 1.99 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Powai, preferably under 4.45 Cr", "response": "Yes, there's a 3 BHK in L And T Emerald Isle, Powai, Central Mumbai Suburbs listed for 3.78 Cr."}
+{"prompt": "Looking for a flat in Sambhaji Nagar with at least 1 balconies", "response": "Yes, there's a 5 BHK in Runwal Sanctuary, Sambhaji Nagar, Central Mumbai Suburbs listed for 6.92 Cr."}
+{"prompt": "Do you have any listings in Sector 8 Sanpada with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Kamdhenu Vogue, Sector 8 Sanpada, Navi Mumbai listed for 4.86 Cr."}
+{"prompt": "Looking for a 3 BHK flat in Ghatkopar East, preferably under 6.16 Cr", "response": "Yes, there's a 3 BHK in Gm Krushal Towers, Ghatkopar East, Central Mumbai Suburbs listed for 5.25 Cr."}
+{"prompt": "Do you have any listings in Panvel with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Arihant Arham, Panvel, Navi Mumbai listed for 51 Lakh."}
+{"prompt": "Show me 2 BHK flats in Andheri West", "response": "Yes, there's a 2 BHK in Acme Sweet 16, Andheri West, Mumbai Andheri-Dahisar listed for 1.90 Cr."}
+{"prompt": "Find me a 2 BHK in Pokharan Road under 1.53 Cr", "response": "Yes, there's a 2 BHK in Raymond Realty Ten X Era, Pokharan Road, Thane listed for 1.43 Cr."}
+{"prompt": "Looking for a flat in Chandivali with at least 0 balconies", "response": "Yes, there's a 1 BHK in Mhada Complex, Chandivali, Central Mumbai Suburbs listed for 1.05 Cr."}
+{"prompt": "What's available in Sector 11 Koparkhairane under 91 Lakh?", "response": "Yes, there's a 1 BHK in Mahavir Vaibhav, Sector 11 Koparkhairane, Navi Mumbai listed for 80 Lakh."}
+{"prompt": "Looking for a 3 BHK flat in Sector 44A Seawoods, preferably under 1.84 Cr", "response": "Yes, there's a 3 BHK in Shree Vrindavan, Sector 44A Seawoods, Navi Mumbai listed for 1.65 Cr."}
+{"prompt": "Are there any low rise apartments in Nerul?", "response": "Yes, there's a 4 BHK in Regency Palms, Nerul, Navi Mumbai listed for 12.50 Cr."}
+{"prompt": "Any semifurnished apartments in Kandivali West for around 1.29 Cr?", "response": "Yes, there's a 2 BHK in Parinee Essence, Kandivali West, Mumbai Andheri-Dahisar listed for 1.11 Cr."}
+{"prompt": "Show me 2 BHK flats in Nerul", "response": "Yes, there's a 2 BHK in Moreshwar 19 East, Nerul, Navi Mumbai listed for 1.78 Cr."}
+{"prompt": "Any semifurnished apartments in Kasar Vadavali for around 1.00 Cr?", "response": "Yes, there's a 2 BHK in Puranik City Phase 3, Kasar Vadavali, Thane listed for 85 Lakh."}
+{"prompt": "Are there any high rise apartments in Wadala?", "response": "Yes, there's a 4 BHK in Lodha New Cuffe Parade Evoq, Wadala, Mumbai Harbour listed for 10.00 Cr."}
+{"prompt": "Show me 1 BHK flats in Chandivali", "response": "Yes, there's a 1 BHK in Crescent Silverwoods, Chandivali, Central Mumbai Suburbs listed for 1.20 Cr."}
+{"prompt": "Find me a 1 BHK in Sector 23 Ulwe under 45 Lakh", "response": "Yes, there's a 1 BHK in Kusum Apartment, Sector 23 Ulwe, Navi Mumbai listed for 40 Lakh."}
+{"prompt": "Any semifurnished apartments in Malad West for around 3.73 Cr?", "response": "Yes, there's a 3 BHK in Triumph Mandlik Nagar Chs, Malad West, Mumbai Andheri-Dahisar listed for 3.40 Cr."}
+{"prompt": "Do you have any listings in Sector 22 Kamothe with unfurnished furnishing?", "response": "Yes, there's a 2 BHK in Hiren Highlife Residency, Sector 22 Kamothe, Navi Mumbai listed for 96 Lakh."}
+{"prompt": "Find me a 2 BHK in Nerul under 2.03 Cr", "response": "Yes, there's a 2 BHK in Moreshwar 19 East, Nerul, Navi Mumbai listed for 1.78 Cr."}
+{"prompt": "Do you have any listings in Sector 15 Kamothe with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Sai Regency, Sector 15 Kamothe, Navi Mumbai listed for 60 Lakh."}
+{"prompt": "Can I get a 2 BHK in Kharghar for less than 1.61 Cr?", "response": "Yes, there's a 2 BHK in Varsha Balaji Park, Kharghar, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Vasai West, preferably under 69 Lakh", "response": "Yes, there's a 2 BHK in Mansarovar Pearl Gardens, Vasai West, Mira Road And Beyond listed for 60 Lakh."}
+{"prompt": "Show me 4 BHK flats in Malad East", "response": "Yes, there's a 4 BHK in Omkar Alta Monte, Malad East, Mumbai Andheri-Dahisar listed for 6.90 Cr."}
+{"prompt": "Show me 99 BHK flats in Kharghar", "response": "Yes, there's a 99 BHK in Shreeji Divine, Kharghar, Navi Mumbai listed for 4.19 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Dhokali around 81 Lakh?", "response": "Yes, there's a 1 BHK in The Icon By Risland, Dhokali, Thane listed for 69 Lakh."}
+{"prompt": "Looking for a 3 BHK flat in Seawoods, preferably under 4.04 Cr", "response": "Yes, there's a 3 BHK in L And T Seawoods Residences, Seawoods, Navi Mumbai listed for 3.80 Cr."}
+{"prompt": "Can I get a 2 BHK in Sector 17 Ulwe for less than 1.18 Cr?", "response": "Yes, there's a 2 BHK in Avicon Levante, Sector 17 Ulwe, Navi Mumbai listed for 1.10 Cr."}
+{"prompt": "Any unfurnished apartments in Mira Road East for around 87 Lakh?", "response": "Yes, there's a 1 BHK in Skd Pinnacolo, Mira Road East, Mira Road And Beyond listed for 75 Lakh."}
+{"prompt": "Do you have any listings in Hiranandani Estate with semifurnished furnishing?", "response": "Yes, there's a 1 BHK in Hiranandani Lavinia, Hiranandani Estate, Thane listed for 87 Lakh."}
+{"prompt": "Do you have any listings in Goregaon East with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Lodha Fiorenza, Goregaon East, Mumbai Andheri-Dahisar listed for 4.30 Cr."}
+{"prompt": "Do you have any listings in Dadar West with furnished furnishing?", "response": "Yes, there's a 4 BHK in Samruddhi Shrimahavir Chs, Dadar West, South Mumbai listed for 7.50 Cr."}
+{"prompt": "Suggest some budget properties in Ghansoli", "response": "Yes, there's a 4 BHK in Satyam Imperial Heights, Ghansoli, Navi Mumbai listed for 5.77 Cr."}
+{"prompt": "What's available in Titwala under 37 Lakh?", "response": "Yes, there's a 1 BHK in Madhuban F Wing, Titwala, Mumbai Beyond Thane listed for 34 Lakh."}
+{"prompt": "Any furnished apartments in Prabhadevi for around 1.35 Cr?", "response": "Yes, there's a 1 BHK in Suryoday Chs. Ltd., Prabhadevi, Mumbai, Prabhadevi, South Mumbai listed for 1.15 Cr."}
+{"prompt": "Can I get a 1 BHK in Sector 4 Kalamboli for less than 37 Lakh?", "response": "Yes, there's a 1 BHK in Sai Nagar, Sector 4 Kalamboli, Navi Mumbai listed for 35 Lakh."}
+{"prompt": "What's available in Model Town under 5.67 Cr?", "response": "Yes, there's a 3 BHK in Platinum Grandeur, Model Town, Mumbai Andheri-Dahisar listed for 5.26 Cr."}
+{"prompt": "Are there any low rise apartments in Jui Nagar?", "response": "Yes, there's a 3 BHK in Raheja Solaris 2, Jui Nagar, Navi Mumbai listed for 2.72 Cr."}
+{"prompt": "Any unfurnished apartments in Aarey Milk Colony for around 1.78 Cr?", "response": "Yes, there's a 3 BHK in Moroccan Cooperative Housing Society, Aarey Milk Colony, Mumbai Andheri-Dahisar listed for 1.65 Cr."}
+{"prompt": "What's available in Thane West under 89 Lakh?", "response": "Yes, there's a 1 BHK in Saket Complex, Thane West, Thane listed for 75 Lakh."}
+{"prompt": "Are there any high rise apartments in Kandarpada?", "response": "Yes, there's a 3 BHK in The Wadhwa Viceroy Park, Kandarpada, Mumbai Andheri-Dahisar listed for 2.65 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Sector 22 Kamothe around 55 Lakh?", "response": "Yes, there's a 1 BHK in Sushil Harmony, Sector 22 Kamothe, Navi Mumbai listed for 50 Lakh."}
+{"prompt": "What's available in Manpada under 1.75 Cr?", "response": "Yes, there's a 2 BHK in Dosti Imperia, Manpada, Thane listed for 1.55 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Ghodbunder Road around 53 Lakh?", "response": "Yes, there's a 1 BHK in Green Sqaure Society, Ghodbunder Road, Thane listed for 48 Lakh."}
+{"prompt": "Looking for a flat in Seven Bunglow with at least 1 balconies", "response": "Yes, there's a 2 BHK in On Request, Seven Bunglow, Mumbai Andheri-Dahisar listed for 2.95 Cr."}
+{"prompt": "Can I get a 2 BHK in Sector 6 Nerul for less than 99 Lakh?", "response": "Yes, there's a 2 BHK in On Request, Sector 6 Nerul, Navi Mumbai listed for 90 Lakh."}
+{"prompt": "Looking for a flat in Goregaon West with at least 1 balconies", "response": "Yes, there's a 2 BHK in Kalpataru Radiance, Goregaon West, Mumbai Andheri-Dahisar listed for 3.52 Cr."}
+{"prompt": "Do you have any listings in Sector 10 Kharghar with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Hi Tech Elite Enclave, Sector 10 Kharghar, Navi Mumbai listed for 1.07 Cr."}
+{"prompt": "Show me 2 BHK flats in Kharghar", "response": "Yes, there's a 2 BHK in Tharwani Riviera, Kharghar, Navi Mumbai listed for 1.15 Cr."}
+{"prompt": "Are there any high rise apartments in Naigaon East?", "response": "Yes, there's a 1 BHK in Navkar City, Naigaon East, Mira Road And Beyond listed for 33 Lakh."}
+{"prompt": "What's available in Kurla West under 96 Lakh?", "response": "Yes, there's a 1 BHK in Ashray Jaswanti Bliss, Kurla West, Central Mumbai Suburbs listed for 85 Lakh."}
+{"prompt": "Can I get a 2 BHK in Andheri West for less than 2.75 Cr?", "response": "Yes, there's a 2 BHK in Silver Arch, Andheri West, Mumbai Andheri-Dahisar listed for 2.52 Cr."}
+{"prompt": "What\u2019s a good 3 BHK option in Panvel around 2.00 Cr?", "response": "Yes, there's a 3 BHK in Hiranandani Fortune City, Panvel, Navi Mumbai listed for 1.70 Cr."}
+{"prompt": "Do you have any listings in Worli with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Lodha The Park Marquise, Worli, South Mumbai listed for 6.79 Cr."}
+{"prompt": "Are there any low rise apartments in Pushpak Nagar?", "response": "Yes, there's a 2 BHK in Delta Greens, Pushpak Nagar, Navi Mumbai listed for 72 Lakh."}
+{"prompt": "Suggest some budget properties in Taloja", "response": "Yes, there's a 2 BHK in Arihant Amisha, Taloja, Navi Mumbai listed for 41 Lakh."}
+{"prompt": "Looking for a 1 BHK flat in Panvel, preferably under 32 Lakh", "response": "Yes, there's a 1 BHK in Shree Vasturachana Vrundavan, Panvel, Navi Mumbai listed for 27 Lakh."}
+{"prompt": "Looking for a 3 BHK flat in Sector 12 Kharghar, preferably under 2.00 Cr", "response": "Yes, there's a 3 BHK in Metro Tulsi Mangalam, Sector 12 Kharghar, Navi Mumbai listed for 1.75 Cr."}
+{"prompt": "Do you have any listings in Sector 15 Kharghar with unfurnished furnishing?", "response": "Yes, there's a 1 BHK in Cidco Spaghetti Complex, Sector 15 Kharghar, Navi Mumbai listed for 62 Lakh."}
+{"prompt": "Find me a 3 BHK in Jui Nagar under 3.34 Cr", "response": "Yes, there's a 3 BHK in Raheja Solaris, Jui Nagar, Navi Mumbai listed for 2.80 Cr."}
+{"prompt": "Looking for a flat in Chembur East with at least 1 balconies", "response": "Yes, there's a 2 BHK in Shree Krishna Pinnacle, Chembur East, Mumbai Harbour listed for 2.02 Cr."}
+{"prompt": "Do you have any listings in Matunga East with semifurnished furnishing?", "response": "Yes, there's a 3 BHK in Johaan Signature Isle, Matunga East, South Mumbai listed for 7.92 Cr."}
+{"prompt": "Show me 2 BHK flats in Mira Road East", "response": "Yes, there's a 2 BHK in Shanti Gardens 8 Park Lane, Mira Road East, Mira Road And Beyond listed for 92 Lakh."}
+{"prompt": "Suggest some budget properties in Ghansoli", "response": "Yes, there's a 3 BHK in Rna Ng Grand Plaza, Ghansoli, Navi Mumbai listed for 2.40 Cr."}
+{"prompt": "Show me 1 BHK flats in Badlapur", "response": "Yes, there's a 1 BHK in Aryan One, Badlapur, Mumbai Beyond Thane listed for 29 Lakh."}
+{"prompt": "Find me a 3 BHK in Shastri Nagar under 4.03 Cr", "response": "Yes, there's a 3 BHK in On Request, Shastri Nagar, Mumbai Andheri-Dahisar listed for 3.75 Cr."}
+{"prompt": "Looking for a flat in Worli with at least 0 balconies", "response": "Yes, there's a 4 BHK in Lodha Marquise, Worli, South Mumbai listed for 7.75 Cr."}
+{"prompt": "What\u2019s a good 2 BHK option in Kasar Vadavali around 1.01 Cr?", "response": "Yes, there's a 2 BHK in Puranik City Phase 3, Kasar Vadavali, Thane listed for 85 Lakh."}
+{"prompt": "Looking for a flat in Borivali East with at least 1 balconies", "response": "Yes, there's a 4 BHK in Sky City By Oberoi Realty, Borivali East, Mumbai Andheri-Dahisar listed for 4.50 Cr."}
+{"prompt": "What's available in Anand Nagar under 62 Lakh?", "response": "Yes, there's a 1 BHK in Rutu Enclave, Anand Nagar, Thane listed for 53 Lakh."}
+{"prompt": "Suggest some budget properties in Nerul", "response": "Yes, there's a 4 BHK in Regency Palms, Nerul, Navi Mumbai listed for 11.00 Cr."}
+{"prompt": "Suggest some luxury properties in Worli", "response": "Yes, there's a 2 BHK in Lodha The Park, Worli, South Mumbai listed for 4.59 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Sector 26 Vashi around 83 Lakh?", "response": "Yes, there's a 1 BHK in Shree Ganesh Krupa, Sector 26 Vashi, Navi Mumbai listed for 70 Lakh."}
+{"prompt": "Suggest some budget properties in Borivali West", "response": "Yes, there's a 2 BHK in Bhoomi Saraswati, Borivali West, Mumbai Andheri-Dahisar listed for 1.84 Cr."}
+{"prompt": "What\u2019s a good 1 BHK option in Kolshet Road around 85 Lakh?", "response": "Yes, there's a 1 BHK in Lodha Amara, Kolshet Road, Thane listed for 79 Lakh."}
+{"prompt": "Do you have any listings in Balkum with semifurnished furnishing?", "response": "Yes, there's a 2 BHK in Runwal Eirene, Balkum, Thane listed for 1.02 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Ambernath, preferably under 35 Lakh", "response": "Yes, there's a 2 BHK in Patel Prayosha Pramukh Sadan, Ambernath, Mumbai Beyond Thane listed for 30 Lakh."}
+{"prompt": "Suggest some budget properties in Vijay Nagari", "response": "Yes, there's a 3 BHK in Vijay Annex, Vijay Nagari, Thane listed for 1.70 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Kannamwar Nagar 1, preferably under 1.31 Cr", "response": "Yes, there's a 2 BHK in Vaibhavlaxmi Olympus Vikhroli East, Kannamwar Nagar 1, Central Mumbai Suburbs listed for 1.18 Cr."}
+{"prompt": "What\u2019s a good 4 BHK option in Nerul around 13.81 Cr?", "response": "Yes, there's a 4 BHK in Regency Palms, Nerul, Navi Mumbai listed for 12.50 Cr."}
+{"prompt": "Any unfurnished apartments in Juhu for around 17.43 Cr?", "response": "Yes, there's a 4 BHK in On Request, Juhu, Mumbai South West listed for 14.70 Cr."}
+{"prompt": "Suggest some budget properties in Sector 20 Nerul", "response": "Yes, there's a 3 BHK in On  Request, Sector 20 Nerul, Navi Mumbai listed for 1.50 Cr."}
+{"prompt": "Any semifurnished apartments in Santacruz West for around 5.18 Cr?", "response": "Yes, there's a 2 BHK in Pebbles Marina Apartments, Santacruz West, Mumbai South West listed for 4.55 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Worli, preferably under 6.78 Cr", "response": "Yes, there's a 2 BHK in Lodha Adrina, Worli, South Mumbai listed for 6.03 Cr."}
+{"prompt": "Do you have any listings in Powai with unfurnished furnishing?", "response": "Yes, there's a 3 BHK in L And T Emerald Isle, Powai, Central Mumbai Suburbs listed for 3.78 Cr."}
+{"prompt": "Show me 4 BHK flats in Borivali West", "response": "Yes, there's a 4 BHK in D S The Corner, Borivali West, Mumbai Andheri-Dahisar listed for 4.50 Cr."}
+{"prompt": "Show me 1 BHK flats in New Panvel Sec 15A", "response": "Yes, there's a 1 BHK in Sai Plaza Chs Sec 15A New Pancel, New Panvel Sec 15A, Navi Mumbai listed for 65 Lakh."}
+{"prompt": "Find me a 2 BHK in Marol under 2.32 Cr", "response": "Yes, there's a 2 BHK in Sheth Vasant Blossom, Marol, Mumbai Andheri-Dahisar listed for 1.95 Cr."}
+{"prompt": "Can I get a 3 BHK in Devipada for less than 3.16 Cr?", "response": "Yes, there's a 3 BHK in Ambrosia Apartments, Devipada, Mumbai Andheri-Dahisar listed for 3.00 Cr."}
+{"prompt": "Find me a 2 BHK in Santacruz West under 3.69 Cr", "response": "Yes, there's a 2 BHK in Midcity Green Mansion, Santacruz West, Mumbai South West listed for 3.50 Cr."}
+{"prompt": "Suggest some budget properties in Pali Hill", "response": "Yes, there's a 3 BHK in Solomon Chs, Pali Hill, Mumbai South West listed for 4.50 Cr."}
+{"prompt": "Any furnished apartments in Chembur East for around 4.61 Cr?", "response": "Yes, there's a 3 BHK in Le Jardin, Chembur East, Mumbai Harbour listed for 3.88 Cr."}
+{"prompt": "Show me 3 BHK flats in Chembur East", "response": "Yes, there's a 3 BHK in Le Jardin, Chembur East, Mumbai Harbour listed for 3.88 Cr."}
+{"prompt": "What's available in Mulund West under 2.01 Cr?", "response": "Yes, there's a 2 BHK in Laxmi Royal Classic, Mulund West, Central Mumbai Suburbs listed for 1.80 Cr."}
+{"prompt": "Suggest some budget properties in Kandivali East", "response": "Yes, there's a 1 BHK in Sheth Vasant Utsav, Kandivali East, Mumbai Andheri-Dahisar listed for 1.10 Cr."}
+{"prompt": "Looking for a flat in Marol with at least 0 balconies", "response": "Yes, there's a 1 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.29 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Hiranandani Estate, preferably under 2.14 Cr", "response": "Yes, there's a 2 BHK in Hiranandani Delanna, Hiranandani Estate, Thane listed for 1.80 Cr."}
+{"prompt": "What's available in Kanjurmarg West under 2.65 Cr?", "response": "Yes, there's a 3 BHK in Sheth Avante, Kanjurmarg West, Central Mumbai Suburbs listed for 2.49 Cr."}
+{"prompt": "Do you have any listings in Jijamata Nagar with semifurnished furnishing?", "response": "Yes, there's a 4 BHK in Bhagwati Eleganza, Jijamata Nagar, Navi Mumbai listed for 4.32 Cr."}
+{"prompt": "Suggest some budget properties in Kannamwar Nagar 1", "response": "Yes, there's a 2 BHK in Vaibhavlaxmi Olympus Vikhroli East, Kannamwar Nagar 1, Central Mumbai Suburbs listed for 1.18 Cr."}
+{"prompt": "Looking for a flat in Marol with at least 0 balconies", "response": "Yes, there's a 1 BHK in Sheth Vasant Oasis, Marol, Mumbai Andheri-Dahisar listed for 1.35 Cr."}
+{"prompt": "What's available in Sector 8 Sanpada under 5.10 Cr?", "response": "Yes, there's a 4 BHK in Kamdhenu Vogue, Sector 8 Sanpada, Navi Mumbai listed for 4.68 Cr."}
+{"prompt": "Looking for a 2 BHK flat in Vashi, preferably under 2.51 Cr", "response": "Yes, there's a 2 BHK in Ev 10 Marina Bay, Vashi, Navi Mumbai listed for 2.25 Cr."}
+{"prompt": "Looking for a 1 BHK flat in Mulund West, preferably under 1.72 Cr", "response": "Yes, there's a 1 BHK in Atmosphere O2, Mulund West, Central Mumbai Suburbs listed for 1.60 Cr."}
+{"prompt": "Are there any low rise apartments in Dronagiri?", "response": "Yes, there's a 2 BHK in Prajapati Magnum, Dronagiri, Navi Mumbai listed for 85 Lakh."}
+{"prompt": "Find me a 1 BHK in Thakurli under 73 Lakh", "response": "Yes, there's a 1 BHK in Sarvodaya Mangal Chs, Thakurli, Mumbai Beyond Thane listed for 65 Lakh."}
+{"prompt": "What's available in Sector 24 Kamothe under 1.15 Cr?", "response": "Yes, there's a 2 BHK in Shree Balaji Planet Venus, Sector 24 Kamothe, Navi Mumbai listed for 1.01 Cr."}
