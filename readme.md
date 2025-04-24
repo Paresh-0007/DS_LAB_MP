@@ -83,7 +83,7 @@ cd your-repo
   ```
 - **Paste the API URL at line 12**
   ```python
-  API_URL = "https://your-colab-api.ngrok-free.app"
+  url = "https://your-colab-api.ngrok-free.app"
   ```
 
 ️⚠️ *Note*: The chatbot will keep working **until your Colab session is live**.
